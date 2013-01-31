@@ -1,0 +1,155 @@
+1	Accorder Paladin	Kekai Kotaki	White	U	Mirrodin Besieged
+2	Ardent Recruit	Mike Bierek	White	C	Mirrodin Besieged
+3	Banishment Decree	James Ryman	White	C	Mirrodin Besieged
+39	Black Sun's Zenith	Daniel Ljunggren	Black	R	Mirrodin Besieged
+98	Bladed Sentinel	Tomasz Jedruszek		C	Mirrodin Besieged
+99	Blightsteel Colossus	Chris Rahn		M	Mirrodin Besieged
+77	Blightwidow	Daniel Ljunggren	Green	C	Mirrodin Besieged
+58	Blisterstick Shaman	Svetlin Velinov	Red	C	Mirrodin Besieged
+20	Blue Sun's Zenith	Izzy	Blue	R	Mirrodin Besieged
+100	Bonehoard	Chippy		R	Mirrodin Besieged
+101	Brass Squire	Ryan Pancoast		U	Mirrodin Besieged
+59	Burn the Impure	Nic Klein	Red	C	Mirrodin Besieged
+40	Caustic Hound	Dave Allsop	Black	C	Mirrodin Besieged
+4	Choking Fumes	Scott Chou	White	U	Mirrodin Besieged
+60	Concussive Bolt	Johann Bodin	Red	C	Mirrodin Besieged
+21	Consecrated Sphinx	Mark Zug	Blue	M	Mirrodin Besieged
+144	Contested War Zone	Scott Chou		R	Mirrodin Besieged
+102	Copper Carapace	Franz Vohwinkel		C	Mirrodin Besieged
+103	Core Prowler	Dave Allsop		U	Mirrodin Besieged
+22	Corrupted Conscience	Jason Chan	Blue	U	Mirrodin Besieged
+78	Creeping Corrosion	Ryan Pancoast	Green	R	Mirrodin Besieged
+61	Crush	Matt Stewart	Red	C	Mirrodin Besieged
+23	Cryptoplasm	Eric Deschamps	Blue	R	Mirrodin Besieged
+104	Darksteel Plate	Daniel Ljunggren		R	Mirrodin Besieged
+105	Decimator Web	Daniel Ljunggren		R	Mirrodin Besieged
+24	Distant Memories	Karl Kopinski	Blue	R	Mirrodin Besieged
+5	Divine Offering	Terese Nielsen	White	C	Mirrodin Besieged
+106	Dross Ripper	David Rapoza		C	Mirrodin Besieged
+79	Fangren Marauder	James Ryman	Green	C	Mirrodin Besieged
+107	Flayer Husk	Igor Kieryluk		C	Mirrodin Besieged
+41	Flensermite	Dave Allsop	Black	C	Mirrodin Besieged
+42	Flesh-Eater Imp	Johann Bodin	Black	U	Mirrodin Besieged
+154	Forest	Mark Tedin		L	Mirrodin Besieged
+155	Forest	Mark Tedin		L	Mirrodin Besieged
+6	Frantic Salvage	Scott Chou	White	C	Mirrodin Besieged
+25	Fuel for the Cause	Steven Belledin	Blue	C	Mirrodin Besieged
+62	Galvanoth	Kev Walker	Red	R	Mirrodin Besieged
+96	Glissa, the Traitor	Chris Rahn	Black/Green	M	Mirrodin Besieged
+80	Glissa's Courier	Dave Kendall	Green	C	Mirrodin Besieged
+63	Gnathosaur	Jason Chan	Red	C	Mirrodin Besieged
+43	Go for the Throat	David Rapoza	Black	U	Mirrodin Besieged
+64	Goblin Wardriver	Chippy	Red	U	Mirrodin Besieged
+7	Gore Vassal	Matt Cavotta	White	U	Mirrodin Besieged
+81	Green Sun's Zenith	David Rapoza	Green	R	Mirrodin Besieged
+44	Gruesome Encore	Adrian Smith	Black	U	Mirrodin Besieged
+108	Gust-Skimmer	Dan Scott		C	Mirrodin Besieged
+65	Hellkite Igniter	Jason Chan	Red	R	Mirrodin Besieged
+8	Hero of Bladehold	Austin Hsu	White	M	Mirrodin Besieged
+66	Hero of Oxid Ridge	Eric Deschamps	Red	M	Mirrodin Besieged
+109	Hexplate Golem	Matt Cavotta		C	Mirrodin Besieged
+45	Horrifying Revelation	Shelly Wan	Black	C	Mirrodin Besieged
+110	Ichor Wellspring	Steven Belledin		C	Mirrodin Besieged
+145	Inkmoth Nexus	Jung Park		R	Mirrodin Besieged
+67	Into the Core	Whit Brachna	Red	U	Mirrodin Besieged
+148	Island	Jung Park		L	Mirrodin Besieged
+149	Island	Jung Park		L	Mirrodin Besieged
+9	Kemba's Legion	Anthony Francisco	White	U	Mirrodin Besieged
+111	Knowledge Pool	Mike Bierek		R	Mirrodin Besieged
+68	Koth's Courier	Wayne Reynolds	Red	C	Mirrodin Besieged
+69	Kuldotha Flamefiend	Raymond Swanland	Red	U	Mirrodin Besieged
+70	Kuldotha Ringleader	Greg Staples	Red	C	Mirrodin Besieged
+82	Lead the Stampede	Efrem Palacios	Green	U	Mirrodin Besieged
+10	Leonin Relic-Warder	Greg Staples	White	U	Mirrodin Besieged
+11	Leonin Skyhunter	Jana Schirmer & Johannes Voss	White	C	Mirrodin Besieged
+12	Loxodon Partisan	Matt Stewart	White	C	Mirrodin Besieged
+112	Lumengrid Gargoyle	Randis Albion		U	Mirrodin Besieged
+113	Magnetic Mine	David Rapoza		R	Mirrodin Besieged
+46	Massacre Wurm	Jason Chan	Black	M	Mirrodin Besieged
+13	Master's Call	David Rapoza	White	C	Mirrodin Besieged
+83	Melira's Keepers	Eric Deschamps	Green	U	Mirrodin Besieged
+71	Metallic Mastery	Erica Yang	Red	U	Mirrodin Besieged
+14	Mirran Crusader	Eric Deschamps	White	R	Mirrodin Besieged
+84	Mirran Mettle	Karl Kopinski	Green	C	Mirrodin Besieged
+26	Mirran Spy	Dave Kendall	Blue	C	Mirrodin Besieged
+114	Mirrorworks	John Avon		R	Mirrodin Besieged
+27	Mitotic Manipulation	Dan Scott	Blue	R	Mirrodin Besieged
+47	Morbid Plunder	Mike Bierek	Black	C	Mirrodin Besieged
+115	Mortarpod	Eric Deschamps		U	Mirrodin Besieged
+152	Mountain	Tomasz Jedruszek		L	Mirrodin Besieged
+153	Mountain	Tomasz Jedruszek		L	Mirrodin Besieged
+116	Myr Sire	Jaime Jones		C	Mirrodin Besieged
+117	Myr Turbine	Randis Albion		R	Mirrodin Besieged
+118	Myr Welder	Austin Hsu		R	Mirrodin Besieged
+48	Nested Ghoul	Dave Kendall	Black	U	Mirrodin Besieged
+28	Neurok Commando	Matt Stewart	Blue	U	Mirrodin Besieged
+29	Oculus	Dan Scott	Blue	C	Mirrodin Besieged
+72	Ogre Resister	Efrem Palacios	Red	C	Mirrodin Besieged
+119	Peace Strider	Igor Kieryluk		U	Mirrodin Besieged
+49	Phyresis	Izzy	Black	C	Mirrodin Besieged
+50	Phyrexian Crusader	Eric Deschamps	Black	R	Mirrodin Besieged
+120	Phyrexian Digester	Dave Allsop		C	Mirrodin Besieged
+85	Phyrexian Hydra	Mike Bierek	Green	R	Mirrodin Besieged
+121	Phyrexian Juggernaut	Kev Walker		U	Mirrodin Besieged
+51	Phyrexian Rager	Stephan Martiniere	Black	C	Mirrodin Besieged
+15	Phyrexian Rebirth	Scott Chou	White	R	Mirrodin Besieged
+122	Phyrexian Revoker	Kev Walker		R	Mirrodin Besieged
+52	Phyrexian Vatmother	Stephan Martiniere	Black	R	Mirrodin Besieged
+123	Pierce Strider	Igor Kieryluk		U	Mirrodin Besieged
+124	Piston Sledge	Pete Venters		U	Mirrodin Besieged
+86	Pistus Strike	Jaime Jones	Green	C	Mirrodin Besieged
+125	Plague Myr	Efrem Palacios		U	Mirrodin Besieged
+87	Plaguemaw Beast	Whit Brachna	Green	U	Mirrodin Besieged
+146	Plains	James Paick		L	Mirrodin Besieged
+147	Plains	James Paick		L	Mirrodin Besieged
+88	Praetor's Counsel	Daarken	Green	M	Mirrodin Besieged
+16	Priests of Norn	Igor Kieryluk	White	C	Mirrodin Besieged
+126	Psychosis Crawler	Stephan Martiniere		R	Mirrodin Besieged
+30	Quicksilver Geyser	Erica Yang	Blue	C	Mirrodin Besieged
+89	Quilled Slagwurm	Matt Stewart	Green	U	Mirrodin Besieged
+73	Rally the Forces	Steven Belledin	Red	C	Mirrodin Besieged
+127	Razorfield Rhino	Kekai Kotaki		C	Mirrodin Besieged
+74	Red Sun's Zenith	Svetlin Velinov	Red	R	Mirrodin Besieged
+90	Rot Wolf	Nils Hamm	Green	C	Mirrodin Besieged
+128	Rusted Slasher	Adrian Smith		C	Mirrodin Besieged
+53	Sangromancer	Igor Kieryluk	Black	R	Mirrodin Besieged
+54	Scourge Servant	Daarken	Black	C	Mirrodin Besieged
+55	Septic Rats	Cos Koniotis	Black	U	Mirrodin Besieged
+31	Serum Raker	Austin Hsu	Blue	C	Mirrodin Besieged
+129	Shimmer Myr	Jana Schirmer & Johannes Voss		R	Mirrodin Besieged
+130	Shriekhorn	Erica Yang		C	Mirrodin Besieged
+131	Signal Pest	Mark Zug		U	Mirrodin Besieged
+132	Silverskin Armor	Terese Nielsen		U	Mirrodin Besieged
+133	Skinwing	Igor Kieryluk		U	Mirrodin Besieged
+75	Slagstorm	Dan Scott	Red	R	Mirrodin Besieged
+134	Sphere of the Suns	Jana Schirmer & Johannes Voss		U	Mirrodin Besieged
+135	Spin Engine	Pete Venters		C	Mirrodin Besieged
+136	Spine of Ish Sah	Daniel Ljunggren		R	Mirrodin Besieged
+76	Spiraling Duelist	Karl Kopinski	Red	U	Mirrodin Besieged
+32	Spire Serpent	Johann Bodin	Blue	C	Mirrodin Besieged
+56	Spread the Sickness	Jaime Jones	Black	C	Mirrodin Besieged
+33	Steel Sabotage	Daarken	Blue	C	Mirrodin Besieged
+137	Strandwalker	Igor Kieryluk		U	Mirrodin Besieged
+150	Swamp	Lars Grant-West		L	Mirrodin Besieged
+151	Swamp	Lars Grant-West		L	Mirrodin Besieged
+138	Sword of Feast and Famine	Chris Rahn		M	Mirrodin Besieged
+139	Tangle Hulk	Mark Zug		C	Mirrodin Besieged
+91	Tangle Mantis	Chris Rahn	Green	C	Mirrodin Besieged
+97	Tezzeret, Agent of Bolas	Aleksi Briclot	Blue/Black	M	Mirrodin Besieged
+140	Thopter Assembly	Volkan Baga		R	Mirrodin Besieged
+92	Thrun, the Last Troll	Jason Chan	Green	M	Mirrodin Besieged
+17	Tine Shrike	Adrian Smith	White	C	Mirrodin Besieged
+141	Titan Forge	Svetlin Velinov		R	Mirrodin Besieged
+142	Training Drone	Matt Cavotta		C	Mirrodin Besieged
+34	Treasure Mage	Ryan Pancoast	Blue	U	Mirrodin Besieged
+35	Turn the Tide	Jason Felix	Blue	C	Mirrodin Besieged
+93	Unnatural Predation	Shelly Wan	Green	C	Mirrodin Besieged
+36	Vedalken Anatomist	Greg Staples	Blue	U	Mirrodin Besieged
+37	Vedalken Infuser	Ryan Pancoast	Blue	U	Mirrodin Besieged
+18	Victory's Herald	rk post	White	R	Mirrodin Besieged
+143	Viridian Claw	Marc Simonetti		U	Mirrodin Besieged
+94	Viridian Corrupter	Matt Cavotta	Green	U	Mirrodin Besieged
+95	Viridian Emissary	Matt Stewart	Green	C	Mirrodin Besieged
+57	Virulent Wound	Whit Brachna	Black	C	Mirrodin Besieged
+38	Vivisection	Anthony Francisco	Blue	C	Mirrodin Besieged
+19	White Sun's Zenith	Mike Bierek	White	R	Mirrodin Besieged

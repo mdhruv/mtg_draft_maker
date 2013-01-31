@@ -1,0 +1,145 @@
+40	Absorb Vis	Brandon Kitkouski	Black	C	Conflux
+1	Aerie Mystics	Mark Zug	White	U	Conflux
+141	Ancient Ziggurat	John Avon		U	Conflux
+98	Apocalypse Hydra	Jason Chan	Red/Green	M	Conflux
+134	Armillary Sphere	Franz Vohwinkel		C	Conflux
+2	Asha's Favor	Donato Giancola	White	C	Conflux
+3	Aven Squire	David Palumbo	White	C	Conflux
+4	Aven Trailblazer	Chris Rahn	White	C	Conflux
+58	Banefire	Raymond Swanland	Red	R	Conflux
+78	Beacon Behemoth	Jesper Ejsing	Green	C	Conflux
+99	Blood Tyrant	Karl Kopinski	Blue/Black/Red	R	Conflux
+59	Bloodhall Ooze	Jaime Jones	Red	R	Conflux
+135	Bone Saw	Pete Venters		C	Conflux
+21	Brackwater Elemental	Thomas M. Baxa	Blue	C	Conflux
+60	Canyon Minotaur	Steve Prescott	Red	C	Conflux
+5	Celestial Purge	David Palumbo	White	U	Conflux
+100	Charnelhoard Wurm	Lars Grant-West	Black/Red/Green	R	Conflux
+101	Child of Alara	Steve Argyle	White/Blue/Black/Red/Green	M	Conflux
+79	Cliffrunner Behemoth	Wayne Reynolds	Green	R	Conflux
+102	Conflux	Karl Kopinski	White/Blue/Black/Red/Green	M	Conflux
+22	Constricting Tendrils	David Palumbo	Blue	C	Conflux
+23	Controlled Instincts	Ralph Horsley	Blue	U	Conflux
+41	Corrupted Roots	Mark Hyzer	Black	U	Conflux
+103	Countersquall	Anthony Francisco	Blue/Black	U	Conflux
+6	Court Homunculus	Matt Cavotta	White	C	Conflux
+24	Cumber Stone	Warren Mahy	Blue	U	Conflux
+80	Cylian Sunsinger	Jesper Ejsing	Green	R	Conflux
+61	Dark Temper	Jaime Jones	Red	C	Conflux
+7	Darklit Gargoyle	Howard Lyon	White	C	Conflux
+42	Drag Down	Trevor Claxton	Black	C	Conflux
+62	Dragonsoul Knight	Justin Sweet	Red	U	Conflux
+43	Dreadwing	Mark Hyzer	Black	U	Conflux
+104	Elder Mastery	Dave Allsop	Blue/Black/Red	U	Conflux
+81	Ember Weaver	Steve Prescott	Green	C	Conflux
+105	Esper Cormorants	Warren Mahy	White/Blue	C	Conflux
+25	Esperzoa	Warren Mahy	Blue	U	Conflux
+26	Ethersworn Adjudicator	Dan Scott	Blue	M	Conflux
+142	Exotic Orchard	Steven Belledin		R	Conflux
+106	Exploding Borders	Zoltan Boros & Gabor Szikszai	Red/Green	C	Conflux
+44	Extractor Demon	Carl Critchlow	Black	R	Conflux
+27	Faerie Mechanist	Matt Cavotta	Blue	C	Conflux
+63	Fiery Fall	Daarken	Red	C	Conflux
+82	Filigree Fracture	Howard Lyon	Green	U	Conflux
+45	Fleshformer	Dave Kendall	Black	U	Conflux
+136	Font of Mythos	Dave Allsop		R	Conflux
+28	Frontline Sage	Volkan Baga	Blue	C	Conflux
+107	Fusion Elemental	Michael Komarck	White/Blue/Black/Red/Green	U	Conflux
+108	Giltspire Avenger	Chris Rahn	White/Blue/Green	R	Conflux
+8	Gleam of Resistance	Matt Stewart	White	C	Conflux
+83	Gluttonous Slime	Trevor Claxton	Green	U	Conflux
+109	Goblin Outlander	Trevor Claxton	Black/Red	C	Conflux
+64	Goblin Razerunners	Raymond Swanland	Red	R	Conflux
+29	Grixis Illusionist	Mark Tedin	Blue	C	Conflux
+46	Grixis Slavedriver	Dave Kendall	Black	U	Conflux
+110	Gwafa Hazid, Profiteer	Todd Lockwood	White/Blue	R	Conflux
+111	Hellkite Hatchling	Daarken	Red/Green	U	Conflux
+65	Hellspark Elemental	Justin Sweet	Red	U	Conflux
+66	Ignite Disorder	Zoltan Boros & Gabor Szikszai	Red	U	Conflux
+47	Infectious Horror	Pete Venters	Black	C	Conflux
+30	Inkwell Leviathan	Anthony Francisco	Blue	R	Conflux
+112	Jhessian Balmgiver	David Palumbo	White/Blue	U	Conflux
+137	Kaleidostone	Chippy		C	Conflux
+48	Kederekt Parasite	Dan Scott	Black	R	Conflux
+113	Knight of the Reliquary	Michael Komarck	White/Green	R	Conflux
+114	Knotvine Mystic	Ariel Olivetti	White/Red/Green	U	Conflux
+67	Kranioceros	Steve Argyle	Red	C	Conflux
+9	Lapse of Certainty	Anthony Francisco	White	C	Conflux
+115	Maelstrom Archangel	Cyril Van Der Haegen	White/Blue/Black/Red/Green	M	Conflux
+116	Magister Sphinx	Steven Belledin	White/Blue/Black	R	Conflux
+117	Malfegor	Jason Chan	Black/Red	M	Conflux
+138	Mana Cylix	Howard Lyon		C	Conflux
+139	Manaforce Mace	Jeremy Jarvis		U	Conflux
+68	Maniacal Rage	Brandon Kitkouski	Red	C	Conflux
+10	Mark of Asylum	Sal Villagran	White	R	Conflux
+11	Martial Coup	Greg Staples	White	R	Conflux
+31	Master Transmuter	Chippy	Blue	R	Conflux
+84	Matca Rioters	Steve Argyle	Green	C	Conflux
+118	Meglonoth	Steve Prescott	White/Red/Green	R	Conflux
+85	Might of Alara	Steve Prescott	Green	C	Conflux
+12	Mirror-Sigil Sergeant	Chris Rahn	White	M	Conflux
+69	Molten Frame	Izzy	Red	C	Conflux
+13	Nacatl Hunt-Pride	Steve Prescott	White	U	Conflux
+119	Nacatl Outlander	Zoltan Boros & Gabor Szikszai	Red/Green	C	Conflux
+86	Nacatl Savage	Parente	Green	C	Conflux
+120	Nicol Bolas, Planeswalker	D. Alexander Gregory	Blue/Black/Red	M	Conflux
+87	Noble Hierarch	Mark Zug	Green	R	Conflux
+49	Nyxathid	Raymond Swanland	Black	R	Conflux
+140	Obelisk of Alara	Jeremy Jarvis		R	Conflux
+88	Paleoloth	Christopher Moeller	Green	R	Conflux
+14	Paragon of the Amesha	Chris Rahn	White	U	Conflux
+32	Parasitic Strix	Steven Belledin	Blue	C	Conflux
+15	Path to Exile	Todd Lockwood	White	U	Conflux
+50	Pestilent Kathari	Dave Kendall	Black	C	Conflux
+121	Progenitus	Jaime Jones	White/Blue/Black/Red/Green	M	Conflux
+70	Quenchable Fire	Jean-Sébastien Rossbach	Red	C	Conflux
+71	Rakka Mar	Jason Chan	Red	R	Conflux
+143	Reliquary Tower	Jesper Ejsing		U	Conflux
+122	Rhox Bodyguard	Sal Villagran	White/Green	C	Conflux
+16	Rhox Meditant	Donato Giancola	White	C	Conflux
+51	Rotting Rats	Dave Allsop	Black	C	Conflux
+144	Rupture Spire	Jaime Jones		C	Conflux
+89	Sacellum Archers	Kev Walker	Green	U	Conflux
+52	Salvage Slasher	Anthony Francisco	Black	C	Conflux
+123	Scarland Thrinax	Daarken	Black/Red/Green	U	Conflux
+90	Scattershot Archer	Steve Argyle	Green	C	Conflux
+17	Scepter of Dominance	Howard Lyon	White	R	Conflux
+53	Scepter of Fugue	Franz Vohwinkel	Black	R	Conflux
+33	Scepter of Insight	Steven Belledin	Blue	R	Conflux
+34	Scornful Æther-Lich	Steven Belledin	Blue	U	Conflux
+54	Sedraxis Alchemist	Karl Kopinski	Black	C	Conflux
+124	Shambling Remains	Nils Hamm	Black/Red	U	Conflux
+91	Shard Convergence	Vance Kovacs	Green	U	Conflux
+18	Sigil of the Empty Throne	Cyril Van Der Haegen	White	R	Conflux
+125	Skyward Eye Prophets	Matt Stewart	White/Blue/Green	U	Conflux
+126	Sludge Strider	Franz Vohwinkel	White/Blue/Black	U	Conflux
+92	Soul's Majesty	Jesper Ejsing	Green	R	Conflux
+127	Sphinx Summoner	Jaime Jones	Blue/Black	R	Conflux
+93	Spore Burst	Daarken	Green	U	Conflux
+128	Suicidal Charge	Daarken	Black/Red	C	Conflux
+94	Sylvan Bounty	Chris Rahn	Green	C	Conflux
+35	Telemin Performance	Izzy	Blue	R	Conflux
+95	Thornling	Kev Walker	Green	M	Conflux
+72	Toxic Iguanar	Brandon Kitkouski	Red	C	Conflux
+36	Traumatic Visions	Cyril Van Der Haegen	Blue	C	Conflux
+96	Tukatongue Thallid	Vance Kovacs	Green	C	Conflux
+145	Unstable Frontier	John Avon		U	Conflux
+37	Unsummon	Izzy	Blue	C	Conflux
+129	Vagrant Plowbeasts	Zoltan Boros & Gabor Szikszai	White/Green	U	Conflux
+130	Valeron Outlander	Matt Stewart	White/Green	C	Conflux
+19	Valiant Guard	Chris Rahn	White	C	Conflux
+131	Vectis Agents	Chippy	Blue/Black	C	Conflux
+132	Vedalken Outlander	Izzy	White/Blue	C	Conflux
+73	Viashino Slaughtermaster	Raymond Swanland	Red	U	Conflux
+38	View from Above	Howard Lyon	Blue	U	Conflux
+55	Voices from the Void	rk post	Black	U	Conflux
+74	Volcanic Fallout	Zoltan Boros & Gabor Szikszai	Red	U	Conflux
+75	Voracious Dragon	Dominick Domingo	Red	R	Conflux
+20	Wall of Reverence	Wayne Reynolds	White	R	Conflux
+76	Wandering Goblins	Karl Kopinski	Red	C	Conflux
+97	Wild Leotau	Michael Komarck	Green	C	Conflux
+77	Worldheart Phoenix	Aleksi Briclot	Red	R	Conflux
+39	Worldly Counsel	Matt Cavotta	Blue	C	Conflux
+56	Wretched Banquet	Nils Hamm	Black	C	Conflux
+57	Yoke of the Damned	Paul Bonner	Black	C	Conflux
+133	Zombie Outlander	Nils Hamm	Blue/Black	C	Conflux

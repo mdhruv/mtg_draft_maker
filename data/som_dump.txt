@@ -1,0 +1,249 @@
+1	Abuna Acolyte	Igor Kieryluk	White	U	Scars of Mirrodin
+136	Accorder's Shield	Alan Pollack		C	Scars of Mirrodin
+108	Acid Web Spider	Austin Hsu	Green	U	Scars of Mirrodin
+109	Alpha Tyrranax	Dave Kendall	Green	C	Scars of Mirrodin
+81	Arc Trail	Marc Simonetti	Red	U	Scars of Mirrodin
+28	Argent Sphinx	Chris Rahn	Blue	R	Scars of Mirrodin
+137	Argentum Armor	Matt Cavotta		R	Scars of Mirrodin
+2	Arrest	Daarken	White	C	Scars of Mirrodin
+110	Asceticism	Daarken	Green	R	Scars of Mirrodin
+82	Assault Strobe	Kev Walker	Red	C	Scars of Mirrodin
+3	Auriok Edgewright	Mike Bierek	White	U	Scars of Mirrodin
+138	Auriok Replica	Zoltan Boros & Gabor Szikszai		C	Scars of Mirrodin
+4	Auriok Sunchaser	James Ryman	White	C	Scars of Mirrodin
+139	Barbed Battlegear	Steve Argyle		U	Scars of Mirrodin
+83	Barrage Ogre	David Rapoza	Red	U	Scars of Mirrodin
+111	Bellowing Tanglewurm	jD	Green	U	Scars of Mirrodin
+224	Blackcleave Cliffs	Dave Kendall		R	Scars of Mirrodin
+54	Blackcleave Goblin	Nils Hamm	Black	C	Scars of Mirrodin
+140	Bladed Pinions	Steve Argyle		C	Scars of Mirrodin
+84	Blade-Tribe Berserkers	Kev Walker	Red	C	Scars of Mirrodin
+55	Bleak Coven Vampires	Randis Albion	Black	C	Scars of Mirrodin
+112	Blight Mamba	Drew Baker	Green	C	Scars of Mirrodin
+56	Blistergrub	Daarken	Black	C	Scars of Mirrodin
+85	Bloodshot Trainee	Matt Stewart	Red	U	Scars of Mirrodin
+113	Blunt the Assault	Matt Stewart	Green	C	Scars of Mirrodin
+29	Bonds of Quicksilver	Steven Belledin	Blue	C	Scars of Mirrodin
+114	Carapace Forger	Matt Cavotta	Green	C	Scars of Mirrodin
+57	Carnifex Demon	Aleksi Briclot	Black	R	Scars of Mirrodin
+115	Carrion Call	Adrian Smith	Green	U	Scars of Mirrodin
+86	Cerebral Eruption	Kev Walker	Red	R	Scars of Mirrodin
+141	Chimeric Mass	David Palumbo		R	Scars of Mirrodin
+142	Chrome Steed	Jana Schirmer & Johannes Voss		C	Scars of Mirrodin
+143	Clone Shell	Volkan Baga		U	Scars of Mirrodin
+144	Contagion Clasp	Anthony Palumbo		U	Scars of Mirrodin
+145	Contagion Engine	Daarken		R	Scars of Mirrodin
+58	Contagious Nim	Efrem Palacios	Black	C	Scars of Mirrodin
+146	Copper Myr	Alan Pollack		C	Scars of Mirrodin
+116	Copperhorn Scout	Shelly Wan	Green	C	Scars of Mirrodin
+225	Copperline Gorge	Zoltan Boros & Gabor Szikszai		R	Scars of Mirrodin
+147	Corpse Cur	Pete Venters		C	Scars of Mirrodin
+59	Corrupted Harvester	Nils Hamm	Black	U	Scars of Mirrodin
+148	Culling Dais	Anthony Palumbo		U	Scars of Mirrodin
+117	Cystbearer	Kev Walker	Green	C	Scars of Mirrodin
+30	Darkslick Drake	Chippy	Blue	U	Scars of Mirrodin
+226	Darkslick Shores	Charles Urbach		R	Scars of Mirrodin
+149	Darksteel Axe	Daniel Ljunggren		U	Scars of Mirrodin
+150	Darksteel Juggernaut	Randis Albion		R	Scars of Mirrodin
+151	Darksteel Myr	Randis Albion		U	Scars of Mirrodin
+152	Darksteel Sentinel	Erica Yang		U	Scars of Mirrodin
+5	Dispense Justice	Austin Hsu	White	U	Scars of Mirrodin
+31	Disperse	Adrian Smith	Blue	C	Scars of Mirrodin
+32	Dissipation Field	Matt Cavotta	Blue	R	Scars of Mirrodin
+60	Dross Hopper	Dave Allsop	Black	C	Scars of Mirrodin
+153	Echo Circlet	Daarken		C	Scars of Mirrodin
+6	Elspeth Tirel	Michael Komarck	White	M	Scars of Mirrodin
+87	Embersmith	Eric Deschamps	Red	U	Scars of Mirrodin
+118	Engulfing Slagwurm	Jaime Jones	Green	R	Scars of Mirrodin
+154	Etched Champion	Matt Cavotta		R	Scars of Mirrodin
+61	Exsanguinate	Carl Critchlow	Black	U	Scars of Mirrodin
+119	Ezuri, Renegade Leader	Karl Kopinski	Green	R	Scars of Mirrodin
+120	Ezuri's Archers	Shelly Wan	Green	C	Scars of Mirrodin
+121	Ezuri's Brigade	Nic Klein	Green	R	Scars of Mirrodin
+88	Ferrovore	Austin Hsu	Red	C	Scars of Mirrodin
+89	Flameborn Hellion	Aleksi Briclot	Red	C	Scars of Mirrodin
+62	Flesh Allergy	Vance Kovacs	Black	U	Scars of Mirrodin
+155	Flight Spellbomb	Franz Vohwinkel		C	Scars of Mirrodin
+246	Forest	Mark Tedin		L	Scars of Mirrodin
+247	Forest	Mark Tedin		L	Scars of Mirrodin
+248	Forest	Mark Tedin		L	Scars of Mirrodin
+249	Forest	Mark Tedin		L	Scars of Mirrodin
+7	Fulgent Distraction	Nic Klein	White	C	Scars of Mirrodin
+63	Fume Spitter	Nils Hamm	Black	C	Scars of Mirrodin
+90	Furnace Celebration	Svetlin Velinov	Red	U	Scars of Mirrodin
+91	Galvanic Blast	Marc Simonetti	Red	C	Scars of Mirrodin
+122	Genesis Wave	James Paick	Green	R	Scars of Mirrodin
+64	Geth, Lord of the Vault	Whit Brachna	Black	M	Scars of Mirrodin
+8	Ghalma's Warden	Mike Bierek	White	C	Scars of Mirrodin
+9	Glimmerpoint Stag	Ryan Pancoast	White	U	Scars of Mirrodin
+227	Glimmerpost	Matt Cavotta		C	Scars of Mirrodin
+10	Glint Hawk	Dave Allsop	White	C	Scars of Mirrodin
+156	Glint Hawk Idol	Dave Allsop		C	Scars of Mirrodin
+92	Goblin Gaveleer	Svetlin Velinov	Red	C	Scars of Mirrodin
+157	Gold Myr	Alan Pollack		C	Scars of Mirrodin
+158	Golden Urn	Charles Urbach		C	Scars of Mirrodin
+159	Golem Artisan	Nic Klein		U	Scars of Mirrodin
+160	Golem Foundry	Nic Klein		C	Scars of Mirrodin
+161	Golem's Heart	Matt Cavotta		U	Scars of Mirrodin
+162	Grafted Exoskeleton	Allen Williams		U	Scars of Mirrodin
+33	Grand Architect	Steven Belledin	Blue	R	Scars of Mirrodin
+65	Grasp of Darkness	Johann Bodin	Black	C	Scars of Mirrodin
+163	Grindclock	Nils Hamm		R	Scars of Mirrodin
+34	Halt Order	Izzy	Blue	U	Scars of Mirrodin
+66	Hand of the Praetors	Izzy	Black	R	Scars of Mirrodin
+164	Heavy Arbalest	David Rapoza		U	Scars of Mirrodin
+93	Hoard-Smelter Dragon	Eric Deschamps	Red	R	Scars of Mirrodin
+165	Horizon Spellbomb	Franz Vohwinkel		C	Scars of Mirrodin
+67	Ichor Rats	Matt Stewart	Black	U	Scars of Mirrodin
+166	Ichorclaw Myr	Eric Deschamps		C	Scars of Mirrodin
+11	Indomitable Archangel	Allen Williams	White	M	Scars of Mirrodin
+35	Inexorable Tide	Dave Kendall	Blue	R	Scars of Mirrodin
+167	Infiltration Lens	Izzy		U	Scars of Mirrodin
+68	Instill Infection	Chris Rahn	Black	C	Scars of Mirrodin
+168	Iron Myr	Alan Pollack		C	Scars of Mirrodin
+234	Island	Jung Park		L	Scars of Mirrodin
+235	Island	Jung Park		L	Scars of Mirrodin
+236	Island	Jung Park		L	Scars of Mirrodin
+237	Island	Jung Park		L	Scars of Mirrodin
+12	Kemba, Kha Regent	Todd Lockwood	White	R	Scars of Mirrodin
+13	Kemba's Skyguard	Whit Brachna	White	C	Scars of Mirrodin
+94	Koth of the Hammer	Jason Chan	Red	M	Scars of Mirrodin
+169	Kuldotha Forgemaster	jD		R	Scars of Mirrodin
+95	Kuldotha Phoenix	Mike Bierek	Red	R	Scars of Mirrodin
+96	Kuldotha Rebirth	Goran Josic	Red	C	Scars of Mirrodin
+170	Leaden Myr	Alan Pollack		C	Scars of Mirrodin
+14	Leonin Arbiter	Shelly Wan	White	R	Scars of Mirrodin
+123	Liege of the Tangle	Jason Chan	Green	M	Scars of Mirrodin
+124	Lifesmith	Eric Deschamps	Green	U	Scars of Mirrodin
+171	Liquimetal Coating	Johann Bodin		U	Scars of Mirrodin
+172	Livewire Lash	Daniel Ljunggren		R	Scars of Mirrodin
+15	Loxodon Wayfarer	Steven Belledin	White	C	Scars of Mirrodin
+36	Lumengrid Drake	Johann Bodin	Blue	C	Scars of Mirrodin
+173	Lux Cannon	Martina Pilcerova		M	Scars of Mirrodin
+97	Melt Terrain	John Avon	Red	C	Scars of Mirrodin
+174	Memnite	Svetlin Velinov		U	Scars of Mirrodin
+69	Memoricide	James Ryman	Black	R	Scars of Mirrodin
+175	Mimic Vat	Matt Cavotta		R	Scars of Mirrodin
+176	Mindslaver	Volkan Baga		M	Scars of Mirrodin
+125	Molder Beast	Randis Albion	Green	C	Scars of Mirrodin
+98	Molten Psyche	Ryan Yee	Red	R	Scars of Mirrodin
+177	Molten-Tail Masticore	Whit Brachna		M	Scars of Mirrodin
+70	Moriok Reaver	Marc Simonetti	Black	C	Scars of Mirrodin
+178	Moriok Replica	Zoltan Boros & Gabor Szikszai		C	Scars of Mirrodin
+242	Mountain	Tomasz Jedruszek		L	Scars of Mirrodin
+243	Mountain	Tomasz Jedruszek		L	Scars of Mirrodin
+244	Mountain	Tomasz Jedruszek		L	Scars of Mirrodin
+245	Mountain	Tomasz Jedruszek		L	Scars of Mirrodin
+179	Mox Opal	Volkan Baga		M	Scars of Mirrodin
+180	Myr Battlesphere	Franz Vohwinkel		R	Scars of Mirrodin
+181	Myr Galvanizer	Greg Staples		U	Scars of Mirrodin
+182	Myr Propagator	Ryan Pancoast		R	Scars of Mirrodin
+183	Myr Reservoir	Jung Park		R	Scars of Mirrodin
+16	Myrsmith	Eric Deschamps	White	U	Scars of Mirrodin
+184	Necrogen Censer	Pete Venters		C	Scars of Mirrodin
+71	Necrogen Scudder	Raymond Swanland	Black	U	Scars of Mirrodin
+185	Necropede	Nic Klein		U	Scars of Mirrodin
+72	Necrotic Ooze	James Ryman	Black	R	Scars of Mirrodin
+37	Neurok Invisimancer	Izzy	Blue	C	Scars of Mirrodin
+186	Neurok Replica	Zoltan Boros & Gabor Szikszai		C	Scars of Mirrodin
+187	Nihil Spellbomb	Franz Vohwinkel		C	Scars of Mirrodin
+188	Nim Deathmantle	Karl Kopinski		R	Scars of Mirrodin
+99	Ogre Geargrabber	David Rapoza	Red	U	Scars of Mirrodin
+189	Origin Spellbomb	Franz Vohwinkel		C	Scars of Mirrodin
+100	Oxidda Daredevil	Pete Venters	Red	C	Scars of Mirrodin
+101	Oxidda Scrapmelter	Igor Kieryluk	Red	U	Scars of Mirrodin
+73	Painful Quandary	Whit Brachna	Black	R	Scars of Mirrodin
+74	Painsmith	Eric Deschamps	Black	U	Scars of Mirrodin
+190	Palladium Myr	Alan Pollack		U	Scars of Mirrodin
+191	Panic Spellbomb	Franz Vohwinkel		C	Scars of Mirrodin
+192	Perilous Myr	Jason Felix		C	Scars of Mirrodin
+75	Plague Stinger	Ryan Pancoast	Black	C	Scars of Mirrodin
+230	Plains	James Paick		L	Scars of Mirrodin
+231	Plains	James Paick		L	Scars of Mirrodin
+232	Plains	James Paick		L	Scars of Mirrodin
+233	Plains	James Paick		L	Scars of Mirrodin
+38	Plated Seastrider	Izzy	Blue	C	Scars of Mirrodin
+193	Platinum Emperion	Chris Rahn		M	Scars of Mirrodin
+194	Precursor Golem	Chippy		R	Scars of Mirrodin
+195	Prototype Portal	Drew Baker		R	Scars of Mirrodin
+76	Psychic Miasma	Svetlin Velinov	Black	C	Scars of Mirrodin
+126	Putrefax	Steven Belledin	Green	R	Scars of Mirrodin
+39	Quicksilver Gargantuan	Steven Belledin	Blue	M	Scars of Mirrodin
+196	Ratchet Bomb	Austin Hsu		R	Scars of Mirrodin
+17	Razor Hippogriff	David Rapoza	White	U	Scars of Mirrodin
+197	Razorfield Thresher	Karl Kopinski		C	Scars of Mirrodin
+228	Razorverge Thicket	James Paick		R	Scars of Mirrodin
+77	Relic Putrescence	Allen Williams	Black	C	Scars of Mirrodin
+18	Revoke Existence	Allen Williams	White	C	Scars of Mirrodin
+40	Riddlesmith	Eric Deschamps	Blue	U	Scars of Mirrodin
+198	Rust Tick	Carl Critchlow		U	Scars of Mirrodin
+199	Rusted Relic	Igor Kieryluk		U	Scars of Mirrodin
+200	Saberclaw Golem	Mike Bierek		C	Scars of Mirrodin
+19	Salvage Scout	Randis Albion	White	C	Scars of Mirrodin
+102	Scoria Elemental	Karl Kopinski	Red	C	Scars of Mirrodin
+41	Scrapdiver Serpent	Adrian Smith	Blue	C	Scars of Mirrodin
+42	Screeching Silcaw	Mike Bierek	Blue	C	Scars of Mirrodin
+229	Seachrome Coast	Lars Grant-West		R	Scars of Mirrodin
+20	Seize the Initiative	Steve Argyle	White	C	Scars of Mirrodin
+201	Semblance Anvil	Dan Scott		R	Scars of Mirrodin
+43	Shape Anew	Zoltan Boros & Gabor Szikszai	Blue	R	Scars of Mirrodin
+103	Shatter	jD	Red	C	Scars of Mirrodin
+202	Silver Myr	Alan Pollack		C	Scars of Mirrodin
+78	Skinrender	David Rapoza	Black	U	Scars of Mirrodin
+79	Skithiryx, the Blight Dragon	Chippy	Black	M	Scars of Mirrodin
+44	Sky-Eel School	Daniel Ljunggren	Blue	C	Scars of Mirrodin
+127	Slice in Twain	Efrem Palacios	Green	U	Scars of Mirrodin
+203	Snapsail Glider	Efrem Palacios		C	Scars of Mirrodin
+204	Soliton	Jason Felix		C	Scars of Mirrodin
+21	Soul Parry	Igor Kieryluk	White	C	Scars of Mirrodin
+104	Spikeshot Elder	Izzy	Red	R	Scars of Mirrodin
+45	Steady Progress	Efrem Palacios	Blue	C	Scars of Mirrodin
+205	Steel Hellkite	James Paick		R	Scars of Mirrodin
+46	Stoic Rebuttal	Chris Rahn	Blue	C	Scars of Mirrodin
+206	Strata Scythe	Scott Chou		R	Scars of Mirrodin
+207	Strider Harness	Matt Stewart		C	Scars of Mirrodin
+22	Sunblast Angel	Jason Chan	White	R	Scars of Mirrodin
+23	Sunspear Shikari	Allen Williams	White	C	Scars of Mirrodin
+238	Swamp	Lars Grant-West		L	Scars of Mirrodin
+239	Swamp	Lars Grant-West		L	Scars of Mirrodin
+240	Swamp	Lars Grant-West		L	Scars of Mirrodin
+241	Swamp	Lars Grant-West		L	Scars of Mirrodin
+208	Sword of Body and Mind	Chris Rahn		M	Scars of Mirrodin
+209	Sylvok Lifestaff	Martina Pilcerova		C	Scars of Mirrodin
+210	Sylvok Replica	Zoltan Boros & Gabor Szikszai		C	Scars of Mirrodin
+80	Tainted Strike	James Ryman	Black	C	Scars of Mirrodin
+128	Tangle Angler	Igor Kieryluk	Green	U	Scars of Mirrodin
+129	Tel-Jilad Defiance	Goran Josic	Green	C	Scars of Mirrodin
+130	Tel-Jilad Fallen	James Ryman	Green	C	Scars of Mirrodin
+24	Tempered Steel	Wayne Reynolds	White	R	Scars of Mirrodin
+211	Throne of Geth	Jana Schirmer & Johannes Voss		U	Scars of Mirrodin
+47	Thrummingbird	Efrem Palacios	Blue	U	Scars of Mirrodin
+212	Tower of Calamities	Aleksi Briclot		R	Scars of Mirrodin
+213	Trigon of Corruption	Nils Hamm		U	Scars of Mirrodin
+214	Trigon of Infestation	Dave Allsop		U	Scars of Mirrodin
+215	Trigon of Mending	Igor Kieryluk		U	Scars of Mirrodin
+216	Trigon of Rage	Marc Simonetti		U	Scars of Mirrodin
+217	Trigon of Thought	Mike Bierek		U	Scars of Mirrodin
+48	Trinket Mage	Scott Chou	Blue	U	Scars of Mirrodin
+25	True Conviction	Svetlin Velinov	White	R	Scars of Mirrodin
+218	Tumble Magnet	Drew Baker		C	Scars of Mirrodin
+105	Tunnel Ignus	Scott Chou	Red	R	Scars of Mirrodin
+49	Turn Aside	Shelly Wan	Blue	C	Scars of Mirrodin
+106	Turn to Slag	Zoltan Boros & Gabor Szikszai	Red	C	Scars of Mirrodin
+50	Twisted Image	Izzy	Blue	U	Scars of Mirrodin
+131	Untamed Might	Erica Yang	Green	C	Scars of Mirrodin
+51	Vault Skyward	Dan Scott	Blue	C	Scars of Mirrodin
+219	Vector Asp	Erica Yang		C	Scars of Mirrodin
+52	Vedalken Certarch	Karl Kopinski	Blue	C	Scars of Mirrodin
+135	Venser, the Sojourner	Eric Deschamps	White/Blue	M	Scars of Mirrodin
+220	Venser's Journal	Christopher Moeller		R	Scars of Mirrodin
+26	Vigil for the Lost	Igor Kieryluk	White	U	Scars of Mirrodin
+132	Viridian Revel	rk post	Green	U	Scars of Mirrodin
+53	Volition Reins	Svetlin Velinov	Blue	U	Scars of Mirrodin
+107	Vulshok Heartstoker	Shelly Wan	Red	C	Scars of Mirrodin
+221	Vulshok Replica	Zoltan Boros & Gabor Szikszai		C	Scars of Mirrodin
+222	Wall of Tanglecord	Vance Kovacs		C	Scars of Mirrodin
+27	Whitesun's Passage	John Avon	White	C	Scars of Mirrodin
+133	Wing Puncture	jD	Green	C	Scars of Mirrodin
+134	Withstand Death	Tomasz Jedruszek	Green	C	Scars of Mirrodin
+223	Wurmcoil Engine	Raymond Swanland		M	Scars of Mirrodin

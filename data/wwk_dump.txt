@@ -1,0 +1,145 @@
+47	Abyssal Persecutor	Chippy	Black	M	Worldwake
+1	Admonition Angel	Steve Argyle	White	M	Worldwake
+24	Æther Tradewinds	Kieran Yanner	Blue	C	Worldwake
+48	Agadeem Occultist	Vance Kovacs	Black	R	Worldwake
+71	Akoum Battlesinger	Adi Granov	Red	C	Worldwake
+121	Amulet of Vigor	Warren Mahy		R	Worldwake
+49	Anowon, the Ruin Sage	Dan Scott	Black	R	Worldwake
+2	Apex Hawks	David Palumbo	White	C	Worldwake
+95	Arbor Elf	rk post	Green	C	Worldwake
+3	Archon of Redemption	Steven Belledin	White	R	Worldwake
+96	Avenger of Zendikar	Zoltan Boros & Gabor Szikszai	Green	M	Worldwake
+122	Basilisk Collar	Howard Lyon		R	Worldwake
+4	Battle Hurda	Christopher Moeller	White	C	Worldwake
+72	Bazaar Trader	Matt Cavotta	Red	R	Worldwake
+97	Bestial Menace	Andrew Robinson	Green	U	Worldwake
+50	Bloodhusk Ritualist	Daarken	Black	U	Worldwake
+132	Bojuka Bog	Howard Lyon		C	Worldwake
+51	Bojuka Brigand	Johann Bodin	Black	C	Worldwake
+52	Brink of Disaster	Alex Horley-Orlandelli	Black	C	Worldwake
+73	Bull Rush	Christopher Moeller	Red	C	Worldwake
+53	Butcher of Malakir	Jason Chan	Black	R	Worldwake
+25	Calcite Snapper	David Palumbo	Blue	C	Worldwake
+98	Canopy Cover	Igor Kieryluk	Green	U	Worldwake
+54	Caustic Crawler	Raymond Swanland	Black	U	Worldwake
+133	Celestial Colonnade	Eric Deschamps		R	Worldwake
+74	Chain Reaction	Trevor Claxton	Red	R	Worldwake
+75	Claws of Valakut	Igor Kieryluk	Red	C	Worldwake
+76	Comet Storm	Jung Park	Red	M	Worldwake
+55	Corrupted Zendikon	John Avon	Black	C	Worldwake
+77	Cosi's Ravager	Zoltan Boros & Gabor Szikszai	Red	C	Worldwake
+134	Creeping Tar Pit	Jason Felix		R	Worldwake
+78	Crusher Zendikon	Ryan Pancoast	Red	C	Worldwake
+79	Cunning Sparkmage	Wayne Reynolds	Red	U	Worldwake
+56	Dead Reckoning	Svetlin Velinov	Black	C	Worldwake
+80	Deathforge Shaman	Dave Kendall	Red	U	Worldwake
+57	Death's Shadow	Howard Lyon	Black	R	Worldwake
+26	Dispel	Vance Kovacs	Blue	C	Worldwake
+81	Dragonmaster Outcast	Raymond Swanland	Red	M	Worldwake
+135	Dread Statuary	Jason A. Engle		U	Worldwake
+27	Enclave Elite	Igor Kieryluk	Blue	C	Worldwake
+123	Everflowing Chalice	Steve Argyle		U	Worldwake
+99	Explore	John Avon	Green	C	Worldwake
+136	Eye of Ugin	James Paick		M	Worldwake
+100	Feral Contest	Daarken	Green	C	Worldwake
+5	Fledgling Griffin	Christopher Moeller	White	C	Worldwake
+101	Gnarlid Pack	Johann Bodin	Green	C	Worldwake
+82	Goblin Roughrider	Jesper Ejsing	Red	C	Worldwake
+28	Goliath Sphinx	Greg Staples	Blue	R	Worldwake
+102	Grappler Spider	Austin Hsu	Green	C	Worldwake
+103	Graypelt Hunter	Svetlin Velinov	Green	C	Worldwake
+83	Grotag Thrasher	Jesper Ejsing	Red	C	Worldwake
+104	Groundswell	Chris Rahn	Green	C	Worldwake
+6	Guardian Zendikon	John Avon	White	C	Worldwake
+7	Hada Freeblade	Cyril Van Der Haegen	White	U	Worldwake
+137	Halimar Depths	Volkan Baga		C	Worldwake
+29	Halimar Excavator	Kev Walker	Blue	C	Worldwake
+124	Hammer of Ruin	Vincent Proce		U	Worldwake
+105	Harabaz Druid	Wayne Reynolds	Green	R	Worldwake
+125	Hedron Rover	Jason Felix		C	Worldwake
+30	Horizon Drake	Adi Granov	Blue	U	Worldwake
+8	Iona's Judgment	Mike Bierek	White	C	Worldwake
+31	Jace, the Mind Sculptor	Jason Chan	Blue	M	Worldwake
+58	Jagwasp Swarm	Austin Hsu	Black	C	Worldwake
+9	Join the Ranks	Kekai Kotaki	White	C	Worldwake
+106	Joraga Warcaller	Steven Belledin	Green	R	Worldwake
+32	Jwari Shapeshifter	Kev Walker	Blue	R	Worldwake
+59	Kalastria Highborn	D. Alexander Gregory	Black	R	Worldwake
+84	Kazuul, Tyrant of the Cliffs	Paul Bonner	Red	R	Worldwake
+138	Khalni Garden	Ryan Pancoast		C	Worldwake
+126	Kitesail	Cyril Van Der Haegen		C	Worldwake
+10	Kitesail Apprentice	Austin Hsu	White	C	Worldwake
+11	Kor Firewalker	Matt Stewart	White	U	Worldwake
+139	Lavaclaw Reaches	Véronique Meignaud		R	Worldwake
+107	Leatherback Baloth	Dave Kendall	Green	U	Worldwake
+12	Lightkeeper of Emeria	James Ryman	White	U	Worldwake
+13	Loam Lion	Daniel Ljunggren	White	U	Worldwake
+127	Lodestone Golem	Chris Rahn		R	Worldwake
+14	Marsh Threader	David Palumbo	White	C	Worldwake
+15	Marshal's Anthem	Matt Stewart	White	R	Worldwake
+60	Mire's Toll	Alex Horley-Orlandelli	Black	C	Worldwake
+85	Mordant Dragon	Scott Chou	Red	R	Worldwake
+33	Mysteries of the Deep	Véronique Meignaud	Blue	C	Worldwake
+108	Nature's Claim	Daarken	Green	C	Worldwake
+61	Nemesis Trap	Ryan Pancoast	Black	U	Worldwake
+119	Novablast Wurm	Michael Komarck	White/Green	M	Worldwake
+109	Omnath, Locus of Mana	Mike Bierek	Green	M	Worldwake
+16	Perimeter Captain	Steven Belledin	White	U	Worldwake
+34	Permafrost Trap	Howard Lyon	Blue	U	Worldwake
+128	Pilgrim's Eye	Dan Scott		C	Worldwake
+62	Pulse Tracker	Andrew Robinson	Black	C	Worldwake
+63	Quag Vampires	Jason Felix	Black	C	Worldwake
+110	Quest for Renewal	Tomasz Jedruszek	Green	U	Worldwake
+86	Quest for the Goblin Lord	Jesper Ejsing	Red	U	Worldwake
+64	Quest for the Nihil Stone	Mike Bierek	Black	R	Worldwake
+35	Quest for Ula's Temple	Rob Alexander	Blue	R	Worldwake
+140	Quicksand	Matt Stewart		C	Worldwake
+141	Raging Ravine	Todd Lockwood		R	Worldwake
+129	Razor Boomerang	Franz Vohwinkel		U	Worldwake
+17	Refraction Trap	Zoltan Boros & Gabor Szikszai	White	U	Worldwake
+18	Rest for the Weary	James Paick	White	C	Worldwake
+87	Ricochet Trap	Jaime Jones	Red	U	Worldwake
+88	Roiling Terrain	Steve Prescott	Red	C	Worldwake
+19	Ruin Ghost	Jason A. Engle	White	U	Worldwake
+89	Rumbling Aftershocks	Tomasz Jedruszek	Red	U	Worldwake
+65	Ruthless Cullblade	rk post	Black	C	Worldwake
+66	Scrib Nibblers	Daren Bader	Black	U	Worldwake
+90	Searing Blaze	James Paick	Red	C	Worldwake
+130	Seer's Sundial	Franz Vohwinkel		R	Worldwake
+36	Sejiri Merfolk	Anthony Francisco	Blue	U	Worldwake
+142	Sejiri Steppe	Anthony Francisco		C	Worldwake
+37	Selective Memory	Chippy	Blue	R	Worldwake
+67	Shoreline Salvager	Igor Kieryluk	Black	U	Worldwake
+91	Skitter of Lizards	Warren Mahy	Red	C	Worldwake
+92	Slavering Nulls	Dave Kendall	Red	U	Worldwake
+111	Slingbow Trap	Daniel Ljunggren	Green	U	Worldwake
+143	Smoldering Spires	Rob Alexander		C	Worldwake
+68	Smother	Karl Kopinski	Black	U	Worldwake
+112	Snapping Creeper	Cyril Van Der Haegen	Green	C	Worldwake
+38	Spell Contortion	Wayne Reynolds	Blue	U	Worldwake
+144	Stirring Wildwood	Eric Deschamps		R	Worldwake
+93	Stone Idol Trap	Jung Park	Red	R	Worldwake
+20	Stoneforge Mystic	Mike Bierek	White	R	Worldwake
+113	Strength of the Tajuru	Christopher Moeller	Green	R	Worldwake
+114	Summit Apes	Véronique Meignaud	Green	U	Worldwake
+39	Surrakar Banisher	Matt Cavotta	Blue	C	Worldwake
+21	Talus Paladin	Svetlin Velinov	White	R	Worldwake
+145	Tectonic Edge	Vincent Proce		U	Worldwake
+115	Terastodon	Lars Grant-West	Green	R	Worldwake
+22	Terra Eternal	Daniel Ljunggren	White	R	Worldwake
+40	Thada Adel, Acquisitor	Andrew Robinson	Blue	R	Worldwake
+41	Tideforce Elemental	Donato Giancola	Blue	U	Worldwake
+69	Tomb Hex	Izzy	Black	C	Worldwake
+42	Treasure Hunt	Daren Bader	Blue	C	Worldwake
+94	Tuktuk Scrapper	Matt Cavotta	Red	U	Worldwake
+43	Twitch	Scott Chou	Blue	C	Worldwake
+70	Urge to Feed	Johann Bodin	Black	U	Worldwake
+44	Vapor Snare	Trevor Claxton	Blue	U	Worldwake
+116	Vastwood Animist	Raymond Swanland	Green	U	Worldwake
+117	Vastwood Zendikon	Rob Alexander	Green	C	Worldwake
+23	Veteran's Reflexes	Scott Chou	White	C	Worldwake
+45	Voyager Drake	Kieran Yanner	Blue	U	Worldwake
+131	Walking Atlas	Rob Alexander		C	Worldwake
+46	Wind Zendikon	Vincent Proce	Blue	C	Worldwake
+118	Wolfbriar Elemental	Chippy	Green	R	Worldwake
+120	Wrexial, the Risen Deep	Eric Deschamps	Blue/Black	M	Worldwake

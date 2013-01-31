@@ -1,0 +1,248 @@
+14	Affa Guard Hound	Ryan Pancoast	White	U	Rise of the Eldrazi
+134	Akoum Boulderfoot	Alex Horley-Orlandelli	Red	U	Rise of the Eldrazi
+1	All Is Dust	Jason Felix		M	Rise of the Eldrazi
+174	Ancient Stirrings	Vincent Proce	Green	C	Rise of the Eldrazi
+215	Angelheart Vial	Chippy		R	Rise of the Eldrazi
+94	Arrogant Bloodlord	Mike Bierek	Black	U	Rise of the Eldrazi
+2	Artisan of Kozilek	Jason Felix		U	Rise of the Eldrazi
+54	Aura Finesse	Howard Lyon	Blue	C	Rise of the Eldrazi
+175	Aura Gnarlid	Lars Grant-West	Green	C	Rise of the Eldrazi
+176	Awakening Zone	Johann Bodin	Green	R	Rise of the Eldrazi
+95	Bala Ged Scorpion	Daarken	Black	C	Rise of the Eldrazi
+96	Baneful Omen	Karl Kopinski	Black	R	Rise of the Eldrazi
+135	Battle Rampart	Steve Prescott	Red	C	Rise of the Eldrazi
+136	Battle-Rattle Shaman	Warren Mahy	Red	C	Rise of the Eldrazi
+177	Bear Umbra	Howard Lyon	Green	R	Rise of the Eldrazi
+178	Beastbreaker of Bala Ged	Karl Kopinski	Green	U	Rise of the Eldrazi
+97	Bloodrite Invoker	Svetlin Velinov	Black	C	Rise of the Eldrazi
+98	Bloodthrone Vampire	Steve Argyle	Black	C	Rise of the Eldrazi
+179	Boar Umbra	Christopher Moeller	Green	U	Rise of the Eldrazi
+180	Bramblesnap	James Ryman	Green	U	Rise of the Eldrazi
+137	Brimstone Mage	Volkan Baga	Red	U	Rise of the Eldrazi
+138	Brood Birthing	Anthony Francisco	Red	C	Rise of the Eldrazi
+181	Broodwarden	Izzy	Green	U	Rise of the Eldrazi
+99	Cadaver Imp	Dave Kendall	Black	C	Rise of the Eldrazi
+15	Caravan Escort	Goran Josic	White	C	Rise of the Eldrazi
+55	Cast Through Time	Zoltan Boros & Gabor Szikszai	Blue	M	Rise of the Eldrazi
+56	Champion's Drake	Lars Grant-West	Blue	C	Rise of the Eldrazi
+139	Conquering Manticore	Chris Rahn	Red	R	Rise of the Eldrazi
+100	Consume the Meek	Chippy	Black	R	Rise of the Eldrazi
+101	Consuming Vapors	Trevor Claxton	Black	R	Rise of the Eldrazi
+102	Contaminated Ground	Rob Alexander	Black	C	Rise of the Eldrazi
+57	Coralhelm Commander	Jaime Jones	Blue	R	Rise of the Eldrazi
+103	Corpsehatch	Kekai Kotaki	Black	U	Rise of the Eldrazi
+58	Crab Umbra	Christopher Moeller	Blue	U	Rise of the Eldrazi
+104	Curse of Wizardry	Kekai Kotaki	Black	U	Rise of the Eldrazi
+182	Daggerback Basilisk	Jesper Ejsing	Green	C	Rise of the Eldrazi
+16	Dawnglare Invoker	Steve Argyle	White	C	Rise of the Eldrazi
+105	Death Cultist	Igor Kieryluk	Black	C	Rise of the Eldrazi
+17	Deathless Angel	Johann Bodin	White	R	Rise of the Eldrazi
+106	Demonic Appetite	Igor Kieryluk	Black	C	Rise of the Eldrazi
+18	Demystify	Véronique Meignaud	White	C	Rise of the Eldrazi
+59	Deprive	Izzy	Blue	C	Rise of the Eldrazi
+140	Devastating Summons	Jung Park	Red	R	Rise of the Eldrazi
+141	Disaster Radius	James Paick	Red	R	Rise of the Eldrazi
+60	Distortion Strike	Goran Josic	Blue	C	Rise of the Eldrazi
+61	Domestication	Jesper Ejsing	Blue	U	Rise of the Eldrazi
+62	Dormant Gomazoa	Chris Rahn	Blue	R	Rise of the Eldrazi
+63	Drake Umbra	Howard Lyon	Blue	U	Rise of the Eldrazi
+107	Drana, Kalastria Bloodchief	Mike Bierek	Black	R	Rise of the Eldrazi
+108	Dread Drone	Raymond Swanland	Black	C	Rise of the Eldrazi
+216	Dreamstone Hedron	Eric Deschamps		U	Rise of the Eldrazi
+64	Echo Mage	Matt Stewart	Blue	R	Rise of the Eldrazi
+65	Eel Umbra	Howard Lyon	Blue	C	Rise of the Eldrazi
+19	Eland Umbra	Howard Lyon	White	C	Rise of the Eldrazi
+3	Eldrazi Conscription	Jaime Jones		R	Rise of the Eldrazi
+227	Eldrazi Temple	James Paick		R	Rise of the Eldrazi
+20	Emerge Unscathed	Steve Argyle	White	U	Rise of the Eldrazi
+4	Emrakul, the Aeons Torn	Mark Tedin		M	Rise of the Eldrazi
+142	Emrakul's Hatcher	Jaime Jones	Red	C	Rise of the Eldrazi
+217	Enatu Golem	Daniel Ljunggren		U	Rise of the Eldrazi
+66	Enclave Cryptologist	Igor Kieryluk	Blue	U	Rise of the Eldrazi
+109	Escaped Null	Ryan Pancoast	Black	U	Rise of the Eldrazi
+110	Essence Feed	Daarken	Black	C	Rise of the Eldrazi
+228	Evolving Wilds	Steven Belledin		C	Rise of the Eldrazi
+143	Explosive Revelation	Justin Sweet	Red	U	Rise of the Eldrazi
+144	Fissure Vent	Philip Straub	Red	C	Rise of the Eldrazi
+145	Flame Slash	Raymond Swanland	Red	C	Rise of the Eldrazi
+67	Fleeting Distraction	Kieran Yanner	Blue	C	Rise of the Eldrazi
+245	Forest	Jung Park		L	Rise of the Eldrazi
+246	Forest	Jung Park		L	Rise of the Eldrazi
+247	Forest	Jung Park		L	Rise of the Eldrazi
+248	Forest	Jung Park		L	Rise of the Eldrazi
+146	Forked Bolt	Tomasz Jedruszek	Red	U	Rise of the Eldrazi
+68	Frostwind Invoker	Svetlin Velinov	Blue	C	Rise of the Eldrazi
+183	Gelatinous Genesis	Daniel Ljunggren	Green	R	Rise of the Eldrazi
+21	Gideon Jura	Aleksi Briclot	White	M	Rise of the Eldrazi
+184	Gigantomancer	Chippy	Green	R	Rise of the Eldrazi
+111	Gloomhunter	Lars Grant-West	Black	C	Rise of the Eldrazi
+22	Glory Seeker	Matt Cavotta	White	C	Rise of the Eldrazi
+147	Goblin Arsonist	Wayne Reynolds	Red	C	Rise of the Eldrazi
+148	Goblin Tunneler	Jesper Ejsing	Red	C	Rise of the Eldrazi
+69	Gravitational Shift	Svetlin Velinov	Blue	R	Rise of the Eldrazi
+185	Gravity Well	Rob Alexander	Green	U	Rise of the Eldrazi
+149	Grotag Siege-Runner	Zoltan Boros & Gabor Szikszai	Red	C	Rise of the Eldrazi
+186	Growth Spasm	Dan Scott	Green	C	Rise of the Eldrazi
+23	Guard Duty	Karl Kopinski	White	C	Rise of the Eldrazi
+70	Guard Gomazoa	Rob Alexander	Blue	U	Rise of the Eldrazi
+112	Guul Draz Assassin	James Ryman	Black	R	Rise of the Eldrazi
+71	Hada Spy Patrol	Zoltan Boros & Gabor Szikszai	Blue	U	Rise of the Eldrazi
+72	Halimar Wavewatch	Matt Stewart	Blue	C	Rise of the Eldrazi
+5	Hand of Emrakul	Chippy		C	Rise of the Eldrazi
+24	Harmless Assault	Chippy	White	C	Rise of the Eldrazi
+187	Haze Frog	Jesper Ejsing	Green	C	Rise of the Eldrazi
+150	Heat Ray	Austin Hsu	Red	C	Rise of the Eldrazi
+218	Hedron Matrix	Jaime Jones		R	Rise of the Eldrazi
+25	Hedron-Field Purists	Scott Chou	White	R	Rise of the Eldrazi
+113	Hellcarver Demon	Greg Staples	Black	M	Rise of the Eldrazi
+151	Hellion Eruption	Anthony Francisco	Red	R	Rise of the Eldrazi
+26	Hyena Umbra	Howard Lyon	White	C	Rise of the Eldrazi
+27	Ikiral Outrider	Kekai Kotaki	White	C	Rise of the Eldrazi
+114	Induce Despair	Igor Kieryluk	Black	C	Rise of the Eldrazi
+115	Inquisition of Kozilek	Tomasz Jedruszek	Black	U	Rise of the Eldrazi
+188	Irresistible Prey	Jesper Ejsing	Green	U	Rise of the Eldrazi
+233	Island	Vincent Proce		L	Rise of the Eldrazi
+234	Island	Vincent Proce		L	Rise of the Eldrazi
+235	Island	Vincent Proce		L	Rise of the Eldrazi
+236	Island	Vincent Proce		L	Rise of the Eldrazi
+7	It That Betrays	Tomasz Jedruszek		R	Rise of the Eldrazi
+189	Jaddi Lifestrider	Vincent Proce	Green	U	Rise of the Eldrazi
+190	Joraga Treespeaker	Cyril Van Der Haegen	Green	U	Rise of the Eldrazi
+73	Jwari Scuttler	Andrew Robinson	Blue	C	Rise of the Eldrazi
+28	Kabira Vindicator	Steven Belledin	White	U	Rise of the Eldrazi
+152	Kargan Dragonlord	Jason Chan	Red	M	Rise of the Eldrazi
+191	Kazandu Tuskcaller	Mike Bierek	Green	R	Rise of the Eldrazi
+219	Keening Stone	Jung Park		R	Rise of the Eldrazi
+192	Khalni Hydra	Todd Lockwood	Green	M	Rise of the Eldrazi
+153	Kiln Fiend	Adi Granov	Red	C	Rise of the Eldrazi
+29	Knight of Cliffhaven	Matt Cavotta	White	C	Rise of the Eldrazi
+30	Kor Line-Slinger	Steve Prescott	White	C	Rise of the Eldrazi
+31	Kor Spiritdancer	Scott Chou	White	R	Rise of the Eldrazi
+6	Kozilek, Butcher of Truth	Michael Komarck		M	Rise of the Eldrazi
+193	Kozilek's Predator	Steve Argyle	Green	C	Rise of the Eldrazi
+154	Lagac Lizard	Svetlin Velinov	Red	C	Rise of the Eldrazi
+116	Last Kiss	Vance Kovacs	Black	C	Rise of the Eldrazi
+155	Lavafume Invoker	Dave Kendall	Red	C	Rise of the Eldrazi
+74	Lay Bare	Chippy	Blue	C	Rise of the Eldrazi
+194	Leaf Arrow	Eric Deschamps	Green	C	Rise of the Eldrazi
+75	Lighthouse Chronologist	Steven Belledin	Blue	M	Rise of the Eldrazi
+32	Lightmine Field	Eric Deschamps	White	R	Rise of the Eldrazi
+33	Linvala, Keeper of Silence	Igor Kieryluk	White	M	Rise of the Eldrazi
+195	Living Destiny	James Ryman	Green	C	Rise of the Eldrazi
+34	Lone Missionary	Svetlin Velinov	White	C	Rise of the Eldrazi
+156	Lord of Shatterskull Pass	Kekai Kotaki	Red	R	Rise of the Eldrazi
+35	Luminous Wake	Mike Bierek	White	U	Rise of the Eldrazi
+157	Lust for War	Raymond Swanland	Red	U	Rise of the Eldrazi
+158	Magmaw	Karl Kopinski	Red	R	Rise of the Eldrazi
+36	Makindi Griffin	Izzy	White	C	Rise of the Eldrazi
+37	Mammoth Umbra	Howard Lyon	White	U	Rise of the Eldrazi
+76	Merfolk Observer	Anthony Francisco	Blue	C	Rise of the Eldrazi
+77	Merfolk Skyscout	rk post	Blue	U	Rise of the Eldrazi
+196	Might of the Masses	Johann Bodin	Green	C	Rise of the Eldrazi
+78	Mnemonic Wall	Vance Kovacs	Blue	C	Rise of the Eldrazi
+197	Momentous Fall	Tomasz Jedruszek	Green	R	Rise of the Eldrazi
+117	Mortician Beetle	Lars Grant-West	Black	R	Rise of the Eldrazi
+241	Mountain	James Paick		L	Rise of the Eldrazi
+242	Mountain	James Paick		L	Rise of the Eldrazi
+243	Mountain	James Paick		L	Rise of the Eldrazi
+244	Mountain	James Paick		L	Rise of the Eldrazi
+198	Mul Daya Channelers	Jason Chan	Green	R	Rise of the Eldrazi
+79	Narcolepsy	Johann Bodin	Blue	C	Rise of the Eldrazi
+199	Naturalize	Howard Lyon	Green	C	Rise of the Eldrazi
+38	Near-Death Experience	Dan Scott	White	R	Rise of the Eldrazi
+200	Nema Siltlurker	Wayne Reynolds	Green	C	Rise of the Eldrazi
+201	Nest Invader	Trevor Claxton	Green	C	Rise of the Eldrazi
+118	Nighthaze	Tomasz Jedruszek	Black	C	Rise of the Eldrazi
+119	Nirkana Cutthroat	Erica Yang	Black	U	Rise of the Eldrazi
+120	Nirkana Revenant	Igor Kieryluk	Black	M	Rise of the Eldrazi
+39	Nomads' Assembly	Erica Yang	White	R	Rise of the Eldrazi
+8	Not of This World	Izzy		U	Rise of the Eldrazi
+121	Null Champion	Chris Rahn	Black	C	Rise of the Eldrazi
+159	Ogre Sentry	Eric Deschamps	Red	C	Rise of the Eldrazi
+220	Ogre's Cleaver	Adi Granov		U	Rise of the Eldrazi
+202	Ondu Giant	Igor Kieryluk	Green	C	Rise of the Eldrazi
+40	Oust	Mike Bierek	White	U	Rise of the Eldrazi
+203	Overgrown Battlement	Franz Vohwinkel	Green	C	Rise of the Eldrazi
+9	Pathrazer of Ulamog	Austin Hsu		U	Rise of the Eldrazi
+122	Pawn of Ulamog	Daarken	Black	U	Rise of the Eldrazi
+204	Pelakka Wurm	Daniel Ljunggren	Green	U	Rise of the Eldrazi
+221	Pennon Blade	Alex Horley-Orlandelli		U	Rise of the Eldrazi
+123	Perish the Thought	Austin Hsu	Black	C	Rise of the Eldrazi
+124	Pestilence Demon	Justin Sweet	Black	R	Rise of the Eldrazi
+80	Phantasmal Abomination	Goran Josic	Blue	U	Rise of the Eldrazi
+229	Plains	John Avon		L	Rise of the Eldrazi
+230	Plains	John Avon		L	Rise of the Eldrazi
+231	Plains	John Avon		L	Rise of the Eldrazi
+232	Plains	John Avon		L	Rise of the Eldrazi
+205	Prey's Vengeance	Jesper Ejsing	Green	U	Rise of the Eldrazi
+222	Prophetic Prism	John Avon		C	Rise of the Eldrazi
+41	Puncturing Light	Zoltan Boros & Gabor Szikszai	White	C	Rise of the Eldrazi
+160	Rage Nimbus	Vincent Proce	Red	R	Rise of the Eldrazi
+161	Raid Bombardment	Matt Cavotta	Red	C	Rise of the Eldrazi
+162	Rapacious One	Jason A. Engle	Red	U	Rise of the Eldrazi
+81	Reality Spasm	Jason Felix	Blue	U	Rise of the Eldrazi
+206	Realms Uncharted	Volkan Baga	Green	R	Rise of the Eldrazi
+82	Recurring Insight	Zoltan Boros & Gabor Szikszai	Blue	R	Rise of the Eldrazi
+83	Regress	Izzy	Blue	C	Rise of the Eldrazi
+223	Reinforced Bulwark	Ryan Pancoast		C	Rise of the Eldrazi
+84	Renegade Doppelganger	James Ryman	Blue	R	Rise of the Eldrazi
+125	Repay in Kind	Vance Kovacs	Black	R	Rise of the Eldrazi
+42	Repel the Darkness	Scott Chou	White	C	Rise of the Eldrazi
+224	Runed Servitor	Mike Bierek		U	Rise of the Eldrazi
+214	Sarkhan the Mad	Chippy	Black/Red	M	Rise of the Eldrazi
+85	Sea Gate Oracle	Daniel Ljunggren	Blue	C	Rise of the Eldrazi
+86	See Beyond	Andrew Robinson	Blue	C	Rise of the Eldrazi
+87	Shared Discovery	Ryan Pancoast	Blue	C	Rise of the Eldrazi
+126	Shrivel	Jung Park	Black	C	Rise of the Eldrazi
+127	Skeletal Wurm	Zoltan Boros & Gabor Szikszai	Black	U	Rise of the Eldrazi
+10	Skittering Invasion	Eric Deschamps		U	Rise of the Eldrazi
+88	Skywatcher Adept	Tomasz Jedruszek	Blue	C	Rise of the Eldrazi
+43	Smite	Cyril Van Der Haegen	White	C	Rise of the Eldrazi
+207	Snake Umbra	Christopher Moeller	Green	C	Rise of the Eldrazi
+45	Soulbound Guardians	Erica Yang	White	U	Rise of the Eldrazi
+44	Soul's Attendant	Steve Prescott	White	C	Rise of the Eldrazi
+163	Soulsurge Elemental	Jason A. Engle	Red	U	Rise of the Eldrazi
+164	Spawning Breath	Trevor Claxton	Red	C	Rise of the Eldrazi
+11	Spawnsire of Ulamog	Izzy		R	Rise of the Eldrazi
+89	Sphinx of Magosi	James Ryman	Blue	R	Rise of the Eldrazi
+225	Sphinx-Bone Wand	Franz Vohwinkel		R	Rise of the Eldrazi
+208	Spider Umbra	Christopher Moeller	Green	C	Rise of the Eldrazi
+165	Splinter Twin	Goran Josic	Red	R	Rise of the Eldrazi
+209	Sporecap Spider	Lars Grant-West	Green	C	Rise of the Eldrazi
+166	Staggershock	Raymond Swanland	Red	C	Rise of the Eldrazi
+46	Stalwart Shield-Bearers	Austin Hsu	White	C	Rise of the Eldrazi
+210	Stomper Cub	Karl Kopinski	Green	C	Rise of the Eldrazi
+47	Student of Warfare	Volkan Baga	White	R	Rise of the Eldrazi
+128	Suffer the Past	Trevor Claxton	Black	U	Rise of the Eldrazi
+90	Surrakar Spellblade	Dave Kendall	Blue	R	Rise of the Eldrazi
+167	Surreal Memoir	Jaime Jones	Red	U	Rise of the Eldrazi
+48	Survival Cache	Scott Chou	White	U	Rise of the Eldrazi
+237	Swamp	Véronique Meignaud		L	Rise of the Eldrazi
+238	Swamp	Véronique Meignaud		L	Rise of the Eldrazi
+239	Swamp	Véronique Meignaud		L	Rise of the Eldrazi
+240	Swamp	Véronique Meignaud		L	Rise of the Eldrazi
+211	Tajuru Preserver	rk post	Green	R	Rise of the Eldrazi
+129	Thought Gorger	Jason Felix	Black	R	Rise of the Eldrazi
+49	Time of Heroes	Kekai Kotaki	White	U	Rise of the Eldrazi
+50	Totem-Guide Hartebeest	John Avon	White	C	Rise of the Eldrazi
+91	Training Grounds	James Ryman	Blue	R	Rise of the Eldrazi
+168	Traitorous Instinct	Scott Chou	Red	U	Rise of the Eldrazi
+51	Transcendent Master	Steven Belledin	White	M	Rise of the Eldrazi
+169	Tuktuk the Explorer	Volkan Baga	Red	R	Rise of the Eldrazi
+12	Ulamog, the Infinite Gyre	Aleksi Briclot		M	Rise of the Eldrazi
+13	Ulamog's Crusher	Todd Lockwood		C	Rise of the Eldrazi
+52	Umbra Mystic	Matt Stewart	White	R	Rise of the Eldrazi
+92	Unified Will	Matt Cavotta	Blue	U	Rise of the Eldrazi
+170	Valakut Fireboar	Zoltan Boros & Gabor Szikszai	Red	U	Rise of the Eldrazi
+130	Vendetta	Karl Kopinski	Black	C	Rise of the Eldrazi
+93	Venerated Teacher	Greg Staples	Blue	C	Rise of the Eldrazi
+212	Vengevine	Raymond Swanland	Green	M	Rise of the Eldrazi
+171	Vent Sentinel	Chris Rahn	Red	C	Rise of the Eldrazi
+131	Virulent Swipe	Raymond Swanland	Black	U	Rise of the Eldrazi
+53	Wall of Omens	James Paick	White	U	Rise of the Eldrazi
+226	Warmonger's Chariot	Warren Mahy		U	Rise of the Eldrazi
+213	Wildheart Invoker	Erica Yang	Green	C	Rise of the Eldrazi
+172	World at War	Igor Kieryluk	Red	R	Rise of the Eldrazi
+173	Wrap in Flames	Véronique Meignaud	Red	C	Rise of the Eldrazi
+132	Zof Shade	Jason A. Engle	Black	C	Rise of the Eldrazi
+133	Zulaport Enforcer	Matt Stewart	Black	C	Rise of the Eldrazi

@@ -1,0 +1,145 @@
+33	Anathemancer	Richard Whitters	Black/Red	U	Alara Reborn
+17	Architects of Will	Matt Stewart	Blue/Black	C	Alara Reborn
+1	Ardent Plea	Chippy	White/Blue	U	Alara Reborn
+131	Arsenal Thresher	Ralph Horsley	White/Blue/Black	C	Alara Reborn
+2	Aven Mimeomancer	Jesper Ejsing	White/Blue	R	Alara Reborn
+125	Bant Sojourners	John Avon	White/Blue/Green	C	Alara Reborn
+143	Bant Sureblade	Michael Komarck	White/Blue/Green	C	Alara Reborn
+65	Behemoth Sledge	Steve Prescott	White/Green	U	Alara Reborn
+34	Bituminous Blast	Raymond Swanland	Black/Red	U	Alara Reborn
+49	Blitz Hellion	Anthony S. Waters	Red/Green	R	Alara Reborn
+50	Bloodbraid Elf	Dominick Domingo	Red/Green	U	Alara Reborn
+18	Brainbite	Mark Hyzer	Blue/Black	C	Alara Reborn
+35	Breath of Malfegor	Vance Kovacs	Black/Red	C	Alara Reborn
+66	Captured Sunlight	Nils Hamm	White/Green	C	Alara Reborn
+96	Cerodon Yearling	Christopher Moeller	White/Red	C	Alara Reborn
+86	Cloven Casting	Vance Kovacs	Blue/Red	R	Alara Reborn
+51	Colossal Might	Justin Sweet	Red/Green	C	Alara Reborn
+144	Crystallization	Zoltan Boros & Gabor Szikszai	White/Blue/Green	C	Alara Reborn
+67	Dauntless Escort	Volkan Baga	White/Green	R	Alara Reborn
+52	Deadshot Minotaur	Jason Chan	Red/Green	C	Alara Reborn
+36	Deathbringer Thoctar	Karl Kopinski	Black/Red	R	Alara Reborn
+37	Defiler of Souls	Paul Bonner	Black/Red	M	Alara Reborn
+38	Demonic Dread	Thomas M. Baxa	Black/Red	C	Alara Reborn
+39	Demonspine Whip	Mark Hyzer	Black/Red	U	Alara Reborn
+19	Deny Reality	Jean-Sébastien Rossbach	Blue/Black	C	Alara Reborn
+87	Double Negative	Parente	Blue/Red	U	Alara Reborn
+115	Dragon Appeasement	Paul Bonner	Black/Red/Green	U	Alara Reborn
+53	Dragon Broodmother	Jaime Jones	Red/Green	M	Alara Reborn
+111	Drastic Revelation	Trevor Claxton	Blue/Black/Red	U	Alara Reborn
+106	Enigma Sphinx	Chris Rahn	White/Blue/Black	R	Alara Reborn
+68	Enlisted Wurm	Steve Prescott	White/Green	U	Alara Reborn
+107	Esper Sojourners	John Avon	White/Blue/Black	C	Alara Reborn
+132	Esper Stormblade	Matt Stewart	White/Blue/Black	C	Alara Reborn
+3	Ethercaste Knight	Steven Belledin	White/Blue	C	Alara Reborn
+20	Etherium Abomination	Mitch Cotie	Blue/Black	C	Alara Reborn
+4	Ethersworn Shieldmage	Daarken	White/Blue	C	Alara Reborn
+108	Etherwrought Page	Howard Lyon	White/Blue/Black	U	Alara Reborn
+5	Fieldmist Borderpost	Michael Bruinsma	White/Blue	C	Alara Reborn
+97	Fight to the Death	Michael Komarck	White/Red	R	Alara Reborn
+6	Filigree Angel	Richard Whitters	White/Blue	R	Alara Reborn
+126	Finest Hour	Michael Komarck	White/Blue/Green	R	Alara Reborn
+54	Firewild Borderpost	Jean-Sébastien Rossbach	Red/Green	C	Alara Reborn
+127	Flurry of Wings	Matt Cavotta	White/Blue/Green	U	Alara Reborn
+137	Giant Ambush Beetle	Carl Critchlow	Black/Red/Green	U	Alara Reborn
+7	Glassdust Hulk	Franz Vohwinkel	White/Blue	C	Alara Reborn
+98	Glory of Warfare	Parente	White/Red	R	Alara Reborn
+120	Gloryscale Viashino	Volkan Baga	White/Red/Green	U	Alara Reborn
+55	Godtracker of Jund	Justin Sweet	Red/Green	C	Alara Reborn
+56	Gorger Wurm	Parente	Red/Green	C	Alara Reborn
+134	Grixis Grimblade	Trevor Claxton	Blue/Black/Red	C	Alara Reborn
+112	Grixis Sojourners	John Avon	Blue/Black/Red	C	Alara Reborn
+69	Grizzled Leotau	Lars Grant-West	White/Green	C	Alara Reborn
+81	Identity Crisis	Thomas M. Baxa	White/Black	R	Alara Reborn
+40	Igneous Pouncer	Chippy	Black/Red	C	Alara Reborn
+21	Illusory Demon	Nils Hamm	Blue/Black	U	Alara Reborn
+99	Intimidation Bolt	Michael Bruinsma	White/Red	U	Alara Reborn
+128	Jenara, Asura of War	Chris Rahn	White/Blue/Green	M	Alara Reborn
+22	Jhessian Zombies	Ash Wood	Blue/Black	C	Alara Reborn
+138	Jund Hackblade	Dan Dos Santos	Black/Red/Green	C	Alara Reborn
+116	Jund Sojourners	John Avon	Black/Red/Green	C	Alara Reborn
+117	Karrthus, Tyrant of Jund	Dave Kendall	Black/Red/Green	M	Alara Reborn
+41	Kathari Bomber	Carl Critchlow	Black/Red	C	Alara Reborn
+23	Kathari Remnant	Anthony S. Waters	Blue/Black	U	Alara Reborn
+70	Knight of New Alara	Chris Rahn	White/Green	R	Alara Reborn
+71	Knotvine Paladin	Matt Stewart	White/Green	R	Alara Reborn
+118	Lavalanche	Steve Argyle	Black/Red/Green	R	Alara Reborn
+72	Leonin Armorguard	Steven Belledin	White/Green	C	Alara Reborn
+24	Lich Lord of Unx	Dave Allsop	Blue/Black	R	Alara Reborn
+42	Lightning Reaver	Cyril Van Der Haegen	Black/Red	R	Alara Reborn
+91	Lord of Extinction	Izzy	Black/Green	M	Alara Reborn
+101	Lorescale Coatl	Greg Staples	Blue/Green	U	Alara Reborn
+119	Madrush Cyclops	Wayne Reynolds	Black/Red/Green	R	Alara Reborn
+130	Maelstrom Nexus	Steven Belledin	White/Blue/Black/Red/Green	M	Alara Reborn
+92	Maelstrom Pulse	Anthony Francisco	Black/Green	R	Alara Reborn
+57	Mage Slayer	Lars Grant-West	Red/Green	U	Alara Reborn
+88	Magefire Wings	Zoltan Boros & Gabor Szikszai	Blue/Red	C	Alara Reborn
+140	Marisi's Twinclaws	Izzy	White/Red/Green	U	Alara Reborn
+93	Marrow Chomper	Lars Grant-West	Black/Green	U	Alara Reborn
+25	Mask of Riddles	Matt Cavotta	Blue/Black	U	Alara Reborn
+121	Mayael's Aria	Steve Argyle	White/Red/Green	R	Alara Reborn
+8	Meddling Mage	Todd Lockwood	White/Blue	R	Alara Reborn
+145	Messenger Falcons	David Palumbo	White/Blue/Green	U	Alara Reborn
+26	Mind Funeral	rk post	Blue/Black	U	Alara Reborn
+27	Mistvein Borderpost	Pete Venters	Blue/Black	C	Alara Reborn
+43	Monstrous Carabid	Pete Venters	Black/Red	C	Alara Reborn
+94	Morbid Bloom	Trevor Claxton	Black/Green	U	Alara Reborn
+73	Mycoid Shepherd	Trevor Claxton	White/Green	R	Alara Reborn
+141	Naya Hushblade	Jason Chan	White/Red/Green	C	Alara Reborn
+122	Naya Sojourners	John Avon	White/Red/Green	C	Alara Reborn
+82	Necromancer's Covenant	Thomas M. Baxa	White/Black	R	Alara Reborn
+28	Nemesis of Reason	Mark Tedin	Blue/Black	R	Alara Reborn
+102	Nulltread Gargantuan	Anthony Francisco	Blue/Green	U	Alara Reborn
+9	Offering to Asha	Daarken	White/Blue	C	Alara Reborn
+74	Pale Recluse	Cyril Van Der Haegen	White/Green	C	Alara Reborn
+58	Predatory Advantage	Raymond Swanland	Red/Green	R	Alara Reborn
+95	Putrid Leech	Dave Allsop	Black/Green	C	Alara Reborn
+75	Qasali Pridemage	Chris Rahn	White/Green	C	Alara Reborn
+76	Reborn Hope	Warren Mahy	White/Green	U	Alara Reborn
+123	Retaliator Griffin	Jesper Ejsing	White/Red/Green	R	Alara Reborn
+59	Rhox Brute	Raymond Swanland	Red/Green	C	Alara Reborn
+103	Sages of the Anima	Kev Walker	Blue/Green	R	Alara Reborn
+10	Sanctum Plowbeast	Anthony Francisco	White/Blue	C	Alara Reborn
+139	Sangrite Backlash	Cyril Van Der Haegen	Black/Red/Green	C	Alara Reborn
+44	Sanity Gnawers	Pete Venters	Black/Red	U	Alara Reborn
+109	Sen Triplets	Greg Staples	White/Blue/Black	M	Alara Reborn
+135	Sewn-Eye Drake	Anthony S. Waters	Blue/Black/Red	C	Alara Reborn
+11	Shield of the Righteous	David Palumbo	White/Blue	U	Alara Reborn
+77	Sigil Captain	Howard Lyon	White/Green	U	Alara Reborn
+78	Sigil of the Nayan Gods	Warren Mahy	White/Green	C	Alara Reborn
+79	Sigiled Behemoth	Donato Giancola	White/Green	C	Alara Reborn
+45	Singe-Mind Ogre	Daarken	Black/Red	C	Alara Reborn
+89	Skyclaw Thrash	Jaime Jones	Blue/Red	U	Alara Reborn
+136	Slave of Bolas	Steve Argyle	Blue/Black/Red	U	Alara Reborn
+29	Soul Manipulation	Carl Critchlow	Blue/Black	C	Alara Reborn
+30	Soulquake	Warren Mahy	Blue/Black	R	Alara Reborn
+12	Sovereigns of Lost Alara	Donato Giancola	White/Blue	R	Alara Reborn
+90	Spellbound Dragon	Jesper Ejsing	Blue/Red	R	Alara Reborn
+60	Spellbreaker Behemoth	Jason Chan	Red/Green	R	Alara Reborn
+110	Sphinx of the Steel Wind	Kev Walker	White/Blue/Black	M	Alara Reborn
+13	Stormcaller's Boon	Brandon Kitkouski	White/Blue	C	Alara Reborn
+100	Stun Sniper	Steve Prescott	White/Red	U	Alara Reborn
+83	Tainted Sigil	Chippy	White/Black	U	Alara Reborn
+14	Talon Trooper	Matt Stewart	White/Blue	C	Alara Reborn
+46	Terminate	Wayne Reynolds	Black/Red	C	Alara Reborn
+133	Thopter Foundry	Ralph Horsley	White/Blue/Black	U	Alara Reborn
+47	Thought Hemorrhage	Chippy	Black/Red	R	Alara Reborn
+113	Thraximundar	Raymond Swanland	Blue/Black/Red	M	Alara Reborn
+31	Time Sieve	Franz Vohwinkel	Blue/Black	R	Alara Reborn
+142	Trace of Abundance	Dave Kendall	White/Red/Green	C	Alara Reborn
+15	Unbender Tine	Greg Hildebrandt	White/Blue	U	Alara Reborn
+114	Unscythe, Killer of Kings	Karl Kopinski	Blue/Black/Red	R	Alara Reborn
+124	Uril, the Miststalker	Jaime Jones	White/Red/Green	M	Alara Reborn
+61	Valley Rannet	Dave Allsop	Red/Green	C	Alara Reborn
+84	Vectis Dominator	Zoltan Boros & Gabor Szikszai	White/Black	C	Alara Reborn
+32	Vedalken Ghoul	Dave Kendall	Blue/Black	C	Alara Reborn
+104	Vedalken Heretic	Greg Staples	Blue/Green	R	Alara Reborn
+48	Veinfire Borderpost	Ralph Horsley	Black/Red	C	Alara Reborn
+62	Vengeful Rebirth	Vance Kovacs	Red/Green	U	Alara Reborn
+63	Violent Outburst	Richard Whitters	Red/Green	C	Alara Reborn
+64	Vithian Renegades	rk post	Red/Green	U	Alara Reborn
+16	Wall of Denial	Howard Lyon	White/Blue	U	Alara Reborn
+129	Wargate	Franz Vohwinkel	White/Blue/Green	R	Alara Reborn
+80	Wildfield Borderpost	Zoltan Boros & Gabor Szikszai	White/Green	C	Alara Reborn
+105	Winged Coatl	Izzy	Blue/Green	C	Alara Reborn
+85	Zealous Persecution	Christopher Moeller	White/Black	U	Alara Reborn

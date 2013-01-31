@@ -1,0 +1,274 @@
+141	Abrupt Decay	Svetlin Velinov	Black/Green	R	Return to Ravnica
+113	Aerial Predation	BD	Green	C	Return to Ravnica
+1	Angel of Serenity	Aleksi Briclot	White	M	Return to Ravnica
+85	Annihilating Fire	Clint Cearley	Red	C	Return to Ravnica
+29	Aquus Steed	Warren Mahy	Blue	U	Return to Ravnica
+142	Archon of the Triumvirate	David Rapoza	White/Blue	R	Return to Ravnica
+114	Archweaver	Jason Felix	Green	U	Return to Ravnica
+143	Armada Wurm	Volkan Baga	White/Green	M	Return to Ravnica
+2	Armory Guard	Karl Kopinski	White	C	Return to Ravnica
+3	Arrest	Greg Staples	White	U	Return to Ravnica
+86	Ash Zealot	Eric Deschamps	Red	R	Return to Ravnica
+57	Assassin's Strike	Chase Stone	Black	U	Return to Ravnica
+144	Auger Spree	Raymond Swanland	Black/Red	C	Return to Ravnica
+4	Avenging Arrow	James Ryman	White	C	Return to Ravnica
+115	Axebane Guardian	Slawomir Maniak	Green	C	Return to Ravnica
+116	Axebane Stag	Martina Pilcerova	Green	C	Return to Ravnica
+5	Azorius Arrester	Wayne Reynolds	White	C	Return to Ravnica
+145	Azorius Charm	Zoltan Boros	White/Blue	U	Return to Ravnica
+237	Azorius Guildgate	Drew Baker		C	Return to Ravnica
+6	Azorius Justiciar	Chris Rahn	White	U	Return to Ravnica
+225	Azorius Keyrune	Daniel Ljunggren		U	Return to Ravnica
+210	Azor's Elocutors	Johannes Voss	White/Blue	R	Return to Ravnica
+87	Batterhorn	Dave Kendall	Red	C	Return to Ravnica
+7	Bazaar Krovod	Lars Grant-West	White	U	Return to Ravnica
+88	Bellows Lizard	Jack Wang	Red	C	Return to Ravnica
+211	Blistercoil Weird	Dan Scott	Blue/Red	U	Return to Ravnica
+238	Blood Crypt	Vincent Proce		R	Return to Ravnica
+89	Bloodfray Giant	Steve Argyle	Red	U	Return to Ravnica
+30	Blustersquall	Willian Murai	Blue	U	Return to Ravnica
+117	Brushstrider	Raoul Vitale	Green	U	Return to Ravnica
+146	Call of the Conclave	Terese Nielsen	White/Green	U	Return to Ravnica
+31	Cancel	Karl Kopinski	Blue	C	Return to Ravnica
+147	Carnival Hellsteed	Chase Stone	Black/Red	R	Return to Ravnica
+58	Catacomb Slug	Nils Hamm	Black	C	Return to Ravnica
+148	Centaur Healer	Mark Zug	White/Green	C	Return to Ravnica
+118	Centaur's Herald	Howard Lyon	Green	C	Return to Ravnica
+90	Chaos Imps	Tyler Jacobson	Red	R	Return to Ravnica
+149	Chemister's Trick	Christopher Moeller	Blue/Red	C	Return to Ravnica
+119	Chorus of Might	Christopher Moeller	Green	C	Return to Ravnica
+226	Chromatic Lantern	Jung Park		R	Return to Ravnica
+32	Chronic Flooding	Scott Chou	Blue	C	Return to Ravnica
+227	Civic Saber	Jung Park		U	Return to Ravnica
+91	Cobblebrute	Eytan Zana	Red	C	Return to Ravnica
+228	Codex Shredder	Jason Felix		U	Return to Ravnica
+150	Collective Blessing	Svetlin Velinov	White/Green	R	Return to Ravnica
+151	Common Bond	Raymond Swanland	White/Green	C	Return to Ravnica
+8	Concordia Pegasus	Winona Nelson	White	C	Return to Ravnica
+33	Conjured Currency	Steve Argyle	Blue	R	Return to Ravnica
+152	Corpsejack Menace	Chris Rahn	Black/Green	R	Return to Ravnica
+153	Counterflux	Scott M. Fischer	Blue/Red	R	Return to Ravnica
+154	Coursers' Accord	Nils Hamm	White/Green	C	Return to Ravnica
+59	Cremate	Cynthia Sheppard	Black	C	Return to Ravnica
+34	Crosstown Courier	Chase Stone	Blue	C	Return to Ravnica
+212	Cryptborn Horror	Richard Wright	Black/Red	R	Return to Ravnica
+35	Cyclonic Rift	Chris Rahn	Blue	R	Return to Ravnica
+60	Daggerdrome Imp	Jack Wang	Black	C	Return to Ravnica
+61	Dark Revenant	Daarken	Black	U	Return to Ravnica
+62	Dead Reveler	David Palumbo	Black	C	Return to Ravnica
+120	Deadbridge Goliath	Chase Stone	Green	R	Return to Ravnica
+213	Deathrite Shaman	Steve Argyle	Black/Green	R	Return to Ravnica
+121	Death's Presence	Ryan Barger	Green	R	Return to Ravnica
+63	Desecration Demon	Jason Chan	Black	R	Return to Ravnica
+64	Destroy the Evidence	Clint Cearley	Black	C	Return to Ravnica
+155	Detention Sphere	Kev Walker	White/Blue	R	Return to Ravnica
+65	Deviant Glee	Michael C. Hayes	Black	C	Return to Ravnica
+36	Dispel	Chase Stone	Blue	C	Return to Ravnica
+37	Doorkeeper	Kev Walker	Blue	C	Return to Ravnica
+38	Downsize	Ryan Pancoast	Blue	C	Return to Ravnica
+66	Drainpipe Vermin	Trevor Claxton	Black	C	Return to Ravnica
+156	Dramatic Rescue	Ryan Pancoast	White/Blue	C	Return to Ravnica
+157	Dreadbore	Wayne Reynolds	Black/Red	R	Return to Ravnica
+158	Dreg Mangler	Peter Mohrbacher	Black/Green	U	Return to Ravnica
+122	Drudge Beetle	Slawomir Maniak	Green	C	Return to Ravnica
+123	Druid's Deliverance	Dan Scott	Green	C	Return to Ravnica
+214	Dryad Militant	Terese Nielsen	White/Green	U	Return to Ravnica
+92	Dynacharge	Matt Stewart	Red	C	Return to Ravnica
+93	Electrickery	Greg Staples	Red	C	Return to Ravnica
+159	Epic Experiment	Dan Scott	Blue/Red	M	Return to Ravnica
+160	Essence Backlash	Jung Park	Blue/Red	C	Return to Ravnica
+9	Ethereal Armor	Daarken	White	C	Return to Ravnica
+94	Explosive Impact	Steve Argyle	Red	C	Return to Ravnica
+10	Eyes in the Skies	James Ryman	White	C	Return to Ravnica
+39	Faerie Impostor	Johann Bodin	Blue	U	Return to Ravnica
+161	Fall of the Gavel	Matt Stewart	White/Blue	U	Return to Ravnica
+11	Fencing Ace	David Rapoza	White	U	Return to Ravnica
+162	Firemind's Foresight	Dan Scott	Blue/Red	R	Return to Ravnica
+270	Forest	John Avon		L	Return to Ravnica
+271	Forest	Yeong-Hao Han		L	Return to Ravnica
+272	Forest	Adam Paquette		L	Return to Ravnica
+273	Forest	Richard Wright		L	Return to Ravnica
+274	Forest	Richard Wright		L	Return to Ravnica
+215	Frostburn Weird	Mike Bierek	Blue/Red	C	Return to Ravnica
+124	Gatecreeper Vine	Trevor Claxton	Green	C	Return to Ravnica
+125	Giant Growth	Noah Bradley	Green	C	Return to Ravnica
+126	Gobbling Ooze	Johann Bodin	Green	U	Return to Ravnica
+163	Goblin Electromancer	Svetlin Velinov	Blue/Red	C	Return to Ravnica
+95	Goblin Rally	Nic Klein	Red	U	Return to Ravnica
+164	Golgari Charm	Zoltan Boros	Black/Green	U	Return to Ravnica
+127	Golgari Decoy	Marco Nelor	Green	U	Return to Ravnica
+239	Golgari Guildgate	Eytan Zana		C	Return to Ravnica
+229	Golgari Keyrune	Daniel Ljunggren		U	Return to Ravnica
+216	Golgari Longlegs	Volkan Baga	Black/Green	C	Return to Ravnica
+96	Gore-House Chainwalker	Dan Scott	Red	C	Return to Ravnica
+67	Grave Betrayal	Lucas Graciano	Black	R	Return to Ravnica
+68	Grim Roustabout	Steven Belledin	Black	C	Return to Ravnica
+165	Grisly Salvage	Dave Kendall	Black/Green	C	Return to Ravnica
+240	Grove of the Guardian	Christine Choi		R	Return to Ravnica
+217	Growing Ranks	Seb McKinnon	White/Green	R	Return to Ravnica
+97	Guild Feud	Karl Kopinski	Red	R	Return to Ravnica
+98	Guttersnipe	Steve Prescott	Red	U	Return to Ravnica
+241	Hallowed Fountain	Jung Park		R	Return to Ravnica
+166	Havoc Festival	Johannes Voss	Black/Red	R	Return to Ravnica
+167	Hellhole Flailer	Steve Prescott	Black/Red	U	Return to Ravnica
+168	Heroes' Reunion	Howard Lyon	White/Green	U	Return to Ravnica
+128	Horncaller's Chant	Eric Velhagen	Green	C	Return to Ravnica
+40	Hover Barrier	Mathias Kollros	Blue	U	Return to Ravnica
+169	Hussar Patrol	Seb McKinnon	White/Blue	C	Return to Ravnica
+170	Hypersonic Dragon	Dan Scott	Blue/Red	R	Return to Ravnica
+41	Inaction Injunction	Wayne Reynolds	Blue	C	Return to Ravnica
+42	Inspiration	Izzy	Blue	C	Return to Ravnica
+255	Island	John Avon		L	Return to Ravnica
+256	Island	Yeong-Hao Han		L	Return to Ravnica
+257	Island	Adam Paquette		L	Return to Ravnica
+258	Island	Richard Wright		L	Return to Ravnica
+259	Island	Richard Wright		L	Return to Ravnica
+171	Isperia, Supreme Judge	Scott M. Fischer	White/Blue	M	Return to Ravnica
+43	Isperia's Skywatch	Chris Rahn	Blue	C	Return to Ravnica
+172	Izzet Charm	Zoltan Boros	Blue/Red	U	Return to Ravnica
+242	Izzet Guildgate	Noah Bradley		C	Return to Ravnica
+230	Izzet Keyrune	Daniel Ljunggren		U	Return to Ravnica
+173	Izzet Staticaster	Scott M. Fischer	Blue/Red	U	Return to Ravnica
+44	Jace, Architect of Thought	Jaime Jones	Blue	M	Return to Ravnica
+174	Jarad, Golgari Lich Lord	Eric Deschamps	Black/Green	M	Return to Ravnica
+175	Jarad's Orders	Svetlin Velinov	Black/Green	R	Return to Ravnica
+218	Judge's Familiar	Jack Wang	White/Blue	U	Return to Ravnica
+12	Keening Apparition	Terese Nielsen	White	C	Return to Ravnica
+13	Knightly Valor	Matt Stewart	White	C	Return to Ravnica
+176	Korozda Guildmage	Ryan Pancoast	Black/Green	U	Return to Ravnica
+129	Korozda Monitor	Lars Grant-West	Green	C	Return to Ravnica
+69	Launch Party	Lucas Graciano	Black	C	Return to Ravnica
+99	Lobber Crew	Greg Staples	Red	C	Return to Ravnica
+177	Lotleth Troll	Vincent Proce	Black/Green	R	Return to Ravnica
+178	Loxodon Smiter	Ryan Barger	White/Green	R	Return to Ravnica
+179	Lyev Skyknight	Johannes Voss	White/Blue	U	Return to Ravnica
+130	Mana Bloom	Mike Bierek	Green	R	Return to Ravnica
+14	Martial Law	Tyler Jacobson	White	R	Return to Ravnica
+180	Mercurial Chemister	Wesley Burt	Blue/Red	R	Return to Ravnica
+70	Mind Rot	Yeong-Hao Han	Black	C	Return to Ravnica
+100	Minotaur Aggressor	Lucas Graciano	Red	U	Return to Ravnica
+101	Mizzium Mortars	Noah Bradley	Red	R	Return to Ravnica
+45	Mizzium Skin	Scott Chou	Blue	C	Return to Ravnica
+265	Mountain	John Avon		L	Return to Ravnica
+266	Mountain	Yeong-Hao Han		L	Return to Ravnica
+267	Mountain	Adam Paquette		L	Return to Ravnica
+268	Mountain	Richard Wright		L	Return to Ravnica
+269	Mountain	Richard Wright		L	Return to Ravnica
+71	Necropolis Regent	Winona Nelson	Black	M	Return to Ravnica
+181	New Prahv Guildmage	Karl Kopinski	White/Blue	U	Return to Ravnica
+182	Nivix Guildmage	Scott M. Fischer	Blue/Red	U	Return to Ravnica
+219	Nivmagus Elemental	Mike Bierek	Blue/Red	R	Return to Ravnica
+183	Niv-Mizzet, Dracogenius	Todd Lockwood	Blue/Red	M	Return to Ravnica
+131	Oak Street Innkeeper	Svetlin Velinov	Green	U	Return to Ravnica
+72	Ogre Jailbreaker	Karl Kopinski	Black	C	Return to Ravnica
+243	Overgrown Tomb	Steven Belledin		R	Return to Ravnica
+73	Pack Rat	Kev Walker	Black	R	Return to Ravnica
+15	Palisade Giant	Greg Staples	White	R	Return to Ravnica
+46	Paralyzing Grasp	Scott Chou	Blue	C	Return to Ravnica
+74	Perilous Shadow	Clint Cearley	Black	C	Return to Ravnica
+16	Phantom General	Christopher Moeller	White	U	Return to Ravnica
+231	Pithing Needle	Anthony Palumbo		R	Return to Ravnica
+250	Plains	John Avon		L	Return to Ravnica
+251	Plains	Yeong-Hao Han		L	Return to Ravnica
+252	Plains	Adam Paquette		L	Return to Ravnica
+253	Plains	Richard Wright		L	Return to Ravnica
+254	Plains	Richard Wright		L	Return to Ravnica
+17	Precinct Captain	Steve Prescott	White	R	Return to Ravnica
+47	Psychic Spiral	Ryan Pancoast	Blue	U	Return to Ravnica
+102	Pursuit of Flight	Christopher Moeller	Red	C	Return to Ravnica
+103	Pyroconvergence	Jack Wang	Red	U	Return to Ravnica
+104	Racecourse Fury	Sam Burley	Red	U	Return to Ravnica
+220	Rakdos Cackler	Ryan Barger	Black/Red	U	Return to Ravnica
+184	Rakdos Charm	Zoltan Boros	Black/Red	U	Return to Ravnica
+244	Rakdos Guildgate	Eytan Zana		C	Return to Ravnica
+232	Rakdos Keyrune	Daniel Ljunggren		U	Return to Ravnica
+185	Rakdos Ragemutt	Ryan Barger	Black/Red	U	Return to Ravnica
+186	Rakdos Ringleader	Jason Felix	Black/Red	U	Return to Ravnica
+221	Rakdos Shred-Freak	Wayne Reynolds	Black/Red	C	Return to Ravnica
+187	Rakdos, Lord of Riots	Vincent Proce	Black/Red	M	Return to Ravnica
+188	Rakdos's Return	Daarken	Black/Red	M	Return to Ravnica
+18	Rest in Peace	Terese Nielsen	White	R	Return to Ravnica
+189	Righteous Authority	Scott Chou	White/Blue	R	Return to Ravnica
+190	Risen Sanctuary	Chase Stone	White/Green	U	Return to Ravnica
+191	Rites of Reaping	David Rapoza	Black/Green	U	Return to Ravnica
+192	Rix Maadi Guildmage	Karl Kopinski	Black/Red	U	Return to Ravnica
+245	Rogue's Passage	Christine Choi		U	Return to Ravnica
+19	Rootborn Defenses	Mark Zug	White	C	Return to Ravnica
+132	Rubbleback Rhino	Johann Bodin	Green	C	Return to Ravnica
+48	Runewing	Martina Pilcerova	Blue	C	Return to Ravnica
+133	Savage Surge	Svetlin Velinov	Green	U	Return to Ravnica
+49	Search the City	Jack Wang	Blue	R	Return to Ravnica
+193	Search Warrant	Steven Belledin	White/Blue	C	Return to Ravnica
+20	Security Blockade	James Ryman	White	U	Return to Ravnica
+134	Seek the Horizon	Howard Lyon	Green	U	Return to Ravnica
+194	Selesnya Charm	Zoltan Boros	White/Green	U	Return to Ravnica
+246	Selesnya Guildgate	Howard Lyon		C	Return to Ravnica
+233	Selesnya Keyrune	Daniel Ljunggren		U	Return to Ravnica
+21	Selesnya Sentry	Wesley Burt	White	C	Return to Ravnica
+22	Seller of Songbirds	Christopher Moeller	White	C	Return to Ravnica
+75	Sewer Shambler	Nils Hamm	Black	C	Return to Ravnica
+76	Shrieking Affliction	Johann Bodin	Black	U	Return to Ravnica
+195	Skull Rend	Greg Staples	Black/Red	C	Return to Ravnica
+50	Skyline Predator	Wesley Burt	Blue	U	Return to Ravnica
+196	Skymark Roc	Christopher Moeller	White/Blue	U	Return to Ravnica
+197	Slaughter Games	Steve Prescott	Black/Red	R	Return to Ravnica
+135	Slime Molding	Marco Nelor	Green	U	Return to Ravnica
+222	Slitherhead	Greg Staples	Black/Green	U	Return to Ravnica
+198	Sluiceway Scorpion	Slawomir Maniak	Black/Green	C	Return to Ravnica
+77	Slum Reaper	Karl Kopinski	Black	U	Return to Ravnica
+23	Soul Tithe	Dave Kendall	White	U	Return to Ravnica
+51	Soulsworn Spirit	James Ryman	Blue	U	Return to Ravnica
+199	Spawn of Rix Maadi	Min Yum	Black/Red	C	Return to Ravnica
+24	Sphere of Safety	Slawomir Maniak	White	U	Return to Ravnica
+52	Sphinx of the Chimes	Greg Staples	Blue	R	Return to Ravnica
+200	Sphinx's Revelation	Slawomir Maniak	White/Blue	M	Return to Ravnica
+105	Splatter Thug	Kev Walker	Red	C	Return to Ravnica
+78	Stab Wound	Scott Chou	Black	C	Return to Ravnica
+53	Stealer of Secrets	Michael C. Hayes	Blue	C	Return to Ravnica
+247	Steam Vents	Yeong-Hao Han		R	Return to Ravnica
+136	Stonefare Crocodile	Tomasz Jedruszek	Green	C	Return to Ravnica
+106	Street Spasm	Raymond Swanland	Red	U	Return to Ravnica
+234	Street Sweeper	Izzy		U	Return to Ravnica
+223	Sundering Growth	David Palumbo	White/Green	C	Return to Ravnica
+25	Sunspire Griffin	Johannes Voss	White	C	Return to Ravnica
+201	Supreme Verdict	Sam Burley	White/Blue	R	Return to Ravnica
+107	Survey the Wreckage	Warren Mahy	Red	C	Return to Ravnica
+260	Swamp	John Avon		L	Return to Ravnica
+261	Swamp	Yeong-Hao Han		L	Return to Ravnica
+262	Swamp	Adam Paquette		L	Return to Ravnica
+263	Swamp	Richard Wright		L	Return to Ravnica
+264	Swamp	Richard Wright		L	Return to Ravnica
+26	Swift Justice	Karl Kopinski	White	C	Return to Ravnica
+54	Syncopate	Clint Cearley	Blue	U	Return to Ravnica
+235	Tablet of the Guilds	Nic Klein		U	Return to Ravnica
+79	Tavern Swindler	Cynthia Sheppard	Black	U	Return to Ravnica
+202	Teleportal	Scott M. Fischer	Blue/Red	U	Return to Ravnica
+248	Temple Garden	Volkan Baga		R	Return to Ravnica
+108	Tenement Crasher	Warren Mahy	Red	C	Return to Ravnica
+80	Terrus Wurm	Cliff Childs	Black	C	Return to Ravnica
+203	Thoughtflare	David Rapoza	Blue/Red	U	Return to Ravnica
+81	Thrill-Kill Assassin	Tyler Jacobson	Black	U	Return to Ravnica
+55	Tower Drake	Ryan Barger	Blue	C	Return to Ravnica
+137	Towering Indrik	Lars Grant-West	Green	C	Return to Ravnica
+27	Trained Caracal	James Ryman	White	C	Return to Ravnica
+109	Traitorous Instinct	Daarken	Red	C	Return to Ravnica
+249	Transguild Promenade	Noah Bradley		C	Return to Ravnica
+204	Treasured Find	Jason Chan	Black/Green	U	Return to Ravnica
+205	Trestle Troll	Peter Mohrbacher	Black/Green	C	Return to Ravnica
+206	Trostani, Selesnya's Voice	Chippy	White/Green	M	Return to Ravnica
+28	Trostani's Judgment	Christopher Moeller	White	C	Return to Ravnica
+82	Ultimate Price	Karl Kopinski	Black	U	Return to Ravnica
+83	Underworld Connections	Yeong-Hao Han	Black	R	Return to Ravnica
+138	Urban Burgeoning	Nic Klein	Green	C	Return to Ravnica
+110	Utvara Hellkite	Mark Zug	Red	M	Return to Ravnica
+111	Vandalblast	Seb McKinnon	Red	U	Return to Ravnica
+224	Vassal Soul	Dan Scott	White/Blue	C	Return to Ravnica
+112	Viashino Racketeer	Slawomir Maniak	Red	C	Return to Ravnica
+207	Vitu-Ghazi Guildmage	Jason Chan	White/Green	U	Return to Ravnica
+56	Voidwielder	Chase Stone	Blue	C	Return to Ravnica
+236	Volatile Rig	Mathias Kollros		R	Return to Ravnica
+208	Vraska the Unseen	Aleksi Briclot	Black/Green	M	Return to Ravnica
+209	Wayfaring Temple	Peter Mohrbacher	White/Green	R	Return to Ravnica
+139	Wild Beastmaster	Kev Walker	Green	R	Return to Ravnica
+140	Worldspine Wurm	Richard Wright	Green	M	Return to Ravnica
+84	Zanikev Locust	Cliff Childs	Black	U	Return to Ravnica

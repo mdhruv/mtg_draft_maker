@@ -1,0 +1,244 @@
+167	Abundant Growth	Vincent Proce	Green	C	Avacyn Restored
+125	Aggravate	Matt Stewart	Red	U	Avacyn Restored
+42	Alchemist's Apprentice	David Palumbo	Blue	C	Avacyn Restored
+225	Alchemist's Refuge	Dan Scott		R	Avacyn Restored
+43	Amass the Components	Matt Stewart	Blue	C	Avacyn Restored
+1	Angel of Glory's Rise	James Ryman	White	R	Avacyn Restored
+2	Angel of Jubilation	Terese Nielsen	White	R	Avacyn Restored
+212	Angelic Armaments	Daniel Ljunggren		U	Avacyn Restored
+4	Angelic Wall	Allen Williams	White	C	Avacyn Restored
+3	Angel's Mercy	Greg Staples	White	C	Avacyn Restored
+211	Angel's Tomb	Dan Scott		U	Avacyn Restored
+84	Appetite for Brains	Michael C. Hayes	Black	U	Avacyn Restored
+44	Arcane Melee	Jaime Jones	Blue	R	Avacyn Restored
+5	Archangel	Cynthia Sheppard	White	U	Avacyn Restored
+126	Archwing Dragon	Daarken	Red	R	Avacyn Restored
+6	Avacyn, Angel of Hope	Jason Chan	White	M	Avacyn Restored
+7	Banishing Stroke	Igor Kieryluk	White	U	Avacyn Restored
+127	Banners Raised	Mike Bierek	Red	C	Avacyn Restored
+85	Barter in Blood	Eric Deschamps	Black	U	Avacyn Restored
+128	Battle Hymn	Nils Hamm	Red	C	Avacyn Restored
+213	Bladed Bracers	Ryan Yee		C	Avacyn Restored
+168	Blessings of Nature	Anthony Francisco	Green	U	Avacyn Restored
+86	Blood Artist	Johannes Voss	Black	U	Avacyn Restored
+87	Bloodflow Connoisseur	Slawomir Maniak	Black	C	Avacyn Restored
+88	Bone Splinters	Nils Hamm	Black	C	Avacyn Restored
+129	Bonfire of the Damned	James Paick	Red	M	Avacyn Restored
+169	Borderland Ranger	Zoltan Boros	Green	C	Avacyn Restored
+170	Bower Passage	Cliff Childs	Green	U	Avacyn Restored
+208	Bruna, Light of Alabaster	Winona Nelson	White/Blue	M	Avacyn Restored
+8	Builder's Blessing	John Stanko	White	U	Avacyn Restored
+130	Burn at the Stake	Zoltan Boros	Red	R	Avacyn Restored
+89	Butcher Ghoul	Christopher Moeller	Black	C	Avacyn Restored
+9	Call to Serve	Jaime Jones	White	C	Avacyn Restored
+45	Captain of the Mists	Allen Williams	Blue	R	Avacyn Restored
+10	Cathars' Crusade	Karl Kopinski	White	R	Avacyn Restored
+11	Cathedral Sanctifier	Michael C. Hayes	White	C	Avacyn Restored
+226	Cavern of Souls	Cliff Childs		R	Avacyn Restored
+171	Champion of Lambholt	Christopher Moeller	Green	R	Avacyn Restored
+12	Cloudshift	Howard Lyon	White	C	Avacyn Restored
+13	Commander's Authority	Johannes Voss	White	U	Avacyn Restored
+214	Conjurer's Closet	Jason Felix		R	Avacyn Restored
+90	Corpse Traders	Kev Walker	Black	U	Avacyn Restored
+172	Craterhoof Behemoth	Chris Rahn	Green	M	Avacyn Restored
+46	Crippling Chill	Svetlin Velinov	Blue	C	Avacyn Restored
+91	Crypt Creeper	Scott Chou	Black	C	Avacyn Restored
+14	Cursebreak	Sam Wolfe Connelly	White	C	Avacyn Restored
+131	Dangerous Wager	Drew Baker	Red	C	Avacyn Restored
+92	Dark Impostor	Johannes Voss	Black	R	Avacyn Restored
+47	Deadeye Navigator	Tomasz Jedruszek	Blue	R	Avacyn Restored
+93	Death Wind	Tomasz Jedruszek	Black	C	Avacyn Restored
+15	Defang	Steven Belledin	White	C	Avacyn Restored
+16	Defy Death	Karl Kopinski	White	U	Avacyn Restored
+132	Demolish	Raymond Swanland	Red	C	Avacyn Restored
+94	Demonic Rising	Trevor Claxton	Black	R	Avacyn Restored
+95	Demonic Taskmaster	Chris Rahn	Black	U	Avacyn Restored
+96	Demonlord of Ashmouth	Lucas Graciano	Black	R	Avacyn Restored
+173	Descendants' Path	Terese Nielsen	Green	R	Avacyn Restored
+97	Descent into Madness	Anthony Francisco	Black	M	Avacyn Restored
+227	Desolate Lighthouse	Scott Chou		R	Avacyn Restored
+48	Devastation Tide	Raymond Swanland	Blue	R	Avacyn Restored
+17	Devout Chaplain	Lucas Graciano	White	U	Avacyn Restored
+174	Diregraf Escort	Ryan Pancoast	Green	C	Avacyn Restored
+18	Divine Deflection	Steve Prescott	White	R	Avacyn Restored
+98	Dread Slaver	Dave Kendall	Black	R	Avacyn Restored
+49	Dreadwaters	Cliff Childs	Blue	C	Avacyn Restored
+99	Driver of the Dead	James Ryman	Black	C	Avacyn Restored
+175	Druid's Familiar	Adam Paquette	Green	U	Avacyn Restored
+176	Druids' Repository	Daarken	Green	R	Avacyn Restored
+133	Dual Casting	Johannes Voss	Red	R	Avacyn Restored
+177	Eaten by Spiders	Slawomir Maniak	Green	U	Avacyn Restored
+50	Elgaud Shieldmate	Anthony Palumbo	Blue	C	Avacyn Restored
+19	Emancipation Angel	Scott Chou	White	U	Avacyn Restored
+20	Entreat the Angels	Todd Lockwood	White	M	Avacyn Restored
+100	Essence Harvest	Daarken	Black	C	Avacyn Restored
+101	Evernight Shade	Nic Klein	Black	U	Avacyn Restored
+102	Exquisite Blood	Cynthia Sheppard	Black	R	Avacyn Restored
+134	Falkenrath Exterminator	Winona Nelson	Red	U	Avacyn Restored
+21	Farbog Explorer	Scott Chou	White	C	Avacyn Restored
+51	Favorable Winds	Winona Nelson	Blue	U	Avacyn Restored
+135	Fervent Cathar	Steven Belledin	Red	C	Avacyn Restored
+52	Fettergeist	Izzy	Blue	U	Avacyn Restored
+53	Fleeting Distraction	Ryan Yee	Blue	C	Avacyn Restored
+178	Flowering Lumberknot	Nic Klein	Green	C	Avacyn Restored
+242	Forest	James Paick		L	Avacyn Restored
+243	Forest	Jung Park		L	Avacyn Restored
+244	Forest	Eytan Zana		L	Avacyn Restored
+215	Gallows at Willow Hill	John Avon		R	Avacyn Restored
+54	Galvanic Alchemist	Svetlin Velinov	Blue	C	Avacyn Restored
+136	Gang of Devils	Erica Yang	Red	U	Avacyn Restored
+55	Geist Snatch	Dan Scott	Blue	C	Avacyn Restored
+179	Geist Trappers	Anthony Palumbo	Green	C	Avacyn Restored
+56	Ghostform	Scott Chou	Blue	C	Avacyn Restored
+57	Ghostly Flicker	Raymond Swanland	Blue	C	Avacyn Restored
+58	Ghostly Touch	Jason Felix	Blue	U	Avacyn Restored
+103	Ghoulflesh	Igor Kieryluk	Black	C	Avacyn Restored
+209	Gisela, Blade of Goldnight	Jason Chan	White/Red	M	Avacyn Restored
+104	Gloom Surgeon	Volkan Baga	Black	R	Avacyn Restored
+180	Gloomwidow	Svetlin Velinov	Green	U	Avacyn Restored
+22	Goldnight Commander	Chris Rahn	White	U	Avacyn Restored
+23	Goldnight Redeemer	Karl Kopinski	White	U	Avacyn Restored
+105	Grave Exchange	Sam Wolfe Connelly	Black	C	Avacyn Restored
+106	Griselbrand	Igor Kieryluk	Black	M	Avacyn Restored
+181	Grounded	Greg Staples	Green	C	Avacyn Restored
+59	Gryff Vanguard	Jason Chan	Blue	C	Avacyn Restored
+137	Guise of Fire	Dave Kendall	Red	C	Avacyn Restored
+138	Hanweir Lancer	Steve Prescott	Red	C	Avacyn Restored
+107	Harvester of Souls	Slawomir Maniak	Black	R	Avacyn Restored
+216	Haunted Guardian	Daniel Ljunggren		U	Avacyn Restored
+60	Havengul Skaab	Vincent Proce	Blue	C	Avacyn Restored
+139	Havengul Vampire	James Ryman	Red	U	Avacyn Restored
+140	Heirs of Stromkirk	Winona Nelson	Red	C	Avacyn Restored
+24	Herald of War	Eric Deschamps	White	R	Avacyn Restored
+25	Holy Justiciar	David Rapoza	White	U	Avacyn Restored
+108	Homicidal Seclusion	Cliff Childs	Black	U	Avacyn Restored
+141	Hound of Griselbrand	Svetlin Velinov	Red	R	Avacyn Restored
+182	Howlgeist	David Rapoza	Green	U	Avacyn Restored
+109	Human Frailty	David Palumbo	Black	U	Avacyn Restored
+110	Hunted Ghoul	Ryan Pancoast	Black	C	Avacyn Restored
+61	Infinite Reflection	Igor Kieryluk	Blue	R	Avacyn Restored
+62	Into the Void	Daarken	Blue	U	Avacyn Restored
+233	Island	James Paick		L	Avacyn Restored
+234	Island	Adam Paquette		L	Avacyn Restored
+235	Island	Jung Park		L	Avacyn Restored
+183	Joint Assault	Raymond Swanland	Green	C	Avacyn Restored
+142	Kessig Malcontents	John Stanko	Red	U	Avacyn Restored
+111	Killing Wave	Steve Argyle	Black	R	Avacyn Restored
+143	Kruin Striker	Christopher Moeller	Red	C	Avacyn Restored
+184	Lair Delve	Jason A. Engle	Green	C	Avacyn Restored
+63	Latch Seeker	Vincent Proce	Blue	U	Avacyn Restored
+26	Leap of Faith	Gabor Szikszai	White	C	Avacyn Restored
+144	Lightning Mauler	Dave Kendall	Red	U	Avacyn Restored
+145	Lightning Prowess	David Rapoza	Red	U	Avacyn Restored
+64	Lone Revenant	Jaime Jones	Blue	R	Avacyn Restored
+65	Lunar Mystic	Wesley Burt	Blue	R	Avacyn Restored
+112	Maalfeld Twins	Mike Sass	Black	U	Avacyn Restored
+146	Mad Prophet	Wayne Reynolds	Red	C	Avacyn Restored
+147	Malicious Intent	Kev Walker	Red	C	Avacyn Restored
+148	Malignus	Jung Park	Red	M	Avacyn Restored
+113	Marrow Bats	Jason A. Engle	Black	U	Avacyn Restored
+66	Mass Appeal	Christopher Moeller	Blue	U	Avacyn Restored
+114	Mental Agony	Greg Staples	Black	C	Avacyn Restored
+27	Midnight Duelist	Bud Cook	White	C	Avacyn Restored
+28	Midvast Protector	James Ryman	White	C	Avacyn Restored
+67	Mist Raven	John Avon	Blue	C	Avacyn Restored
+68	Misthollow Griffin	Jaime Jones	Blue	M	Avacyn Restored
+29	Moonlight Geist	Dan Scott	White	C	Avacyn Restored
+217	Moonsilver Spear	James Paick		R	Avacyn Restored
+30	Moorland Inquisitor	David Palumbo	White	C	Avacyn Restored
+239	Mountain	James Paick		L	Avacyn Restored
+240	Mountain	Adam Paquette		L	Avacyn Restored
+241	Mountain	Eytan Zana		L	Avacyn Restored
+218	Narstad Scrapper	Steven Belledin		C	Avacyn Restored
+185	Natural End	Scott Chou	Green	C	Avacyn Restored
+31	Nearheath Pilgrim	Erica Yang	White	U	Avacyn Restored
+115	Necrobite	Nils Hamm	Black	C	Avacyn Restored
+69	Nephalia Smuggler	Matt Stewart	Blue	U	Avacyn Restored
+186	Nettle Swine	Christopher Moeller	Green	C	Avacyn Restored
+187	Nightshade Peddler	John Stanko	Green	C	Avacyn Restored
+219	Otherworld Atlas	Sam Wolfe Connelly		R	Avacyn Restored
+70	Outwit	Erica Yang	Blue	C	Avacyn Restored
+188	Pathbreaker Wurm	Nils Hamm	Green	C	Avacyn Restored
+71	Peel from Reality	Jason Felix	Blue	C	Avacyn Restored
+149	Pillar of Flame	Karl Kopinski	Red	C	Avacyn Restored
+230	Plains	Adam Paquette		L	Avacyn Restored
+231	Plains	Jung Park		L	Avacyn Restored
+232	Plains	Eytan Zana		L	Avacyn Restored
+116	Polluted Dead	Jason A. Engle	Black	C	Avacyn Restored
+117	Predator's Gambit	Zoltan Boros	Black	C	Avacyn Restored
+189	Primal Surge	David Rapoza	Green	M	Avacyn Restored
+150	Raging Poltergeist	Slawomir Maniak	Red	C	Avacyn Restored
+190	Rain of Thorns	Sam Burley	Green	U	Avacyn Restored
+151	Reforge the Soul	Jaime Jones	Red	R	Avacyn Restored
+118	Renegade Demon	Tomasz Jedruszek	Black	C	Avacyn Restored
+32	Restoration Angel	Johannes Voss	White	R	Avacyn Restored
+191	Revenge of the Hunted	Christopher Moeller	Green	R	Avacyn Restored
+33	Riders of Gavony	Volkan Baga	White	R	Avacyn Restored
+34	Righteous Blow	Clint Cearley	White	C	Avacyn Restored
+152	Riot Ringleader	Gabor Szikszai	Red	C	Avacyn Restored
+153	Rite of Ruin	Clint Cearley	Red	R	Avacyn Restored
+72	Rotcrown Ghoul	Dave Kendall	Blue	C	Avacyn Restored
+154	Rush of Blood	Cynthia Sheppard	Red	U	Avacyn Restored
+155	Scalding Devil	Erica Yang	Red	C	Avacyn Restored
+73	Scrapskin Drake	Kev Walker	Blue	C	Avacyn Restored
+220	Scroll of Avacyn	Cliff Childs		C	Avacyn Restored
+221	Scroll of Griselbrand	Cliff Childs		C	Avacyn Restored
+119	Searchlight Geist	Steven Belledin	Black	C	Avacyn Restored
+74	Second Guess	Karl Kopinski	Blue	U	Avacyn Restored
+35	Seraph of Dawn	Todd Lockwood	White	C	Avacyn Restored
+228	Seraph Sanctuary	David Palumbo		C	Avacyn Restored
+192	Sheltering Word	Igor Kieryluk	Green	C	Avacyn Restored
+210	Sigarda, Host of Herons	Chris Rahn	White/Green	M	Avacyn Restored
+36	Silverblade Paladin	Jason Chan	White	R	Avacyn Restored
+229	Slayers' Stronghold	Karl Kopinski		R	Avacyn Restored
+193	Snare the Skies	Ryan Yee	Green	C	Avacyn Restored
+194	Somberwald Sage	Steve Argyle	Green	R	Avacyn Restored
+156	Somberwald Vigilante	John Stanko	Red	C	Avacyn Restored
+195	Soul of the Harvest	Eytan Zana	Green	R	Avacyn Restored
+120	Soulcage Fiend	Jason A. Engle	Black	C	Avacyn Restored
+37	Spectral Gateguards	Wayne England	White	C	Avacyn Restored
+75	Spectral Prison	Vincent Proce	Blue	C	Avacyn Restored
+76	Spirit Away	Greg Staples	Blue	R	Avacyn Restored
+77	Stern Mentor	Igor Kieryluk	Blue	U	Avacyn Restored
+78	Stolen Goods	Anthony Francisco	Blue	R	Avacyn Restored
+157	Stonewright	Wesley Burt	Red	U	Avacyn Restored
+236	Swamp	James Paick		L	Avacyn Restored
+237	Swamp	Adam Paquette		L	Avacyn Restored
+238	Swamp	Jung Park		L	Avacyn Restored
+79	Tamiyo, the Moon Sage	Eric Deschamps	Blue	M	Avacyn Restored
+80	Tandem Lookout	Kev Walker	Blue	U	Avacyn Restored
+81	Temporal Mastery	Franz Vohwinkel	Blue	M	Avacyn Restored
+38	Terminus	James Paick	White	R	Avacyn Restored
+196	Terrifying Presence	Jaime Jones	Green	C	Avacyn Restored
+158	Thatcher Revolt	Ryan Pancoast	Red	C	Avacyn Restored
+39	Thraben Valiant	Jason Chan	White	C	Avacyn Restored
+159	Thunderbolt	Anthony Francisco	Red	C	Avacyn Restored
+160	Thunderous Wrath	Adam Paquette	Red	U	Avacyn Restored
+161	Tibalt, the Fiend-Blooded	Peter Mohrbacher	Red	M	Avacyn Restored
+197	Timberland Guide	Zoltan Boros	Green	C	Avacyn Restored
+222	Tormentor's Trident	Anthony Palumbo		U	Avacyn Restored
+121	Treacherous Pit-Dweller	Svetlin Velinov	Black	R	Avacyn Restored
+122	Triumph of Cruelty	Izzy	Black	U	Avacyn Restored
+198	Triumph of Ferocity	James Ryman	Green	U	Avacyn Restored
+199	Trusted Forcemage	Cynthia Sheppard	Green	C	Avacyn Restored
+162	Tyrant of Discord	Richard Wright	Red	R	Avacyn Restored
+200	Ulvenwald Tracker	Christopher Moeller	Green	R	Avacyn Restored
+163	Uncanny Speed	Raymond Swanland	Red	C	Avacyn Restored
+123	Undead Executioner	Dave Kendall	Black	C	Avacyn Restored
+124	Unhallowed Pact	Volkan Baga	Black	C	Avacyn Restored
+223	Vanguard's Shield	Ryan Pancoast		C	Avacyn Restored
+82	Vanishment	Daarken	Blue	U	Avacyn Restored
+224	Vessel of Endless Rest	John Avon		U	Avacyn Restored
+164	Vexing Devil	Lucas Graciano	Red	R	Avacyn Restored
+165	Vigilante Justice	Steve Prescott	Red	U	Avacyn Restored
+40	Voice of the Provinces	Igor Kieryluk	White	C	Avacyn Restored
+201	Vorstclaw	Lucas Graciano	Green	U	Avacyn Restored
+202	Wandering Wolf	Tomasz Jedruszek	Green	C	Avacyn Restored
+203	Wild Defiance	Slawomir Maniak	Green	R	Avacyn Restored
+204	Wildwood Geist	Lars Grant-West	Green	C	Avacyn Restored
+83	Wingcrafter	Matt Stewart	Blue	C	Avacyn Restored
+205	Wolfir Avenger	Daniel Ljunggren	Green	U	Avacyn Restored
+206	Wolfir Silverheart	Raymond Swanland	Green	R	Avacyn Restored
+207	Yew Spirit	Dan Scott	Green	U	Avacyn Restored
+166	Zealous Conscripts	Steve Prescott	Red	R	Avacyn Restored
+41	Zealous Strike	Bud Cook	White	C	Avacyn Restored

@@ -1,0 +1,249 @@
+63	Ad Nauseam	Jeremy Jarvis	Black	R	Shards of Alara
+153	Agony Warp	Dave Allsop	Blue/Black	C	Shards of Alara
+154	Ajani Vengeant	Wayne Reynolds	White/Red	M	Shards of Alara
+1	Akrasan Squire	Todd Lockwood	White	C	Shards of Alara
+123	Algae Gharial	Michael Ryan	Green	U	Shards of Alara
+3	Angelic Benediction	Michael Komarck	White	U	Shards of Alara
+2	Angel's Herald	Greg Staples	White	U	Shards of Alara
+4	Angelsong	Sal Villagran	White	C	Shards of Alara
+220	Arcane Sanctum	Anthony Francisco		U	Shards of Alara
+64	Archdemon of Unx	Dave Allsop	Black	R	Shards of Alara
+65	Banewasp Affliction	Dave Allsop	Black	C	Shards of Alara
+5	Bant Battlemage	Donato Giancola	White	U	Shards of Alara
+155	Bant Charm	Randy Gallegos	White/Blue/Green	U	Shards of Alara
+221	Bant Panorama	Donato Giancola		C	Shards of Alara
+6	Battlegrace Angel	Matt Stewart	White	R	Shards of Alara
+124	Behemoth's Herald	Parente	Green	U	Shards of Alara
+156	Blightning	Thomas M. Baxa	Black/Red	C	Shards of Alara
+66	Blister Beetle	Anthony S. Waters	Black	C	Shards of Alara
+157	Blood Cultist	Karl Kopinski	Black/Red	U	Shards of Alara
+93	Bloodpyre Elemental	Trevor Claxton	Red	C	Shards of Alara
+94	Bloodthorn Taunter	Jesper Ejsing	Red	C	Shards of Alara
+67	Bone Splinters	Cole Eastburn	Black	C	Shards of Alara
+158	Branching Bolt	Vance Kovacs	Red/Green	C	Shards of Alara
+159	Brilliant Ultimatum	Anthony Francisco	White/Blue/Black	R	Shards of Alara
+160	Broodmate Dragon	Vance Kovacs	Black/Red/Green	R	Shards of Alara
+161	Bull Cerodon	Jesper Ejsing	White/Red	U	Shards of Alara
+95	Caldera Hellion	Raymond Swanland	Red	R	Shards of Alara
+32	Call to Heel	Randy Gallegos	Blue	C	Shards of Alara
+33	Cancel	David Palumbo	Blue	C	Shards of Alara
+162	Carrion Thrash	Jaime Jones	Black/Red/Green	C	Shards of Alara
+34	Cathartic Adept	Carl Critchlow	Blue	C	Shards of Alara
+125	Cavern Thoctar	Jean-Sébastien Rossbach	Green	C	Shards of Alara
+163	Clarion Ultimatum	Michael Komarck	White/Blue/Green	R	Shards of Alara
+35	Cloudheath Drake	Izzy	Blue	C	Shards of Alara
+36	Coma Veil	Dan Scott	Blue	C	Shards of Alara
+68	Corpse Connoisseur	Mark Hyzer	Black	U	Shards of Alara
+37	Courier's Capsule	Andrew Murray	Blue	C	Shards of Alara
+126	Court Archers	Randy Gallegos	Green	C	Shards of Alara
+38	Covenant of Minds	Dan Seagrave	Blue	R	Shards of Alara
+7	Cradle of Vitality	Trevor Hairsine	White	R	Shards of Alara
+96	Crucible of Fire	Dominick Domingo	Red	R	Shards of Alara
+164	Cruel Ultimatum	Ralph Horsley	Blue/Black/Red	R	Shards of Alara
+222	Crumbling Necropolis	Dave Kendall		U	Shards of Alara
+69	Cunning Lethemancer	Paul Bonner	Black	R	Shards of Alara
+127	Cylian Elf	Steve Prescott	Green	C	Shards of Alara
+39	Dawnray Archer	Dan Dos Santos	Blue	U	Shards of Alara
+70	Death Baron	Nils Hamm	Black	R	Shards of Alara
+71	Deathgreeter	Dominick Domingo	Black	C	Shards of Alara
+165	Deft Duelist	David Palumbo	White/Blue	C	Shards of Alara
+72	Demon's Herald	Karl Kopinski	Black	U	Shards of Alara
+8	Dispeller's Capsule	Franz Vohwinkel	White	C	Shards of Alara
+97	Dragon Fodder	Jaime Jones	Red	C	Shards of Alara
+98	Dragon's Herald	Daarken	Red	U	Shards of Alara
+73	Dreg Reaver	Thomas M. Baxa	Black	C	Shards of Alara
+74	Dregscape Zombie	Lars Grant-West	Black	C	Shards of Alara
+128	Druid of the Anima	Jim Murray	Green	C	Shards of Alara
+129	Drumhunter	Jim Murray	Green	U	Shards of Alara
+9	Elspeth, Knight-Errant	Volkan Baga	White	M	Shards of Alara
+130	Elvish Visionary	D. Alexander Gregory	Green	C	Shards of Alara
+166	Empyrial Archangel	Greg Staples	White/Blue/Green	M	Shards of Alara
+40	Esper Battlemage	Matt Cavotta	Blue	U	Shards of Alara
+167	Esper Charm	Michael Bruinsma	White/Blue/Black	U	Shards of Alara
+223	Esper Panorama	Franz Vohwinkel		C	Shards of Alara
+41	Etherium Astrolabe	Michael Bruinsma	Blue	U	Shards of Alara
+42	Etherium Sculptor	Steven Belledin	Blue	C	Shards of Alara
+10	Ethersworn Canonist	Izzy	White	R	Shards of Alara
+11	Excommunicate	Matt Stewart	White	C	Shards of Alara
+75	Executioner's Capsule	Warren Mahy	Black	C	Shards of Alara
+99	Exuberant Firestoker	Zoltan Boros & Gabor Szikszai	Red	U	Shards of Alara
+43	Fatestitcher	E. M. Gist	Blue	U	Shards of Alara
+131	Feral Hydra	Steve Prescott	Green	R	Shards of Alara
+44	Filigree Sages	Dan Scott	Blue	U	Shards of Alara
+168	Fire-Field Ogre	Mitch Cotie	Blue/Black/Red	U	Shards of Alara
+100	Flameblast Dragon	Jaime Jones	Red	R	Shards of Alara
+76	Fleshbag Marauder	Pete Venters	Black	U	Shards of Alara
+246	Forest	Aleksi Briclot		L	Shards of Alara
+247	Forest	Zoltan Boros & Gabor Szikszai		L	Shards of Alara
+248	Forest	Zoltan Boros & Gabor Szikszai		L	Shards of Alara
+249	Forest	Michael Komarck		L	Shards of Alara
+45	Gather Specimens	Michael Bruinsma	Blue	R	Shards of Alara
+132	Gift of the Gargantuan	Jean-Sébastien Rossbach	Green	C	Shards of Alara
+77	Glaze Fiend	Joshua Hagler	Black	C	Shards of Alara
+101	Goblin Assault	Jaime Jones	Red	R	Shards of Alara
+169	Goblin Deathraiders	Raymond Swanland	Black/Red	C	Shards of Alara
+102	Goblin Mountaineer	Michael Ryan	Red	C	Shards of Alara
+170	Godsire	Jim Murray	White/Red/Green	M	Shards of Alara
+133	Godtoucher	Jesper Ejsing	Green	C	Shards of Alara
+78	Grixis Battlemage	Nils Hamm	Black	U	Shards of Alara
+171	Grixis Charm	Lars Grant-West	Blue/Black/Red	U	Shards of Alara
+224	Grixis Panorama	Nils Hamm		C	Shards of Alara
+12	Guardians of Akrasa	Alan Pollack	White	C	Shards of Alara
+13	Gustrider Exuberant	Wayne Reynolds	White	C	Shards of Alara
+172	Hellkite Overlord	Justin Sweet	Black/Red/Green	M	Shards of Alara
+103	Hell's Thunder	Karl Kopinski	Red	R	Shards of Alara
+173	Hindering Light	Chris Rahn	White/Blue	C	Shards of Alara
+104	Hissing Iguanar	Brandon Kitkouski	Red	C	Shards of Alara
+79	Immortal Coil	Dan Scott	Black	R	Shards of Alara
+105	Incurable Ogre	Carl Critchlow	Red	C	Shards of Alara
+80	Infest	Karl Kopinski	Black	U	Shards of Alara
+14	Invincible Hymn	Matt Stewart	White	R	Shards of Alara
+234	Island	Michael Komarck		L	Shards of Alara
+235	Island	Chippy		L	Shards of Alara
+236	Island	Chippy		L	Shards of Alara
+237	Island	Mark Tedin		L	Shards of Alara
+174	Jhessian Infiltrator	Donato Giancola	Blue/Green	U	Shards of Alara
+46	Jhessian Lookout	Donato Giancola	Blue	C	Shards of Alara
+106	Jund Battlemage	Vance Kovacs	Red	U	Shards of Alara
+175	Jund Charm	Brandon Kitkouski	Black/Red/Green	U	Shards of Alara
+225	Jund Panorama	Jaime Jones		C	Shards of Alara
+226	Jungle Shrine	Wayne Reynolds		U	Shards of Alara
+134	Jungle Weaver	Trevor Hairsine	Green	C	Shards of Alara
+47	Kathari Screecher	Pete Venters	Blue	C	Shards of Alara
+176	Kederekt Creeper	Mark Hyzer	Blue/Black/Red	C	Shards of Alara
+48	Kederekt Leviathan	Mark Hyzer	Blue	R	Shards of Alara
+135	Keeper of Progenitus	Kev Walker	Green	R	Shards of Alara
+177	Kiss of the Amesha	Todd Lockwood	White/Blue	U	Shards of Alara
+15	Knight of the Skyward Eye	Matt Stewart	White	C	Shards of Alara
+16	Knight of the White Orchid	Mark Zug	White	R	Shards of Alara
+17	Knight-Captain of Eos	Chris Rahn	White	R	Shards of Alara
+178	Kresh the Bloodbraided	Raymond Swanland	Black/Red/Green	M	Shards of Alara
+210	Lich's Mirror	Ash Wood		M	Shards of Alara
+107	Lightning Talons	Pete Venters	Red	C	Shards of Alara
+136	Lush Growth	Jesper Ejsing	Green	C	Shards of Alara
+108	Magma Spray	Jarreau Wimberly	Red	C	Shards of Alara
+138	Manaplasm	Daarken	Green	R	Shards of Alara
+18	Marble Chalice	Howard Lyon	White	C	Shards of Alara
+49	Master of Etherium	Matt Cavotta	Blue	R	Shards of Alara
+179	Mayael the Anima	Jason Chan	White/Red/Green	M	Shards of Alara
+50	Memory Erosion	Howard Lyon	Blue	R	Shards of Alara
+19	Metallurgeon	Warren Mahy	White	U	Shards of Alara
+137	Mighty Emergence	Steve Prescott	Green	U	Shards of Alara
+51	Mindlock Orb	rk post	Blue	R	Shards of Alara
+211	Minion Reflector	Mark Tedin		R	Shards of Alara
+139	Mosstodon	Parente	Green	C	Shards of Alara
+242	Mountain	Mark Tedin		L	Shards of Alara
+243	Mountain	Aleksi Briclot		L	Shards of Alara
+244	Mountain	Aleksi Briclot		L	Shards of Alara
+245	Mountain	Zoltan Boros & Gabor Szikszai		L	Shards of Alara
+140	Mycoloth	Raymond Swanland	Green	R	Shards of Alara
+141	Naturalize	Trevor Hairsine	Green	C	Shards of Alara
+142	Naya Battlemage	Steve Argyle	Green	U	Shards of Alara
+180	Naya Charm	Jesper Ejsing	White/Red/Green	U	Shards of Alara
+227	Naya Panorama	Hideaki Takamura		C	Shards of Alara
+181	Necrogenesis	Trevor Claxton	Black/Green	U	Shards of Alara
+212	Obelisk of Bant	David Palumbo		C	Shards of Alara
+213	Obelisk of Esper	Francis Tsai		C	Shards of Alara
+214	Obelisk of Grixis	Nils Hamm		C	Shards of Alara
+215	Obelisk of Jund	Brandon Kitkouski		C	Shards of Alara
+216	Obelisk of Naya	Steve Prescott		C	Shards of Alara
+20	Oblivion Ring	Franz Vohwinkel	White	C	Shards of Alara
+81	Onyx Goblet	rk post	Black	C	Shards of Alara
+143	Ooze Garden	Anthony S. Waters	Green	R	Shards of Alara
+52	Outrider of Jhess	Alan Pollack	Blue	C	Shards of Alara
+230	Plains	Zoltan Boros & Gabor Szikszai		L	Shards of Alara
+231	Plains	Michael Komarck		L	Shards of Alara
+232	Plains	Michael Komarck		L	Shards of Alara
+233	Plains	Chippy		L	Shards of Alara
+109	Predator Dragon	Raymond Swanland	Red	R	Shards of Alara
+182	Prince of Thralls	Paul Bonner	Blue/Black/Red	M	Shards of Alara
+53	Protomatter Powder	Francis Tsai	Blue	U	Shards of Alara
+183	Punish Ignorance	Shelly Wan	White/Blue/Black	R	Shards of Alara
+82	Puppet Conjurer	Steven Belledin	Black	U	Shards of Alara
+184	Qasali Ambusher	Kev Walker	White/Green	U	Shards of Alara
+217	Quietus Spike	Mark Brill		R	Shards of Alara
+185	Rafiq of the Many	Michael Komarck	White/Blue/Green	M	Shards of Alara
+186	Rakeclaw Gargantuan	Jesper Ejsing	White/Red/Green	C	Shards of Alara
+21	Ranger of Eos	Volkan Baga	White	R	Shards of Alara
+187	Realm Razer	Hideaki Takamura	White/Red/Green	R	Shards of Alara
+218	Relic of Progenitus	Jean-Sébastien Rossbach		C	Shards of Alara
+144	Resounding Roar	Steve Prescott	Green	C	Shards of Alara
+83	Resounding Scream	Thomas M. Baxa	Black	C	Shards of Alara
+22	Resounding Silence	Mark Zug	White	C	Shards of Alara
+110	Resounding Thunder	Jon Foster	Red	C	Shards of Alara
+54	Resounding Wave	Izzy	Blue	C	Shards of Alara
+145	Rhox Charger	Chris Rahn	Green	U	Shards of Alara
+188	Rhox War Monk	Dan Dos Santos	White/Blue/Green	U	Shards of Alara
+111	Ridge Rannet	Jim Murray	Red	C	Shards of Alara
+189	Rip-Clan Crasher	Justin Sweet	Red/Green	C	Shards of Alara
+23	Rockcaster Platoon	David Palumbo	White	U	Shards of Alara
+112	Rockslide Elemental	Joshua Hagler	Red	U	Shards of Alara
+146	Sacellum Godspeaker	Wayne Reynolds	Green	R	Shards of Alara
+84	Salvage Titan	Anthony Francisco	Black	R	Shards of Alara
+24	Sanctum Gargoyle	Shelly Wan	White	C	Shards of Alara
+190	Sangrite Surge	Jarreau Wimberly	Red/Green	U	Shards of Alara
+191	Sarkhan Vol	Daarken	Red/Green	M	Shards of Alara
+147	Savage Hunger	Trevor Claxton	Green	C	Shards of Alara
+228	Savage Lands	Vance Kovacs		U	Shards of Alara
+85	Scavenger Drake	Trevor Claxton	Black	U	Shards of Alara
+113	Scourge Devil	Dave Kendall	Red	U	Shards of Alara
+25	Scourglass	Matt Cavotta	White	R	Shards of Alara
+229	Seaside Citadel	Volkan Baga		U	Shards of Alara
+192	Sedraxis Specter	Cole Eastburn	Blue/Black/Red	R	Shards of Alara
+193	Sedris, the Traitor King	Paul Bonner	Blue/Black/Red	M	Shards of Alara
+86	Shadowfeed	Dave Kendall	Black	C	Shards of Alara
+55	Sharding Sphinx	Michael Bruinsma	Blue	R	Shards of Alara
+194	Sharuum the Hegemon	Izzy	White/Blue/Black	M	Shards of Alara
+87	Shore Snapper	Dave Kendall	Black	C	Shards of Alara
+26	Sighted-Caste Sorcerer	Chris Rahn	White	C	Shards of Alara
+195	Sigil Blessing	Matt Stewart	White/Green	C	Shards of Alara
+219	Sigil of Distinction	Alan Pollack		R	Shards of Alara
+27	Sigiled Paladin	Greg Staples	White	U	Shards of Alara
+88	Skeletal Kathari	Carl Critchlow	Black	C	Shards of Alara
+114	Skeletonize	Karl Kopinski	Red	U	Shards of Alara
+56	Skill Borrower	Shelly Wan	Blue	R	Shards of Alara
+148	Skullmulcher	Michael Ryan	Green	R	Shards of Alara
+115	Soul's Fire	Wayne Reynolds	Red	C	Shards of Alara
+28	Soul's Grace	Christopher Moeller	White	C	Shards of Alara
+149	Soul's Might	Kev Walker	Green	C	Shards of Alara
+150	Spearbreaker Behemoth	Christopher Moeller	Green	R	Shards of Alara
+57	Spell Snip	Michael Sutfin	Blue	C	Shards of Alara
+196	Sphinx Sovereign	Chippy	White/Blue/Black	M	Shards of Alara
+58	Sphinx's Herald	Dan Scott	Blue	U	Shards of Alara
+197	Sprouting Thrinax	Jarreau Wimberly	Black/Red/Green	U	Shards of Alara
+59	Steelclad Serpent	Carl Critchlow	Blue	C	Shards of Alara
+198	Steward of Valeron	Greg Staples	White/Green	C	Shards of Alara
+199	Stoic Angel	Volkan Baga	White/Blue/Green	R	Shards of Alara
+29	Sunseed Nurturer	Steve Argyle	White	U	Shards of Alara
+238	Swamp	Chippy		L	Shards of Alara
+239	Swamp	Mark Tedin		L	Shards of Alara
+240	Swamp	Mark Tedin		L	Shards of Alara
+241	Swamp	Aleksi Briclot		L	Shards of Alara
+200	Swerve	Karl Kopinski	Blue/Red	U	Shards of Alara
+89	Tar Fiend	Anthony S. Waters	Black	R	Shards of Alara
+60	Tezzeret the Seeker	Anthony Francisco	Blue	M	Shards of Alara
+116	Thorn-Thrash Viashino	Jon Foster	Red	C	Shards of Alara
+201	Thoughtcutter Agent	Cyril Van Der Haegen	Blue/Black	U	Shards of Alara
+117	Thunder-Thrash Elder	Brandon Kitkouski	Red	U	Shards of Alara
+202	Tidehollow Sculler	rk post	White/Black	U	Shards of Alara
+203	Tidehollow Strix	Cyril Van Der Haegen	Blue/Black	C	Shards of Alara
+204	Titanic Ultimatum	Steve Prescott	White/Red/Green	R	Shards of Alara
+151	Topan Ascetic	Sal Villagran	Green	U	Shards of Alara
+61	Tortoise Formation	Mark Zug	Blue	C	Shards of Alara
+205	Tower Gargoyle	Matt Cavotta	White/Blue/Black	U	Shards of Alara
+90	Undead Leotau	Carl Critchlow	Black	C	Shards of Alara
+62	Vectis Silencers	Steven Belledin	Blue	C	Shards of Alara
+91	Vein Drinker	Lars Grant-West	Black	R	Shards of Alara
+118	Viashino Skeleton	Cole Eastburn	Red	C	Shards of Alara
+119	Vicious Shadows	Joshua Hagler	Red	R	Shards of Alara
+206	Violent Ultimatum	Raymond Swanland	Black/Red/Green	R	Shards of Alara
+92	Viscera Dragger	Ralph Horsley	Black	C	Shards of Alara
+120	Vithian Stinger	Dave Kendall	Red	C	Shards of Alara
+121	Volcanic Submersion	Trevor Claxton	Red	C	Shards of Alara
+207	Waveskimmer Aven	Mark Zug	White/Blue/Green	C	Shards of Alara
+30	Welkin Guide	David Palumbo	White	C	Shards of Alara
+122	Where Ancients Tread	Zoltan Boros & Gabor Szikszai	Red	R	Shards of Alara
+152	Wild Nacatl	Wayne Reynolds	Green	C	Shards of Alara
+208	Windwright Mage	Chippy	White/Blue/Black	C	Shards of Alara
+209	Woolly Thoctar	Wayne Reynolds	White/Red/Green	U	Shards of Alara
+31	Yoked Plowbeast	Steve Argyle	White	C	Shards of Alara

@@ -1,0 +1,249 @@
+159	Acidic Slime	Karl Kopinski	Green	U	Magic 2013
+1	Ajani, Caller of the Pride	D. Alexander Gregory	White	M	Magic 2013
+2	Ajani's Sunstriker	Matt Stewart	White	C	Magic 2013
+200	Akroma's Memorial	Dan Scott		M	Magic 2013
+4	Angelic Benediction	Michael Komarck	White	U	Magic 2013
+3	Angel's Mercy	Andrew Robinson	White	C	Magic 2013
+160	Arbor Elf	rk post	Green	C	Magic 2013
+41	Archaeomancer	Zoltan Boros	Blue	C	Magic 2013
+42	Arctic Aven	Igor Kieryluk	Blue	U	Magic 2013
+120	Arms Dealer	Wayne Reynolds	Red	U	Magic 2013
+5	Attended Knight	Seb McKinnon	White	C	Magic 2013
+43	Augur of Bolas	Slawomir Maniak	Blue	U	Magic 2013
+6	Aven Squire	David Palumbo	White	C	Magic 2013
+44	Battle of Wits	Jason Chan	Blue	R	Magic 2013
+7	Battleflight Eagle	Kev Walker	White	C	Magic 2013
+121	Bladetusk Boar	Paul Bonner	Red	C	Magic 2013
+81	Blood Reckoning	Wayne Reynolds	Black	U	Magic 2013
+82	Bloodhunter Bat	Tomasz Jedruszek	Black	C	Magic 2013
+83	Bloodthrone Vampire	Steve Argyle	Black	C	Magic 2013
+161	Bond Beetle	John Avon	Green	C	Magic 2013
+162	Boundless Realms	Cliff Childs	Green	R	Magic 2013
+163	Bountiful Harvest	Jason Chan	Green	C	Magic 2013
+122	Canyon Minotaur	Steve Prescott	Red	C	Magic 2013
+8	Captain of the Watch	Greg Staples	White	R	Magic 2013
+9	Captain's Call	Greg Staples	White	C	Magic 2013
+221	Cathedral of War	Kekai Kotaki		R	Magic 2013
+164	Centaur Courser	Vance Kovacs	Green	C	Magic 2013
+123	Chandra, the Firebrand	D. Alexander Gregory	Red	M	Magic 2013
+124	Chandra's Fury	Volkan Baga	Red	C	Magic 2013
+201	Chronomaton	Vincent Proce		U	Magic 2013
+125	Cleaver Riot	Dave Kendall	Red	U	Magic 2013
+202	Clock of Omens	Ryan Yee		U	Magic 2013
+45	Clone	Kev Walker	Blue	R	Magic 2013
+46	Courtly Provocateur	James Ryman	Blue	U	Magic 2013
+84	Cower in Fear	Nils Hamm	Black	U	Magic 2013
+126	Craterize	Eytan Zana	Red	C	Magic 2013
+127	Crimson Muckwader	Steven Belledin	Red	U	Magic 2013
+85	Crippling Blight	Lucas Graciano	Black	C	Magic 2013
+10	Crusader of Odric	Michael Komarck	White	U	Magic 2013
+86	Dark Favor	Allen Williams	Black	C	Magic 2013
+165	Deadly Recluse	Warren Mahy	Green	C	Magic 2013
+87	Diabolic Revelation	Raymond Swanland	Black	R	Magic 2013
+88	Disciple of Bolas	Slawomir Maniak	Black	R	Magic 2013
+89	Disentomb	Alex Horley-Orlandelli	Black	C	Magic 2013
+47	Divination	Howard Lyon	Blue	C	Magic 2013
+11	Divine Favor	Allen Williams	White	C	Magic 2013
+12	Divine Verdict	Kev Walker	White	C	Magic 2013
+203	Door to Nothingness	Svetlin Velinov		R	Magic 2013
+48	Downpour	Eytan Zana	Blue	C	Magic 2013
+128	Dragon Hatchling	David Palumbo	Red	C	Magic 2013
+222	Dragonskull Summit	Jon Foster		R	Magic 2013
+223	Drowned Catacomb	Dave Kendall		R	Magic 2013
+90	Duress	Steven Belledin	Black	C	Magic 2013
+166	Duskdale Wurm	Dan Dos Santos	Green	U	Magic 2013
+91	Duskmantle Prowler	Johannes Voss	Black	U	Magic 2013
+92	Duty-Bound Dead	Johannes Voss	Black	C	Magic 2013
+167	Elderscale Wurm	Richard Wright	Green	M	Magic 2013
+204	Elixir of Immortality	Zoltan Boros & Gabor Szikszai		U	Magic 2013
+168	Elvish Archdruid	Karl Kopinski	Green	R	Magic 2013
+169	Elvish Visionary	D. Alexander Gregory	Green	C	Magic 2013
+49	Encrust	Jason Felix	Blue	C	Magic 2013
+13	Erase	Richard Wright	White	C	Magic 2013
+93	Essence Drain	Jim Nelson	Black	C	Magic 2013
+50	Essence Scatter	Jon Foster	Blue	C	Magic 2013
+224	Evolving Wilds	Steven Belledin		C	Magic 2013
+51	Faerie Invaders	Ryan Pancoast	Blue	C	Magic 2013
+14	Faith's Reward	Raymond Swanland	White	R	Magic 2013
+170	Farseek	Martina Pilcerova	Green	C	Magic 2013
+129	Fervor	Wayne England	Red	R	Magic 2013
+130	Fire Elemental	Slawomir Maniak	Red	C	Magic 2013
+131	Firewing Phoenix	James Paick	Red	R	Magic 2013
+132	Flames of the Firebrand	Steve Argyle	Red	U	Magic 2013
+171	Flinthoof Boar	Erica Yang	Green	U	Magic 2013
+172	Fog	Jaime Jones	Green	C	Magic 2013
+52	Fog Bank	Howard Lyon	Blue	U	Magic 2013
+246	Forest	Volkan Baga		L	Magic 2013
+247	Forest	Steven Belledin		L	Magic 2013
+248	Forest	Noah Bradley		L	Magic 2013
+249	Forest	Jim Nelson		L	Magic 2013
+173	Fungal Sprouting	Brad Rigney	Green	U	Magic 2013
+133	Furnace Whelp	Matt Cavotta	Red	U	Magic 2013
+174	Garruk, Primal Hunter	D. Alexander Gregory	Green	M	Magic 2013
+175	Garruk's Packleader	Nils Hamm	Green	U	Magic 2013
+205	Gem of Becoming	Jack Wang		U	Magic 2013
+94	Giant Scorpion	Raymond Swanland	Black	C	Magic 2013
+206	Gilded Lotus	Martina Pilcerova		R	Magic 2013
+225	Glacial Fortress	Franz Vohwinkel		R	Magic 2013
+15	Glorious Charge	Izzy	White	C	Magic 2013
+134	Goblin Arsonist	Wayne Reynolds	Red	C	Magic 2013
+135	Goblin Battle Jester	Steve Prescott	Red	C	Magic 2013
+16	Griffin Protector	Christopher Moeller	White	C	Magic 2013
+176	Ground Seal	Charles Urbach	Green	R	Magic 2013
+17	Guardian Lions	Johannes Voss	White	C	Magic 2013
+18	Guardians of Akrasa	Alan Pollack	White	C	Magic 2013
+136	Hamletback Goliath	Parente & Brian Snoddy	Red	R	Magic 2013
+95	Harbor Bandit	Jesper Ejsing	Black	U	Magic 2013
+53	Harbor Serpent	Daarken	Blue	C	Magic 2013
+19	Healer of the Pride	Christopher Moeller	White	U	Magic 2013
+226	Hellion Crucible	Trevor Claxton		R	Magic 2013
+54	Hydrosurge	Steve Prescott	Blue	C	Magic 2013
+55	Index	Kev Walker	Blue	C	Magic 2013
+20	Intrepid Hero	Greg Hildebrandt	White	R	Magic 2013
+234	Island	Rob Alexander		L	Magic 2013
+235	Island	Noah Bradley		L	Magic 2013
+236	Island	Cliff Childs		L	Magic 2013
+237	Island	Peter Mohrbacher		L	Magic 2013
+56	Jace, Memory Adept	D. Alexander Gregory	Blue	M	Magic 2013
+57	Jace's Phantasm	Johann Bodin	Blue	U	Magic 2013
+207	Jayemdae Tome	Donato Giancola		U	Magic 2013
+137	Kindled Fury	Wayne Reynolds	Red	C	Magic 2013
+208	Kitesail	Cyril Van Der Haegen		U	Magic 2013
+21	Knight of Glory	Peter Mohrbacher	White	U	Magic 2013
+96	Knight of Infamy	Peter Mohrbacher	Black	U	Magic 2013
+58	Kraken Hatchling	Jason Felix	Blue	C	Magic 2013
+138	Krenko, Mob Boss	Karl Kopinski	Red	R	Magic 2013
+139	Krenko's Command	Karl Kopinski	Red	C	Magic 2013
+97	Liliana of the Dark Realms	D. Alexander Gregory	Black	M	Magic 2013
+98	Liliana's Shade	Eric Deschamps	Black	C	Magic 2013
+140	Magmaquake	Gabor Szikszai	Red	R	Magic 2013
+141	Mark of Mutiny	Mike Bierek	Red	U	Magic 2013
+99	Mark of the Vampire	Winona Nelson	Black	C	Magic 2013
+59	Master of the Pearl Trident	Ryan Pancoast	Blue	R	Magic 2013
+60	Merfolk of the Pearl Trident	Ray Lago	Blue	C	Magic 2013
+100	Mind Rot	Steve Luke	Black	C	Magic 2013
+61	Mind Sculpt	Michael C. Hayes	Blue	C	Magic 2013
+142	Mindclaw Shaman	Slawomir Maniak	Red	U	Magic 2013
+143	Mogg Flunkies	Brom	Red	C	Magic 2013
+242	Mountain	Cliff Childs		L	Magic 2013
+243	Mountain	Nils Hamm		L	Magic 2013
+244	Mountain	Karl Kopinski		L	Magic 2013
+245	Mountain	Robh Ruppel		L	Magic 2013
+101	Murder	Allen Williams	Black	C	Magic 2013
+102	Mutilate	Tyler Jacobson	Black	R	Magic 2013
+177	Mwonvuli Beast Tracker	Zoltan Boros	Green	U	Magic 2013
+178	Naturalize	Scott Chou	Green	C	Magic 2013
+103	Nefarox, Overlord of Grixis	Aleksi Briclot	Black	R	Magic 2013
+62	Negate	Jeremy Jarvis	Blue	C	Magic 2013
+199	Nicol Bolas, Planeswalker	D. Alexander Gregory	Blue/Black/Red	M	Magic 2013
+22	Oblivion Ring	Franz Vohwinkel	White	U	Magic 2013
+23	Odric, Master Tactician	Michael Komarck	White	R	Magic 2013
+63	Omniscience	Jason Chan	Blue	M	Magic 2013
+24	Pacifism	Robert Bliss	White	C	Magic 2013
+104	Phylactery Lich	Michael Komarck	Black	R	Magic 2013
+209	Phyrexian Hulk	Steven Belledin		U	Magic 2013
+25	Pillarfield Ox	Andrew Robinson	White	C	Magic 2013
+230	Plains	John Avon		L	Magic 2013
+231	Plains	Noah Bradley		L	Magic 2013
+232	Plains	Nils Hamm		L	Magic 2013
+233	Plains	Charles Urbach		L	Magic 2013
+26	Planar Cleansing	Michael Komarck	White	R	Magic 2013
+179	Plummet	Pete Venters	Green	C	Magic 2013
+180	Predatory Rampage	Wayne England	Green	R	Magic 2013
+181	Prey Upon	Dave Kendall	Green	C	Magic 2013
+210	Primal Clay	Lucas Graciano		U	Magic 2013
+182	Primal Huntbeast	Chris Rahn	Green	C	Magic 2013
+183	Primordial Hydra	Aleksi Briclot	Green	M	Magic 2013
+27	Prized Elephant	Ioan Dumitrescu	White	U	Magic 2013
+105	Public Execution	Anthony Palumbo	Black	U	Magic 2013
+184	Quirion Dryad	Todd Lockwood	Green	R	Magic 2013
+28	Rain of Blades	Rob Alexander	White	U	Magic 2013
+185	Rancor	Kev Walker	Green	U	Magic 2013
+186	Ranger's Path	Tomasz Jedruszek	Green	C	Magic 2013
+106	Ravenous Rats	Carl Critchlow	Black	C	Magic 2013
+144	Reckless Brute	Johann Bodin	Red	C	Magic 2013
+64	Redirect	Izzy	Blue	R	Magic 2013
+227	Reliquary Tower	Jesper Ejsing		U	Magic 2013
+145	Reverberate	jD	Red	R	Magic 2013
+187	Revive	Matthew D. Wilson	Green	U	Magic 2013
+65	Rewind	Dermot Power	Blue	U	Magic 2013
+29	Rhox Faithmender	Wesley Burt	White	R	Magic 2013
+211	Ring of Evos Isle	Erica Yang		U	Magic 2013
+212	Ring of Kalonia	Erica Yang		U	Magic 2013
+213	Ring of Thune	Erica Yang		U	Magic 2013
+214	Ring of Valkas	Erica Yang		U	Magic 2013
+215	Ring of Xathrid	Erica Yang		U	Magic 2013
+107	Rise from the Grave	Vance Kovacs	Black	U	Magic 2013
+188	Roaring Primadox	James Ryman	Green	U	Magic 2013
+228	Rootbound Crag	Matt Stewart		R	Magic 2013
+146	Rummaging Goblin	Karl Kopinski	Red	C	Magic 2013
+30	Safe Passage	Christopher Moeller	White	C	Magic 2013
+216	Sands of Delirium	Charles Urbach		R	Magic 2013
+66	Scroll Thief	Alex Horley-Orlandelli	Blue	C	Magic 2013
+147	Searing Spear	Chris Rahn	Red	C	Magic 2013
+189	Sentinel Spider	Vincent Proce	Green	C	Magic 2013
+190	Serpent's Gift	Steve Argyle	Green	C	Magic 2013
+31	Serra Angel	Greg Staples	White	U	Magic 2013
+32	Serra Avatar	Dermot Power	White	M	Magic 2013
+33	Serra Avenger	Scott M. Fischer	White	R	Magic 2013
+108	Servant of Nefarox	Igor Kieryluk	Black	C	Magic 2013
+109	Shimian Specter	Anthony S. Waters	Black	R	Magic 2013
+34	Show of Valor	Anthony Palumbo	White	C	Magic 2013
+110	Sign in Blood	Howard Lyon	Black	C	Magic 2013
+191	Silklash Spider	Iain McCaig	Green	R	Magic 2013
+35	Silvercoat Lion	Terese Nielsen	White	C	Magic 2013
+67	Sleep	Chris Rahn	Blue	U	Magic 2013
+148	Slumbering Dragon	Chris Rahn	Red	R	Magic 2013
+149	Smelt	Zoltan Boros	Red	C	Magic 2013
+68	Spelltwine	Noah Bradley	Blue	R	Magic 2013
+69	Sphinx of Uthuun	Kekai Kotaki	Blue	R	Magic 2013
+192	Spiked Baloth	Daarken	Green	C	Magic 2013
+217	Staff of Nin	Dan Scott		R	Magic 2013
+70	Stormtide Leviathan	Karl Kopinski	Blue	R	Magic 2013
+218	Stuffy Doll	David Rapoza		R	Magic 2013
+36	Sublime Archangel	Cynthia Sheppard	White	M	Magic 2013
+229	Sunpetal Grove	Jason Chan		R	Magic 2013
+238	Swamp	Mike Bierek		L	Magic 2013
+239	Swamp	Mike Bierek		L	Magic 2013
+240	Swamp	Cliff Childs		L	Magic 2013
+241	Swamp	Jung Park		L	Magic 2013
+71	Switcheroo	Kev Walker	Blue	U	Magic 2013
+72	Talrand, Sky Summoner	Svetlin Velinov	Blue	R	Magic 2013
+73	Talrand's Invocation	Svetlin Velinov	Blue	U	Magic 2013
+193	Thragtusk	Nils Hamm	Green	R	Magic 2013
+150	Thundermaw Hellkite	Svetlin Velinov	Red	M	Magic 2013
+194	Timberpack Wolf	John Avon	Green	C	Magic 2013
+195	Titanic Growth	Ryan Pancoast	Green	C	Magic 2013
+151	Torch Fiend	Winona Nelson	Red	U	Magic 2013
+111	Tormented Soul	Karl Kopinski	Black	C	Magic 2013
+219	Tormod's Crypt	Lars Grant-West		U	Magic 2013
+37	Touch of the Eternal	Christopher Moeller	White	R	Magic 2013
+220	Trading Post	Adam Paquette		R	Magic 2013
+74	Tricks of the Trade	Steven Belledin	Blue	C	Magic 2013
+152	Trumpet Blast	Carl Critchlow	Red	C	Magic 2013
+153	Turn to Slag	Zoltan Boros & Gabor Szikszai	Red	C	Magic 2013
+75	Unsummon	Izzy	Blue	C	Magic 2013
+112	Vampire Nighthawk	Jason Chan	Black	U	Magic 2013
+113	Vampire Nocturnus	Raymond Swanland	Black	M	Magic 2013
+196	Vastwood Gorger	Kieran Yanner	Green	C	Magic 2013
+76	Vedalken Entrancer	Dan Scott	Blue	C	Magic 2013
+114	Veilborn Ghoul	Dan Scott	Black	U	Magic 2013
+115	Vile Rebirth	Erica Yang	Black	C	Magic 2013
+77	Void Stalker	Marco Nelor	Blue	R	Magic 2013
+154	Volcanic Geyser	Clint Cearley	Red	U	Magic 2013
+155	Volcanic Strength	Izzy	Red	C	Magic 2013
+116	Walking Corpse	Igor Kieryluk	Black	C	Magic 2013
+156	Wall of Fire	Dan Dos Santos	Red	C	Magic 2013
+38	War Falcon	Volkan Baga	White	C	Magic 2013
+39	War Priest of Thune	Izzy	White	U	Magic 2013
+40	Warclamp Mastiff	David Palumbo	White	C	Magic 2013
+78	Watercourser	Mathias Kollros	Blue	C	Magic 2013
+79	Welkin Tern	Austin Hsu	Blue	C	Magic 2013
+157	Wild Guess	Lucas Graciano	Red	C	Magic 2013
+80	Wind Drake	Steve Prescott	Blue	C	Magic 2013
+117	Wit's End	Chris Rahn	Black	R	Magic 2013
+158	Worldfire	Izzy	Red	M	Magic 2013
+118	Xathrid Gorgon	Chase Stone	Black	R	Magic 2013
+197	Yeva, Nature's Herald	Eric Deschamps	Green	R	Magic 2013
+198	Yeva's Forcemage	Eric Deschamps	Green	C	Magic 2013
+119	Zombie Goliath	E. M. Gist	Black	C	Magic 2013

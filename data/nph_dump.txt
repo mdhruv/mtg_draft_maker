@@ -1,0 +1,175 @@
+78	Act of Aggression	Whit Brachna	Red	U	New Phyrexia
+129	Alloy Myr	Matt Cavotta		U	New Phyrexia
+2	Apostle's Blessing	Brad Rigney	White	C	New Phyrexia
+27	Argent Mutation	Jana Schirmer & Johannes Voss	Blue	U	New Phyrexia
+28	Arm with Æther	Austin Hsu	Blue	U	New Phyrexia
+79	Artillerize	Johann Bodin	Red	C	New Phyrexia
+3	Auriok Survivors	James Ryman	White	U	New Phyrexia
+130	Batterskull	Mark Zug		M	New Phyrexia
+103	Beast Within	Dave Allsop	Green	U	New Phyrexia
+104	Birthing Pod	Daarken	Green	R	New Phyrexia
+4	Blade Splicer	Greg Staples	White	R	New Phyrexia
+29	Blighted Agent	Anthony Francisco	Blue	C	New Phyrexia
+52	Blind Zealot	Jana Schirmer & Johannes Voss	Black	C	New Phyrexia
+131	Blinding Souleater	Igor Kieryluk		C	New Phyrexia
+80	Bludgeon Brawl	Kev Walker	Red	R	New Phyrexia
+105	Brutalizer Exarch	Mark Zug	Green	U	New Phyrexia
+132	Caged Sun	Scott Chou		R	New Phyrexia
+53	Caress of Phyrexia	Karl Kopinski	Black	U	New Phyrexia
+5	Cathedral Membrane	Richard Whitters	White	U	New Phyrexia
+30	Chained Throatseeker	Stephan Martiniere	Blue	C	New Phyrexia
+6	Chancellor of the Annex	Min Yum	White	R	New Phyrexia
+54	Chancellor of the Dross	Stephan Martiniere	Black	R	New Phyrexia
+81	Chancellor of the Forge	Chippy	Red	R	New Phyrexia
+31	Chancellor of the Spires	Nils Hamm	Blue	R	New Phyrexia
+106	Chancellor of the Tangle	Steve Prescott	Green	R	New Phyrexia
+133	Conversion Chamber	Anthony Francisco		U	New Phyrexia
+107	Corrosive Gale	Dan Scott	Green	U	New Phyrexia
+32	Corrupted Resolve	Greg Staples	Blue	U	New Phyrexia
+134	Darksteel Relic	Daniel Ljunggren		U	New Phyrexia
+108	Death-Hood Cobra	Jason Felix	Green	C	New Phyrexia
+33	Deceiver Exarch	Izzy	Blue	U	New Phyrexia
+34	Defensive Stance	Dan Scott	Blue	C	New Phyrexia
+55	Dementia Bat	Daarken	Black	C	New Phyrexia
+56	Despise	Terese Nielsen	Black	U	New Phyrexia
+57	Dismember	Terese Nielsen	Black	U	New Phyrexia
+7	Dispatch	Erica Yang	White	U	New Phyrexia
+8	Due Respect	James Ryman	White	U	New Phyrexia
+9	Elesh Norn, Grand Cenobite	Igor Kieryluk	White	M	New Phyrexia
+58	Enslave	Chris Rahn	Black	U	New Phyrexia
+59	Entomber Exarch	Svetlin Velinov	Black	U	New Phyrexia
+135	Etched Monstrosity	Steven Belledin		M	New Phyrexia
+60	Evil Presence	Scott Chou	Black	C	New Phyrexia
+10	Exclusion Ritual	Daniel Ljunggren	White	U	New Phyrexia
+82	Fallen Ferromancer	David Rapoza	Red	U	New Phyrexia
+83	Flameborn Viron	Svetlin Velinov	Red	C	New Phyrexia
+11	Forced Worship	Karl Kopinski	White	C	New Phyrexia
+174	Forest	Mark Tedin		L	New Phyrexia
+175	Forest	Mark Tedin		L	New Phyrexia
+109	Fresh Meat	Dave Allsop	Green	R	New Phyrexia
+84	Furnace Scamp	Karl Kopinski	Red	C	New Phyrexia
+85	Geosurge	Igor Kieryluk	Red	U	New Phyrexia
+61	Geth's Verdict	Whit Brachna	Black	C	New Phyrexia
+35	Gitaxian Probe	Chippy	Blue	C	New Phyrexia
+110	Glissa's Scorn	Nils Hamm	Green	C	New Phyrexia
+111	Glistener Elf	Steve Argyle	Green	C	New Phyrexia
+62	Glistening Oil	Steven Belledin	Black	R	New Phyrexia
+112	Greenhilt Trainee	Chris Rahn	Green	U	New Phyrexia
+136	Gremlin Mine	Matt Stewart		C	New Phyrexia
+63	Grim Affliction	Erica Yang	Black	C	New Phyrexia
+86	Gut Shot	Greg Staples	Red	U	New Phyrexia
+137	Hex Parasite	Raymond Swanland		R	New Phyrexia
+138	Hovermyr	Dan Scott		C	New Phyrexia
+64	Ichor Explosion	James Ryman	Black	U	New Phyrexia
+139	Immolating Souleater	Austin Hsu		C	New Phyrexia
+36	Impaler Shrike	Nils Hamm	Blue	C	New Phyrexia
+12	Inquisitor Exarch	Igor Kieryluk	White	U	New Phyrexia
+140	Insatiable Souleater	Dave Kendall		C	New Phyrexia
+87	Invader Parasite	Volkan Baga	Red	R	New Phyrexia
+168	Island	Jung Park		L	New Phyrexia
+169	Island	Jung Park		L	New Phyrexia
+141	Isolation Cell	Adrian Smith		U	New Phyrexia
+37	Jin-Gitaxias, Core Augur	Eric Deschamps	Blue	M	New Phyrexia
+128	Jor Kadeen, the Prevailer	Austin Hsu	White/Red	R	New Phyrexia
+1	Karn Liberated	Jason Chan		M	New Phyrexia
+142	Kiln Walker	Volkan Baga		U	New Phyrexia
+143	Lashwrithe	Jason Felix		R	New Phyrexia
+113	Leeching Bite	Cos Koniotis	Green	C	New Phyrexia
+65	Life's Finale	Svetlin Velinov	Black	R	New Phyrexia
+13	Lost Leonin	Min Yum	White	C	New Phyrexia
+14	Loxodon Convert	Adrian Smith	White	C	New Phyrexia
+15	Marrow Shards	Raymond Swanland	White	U	New Phyrexia
+16	Master Splicer	Chippy	White	U	New Phyrexia
+114	Maul Splicer	Jason Chan	Green	C	New Phyrexia
+115	Melira, Sylvok Outcast	Min Yum	Green	R	New Phyrexia
+38	Mental Misstep	Erica Yang	Blue	U	New Phyrexia
+144	Mindcrank	Chris Rahn		U	New Phyrexia
+39	Mindculling	Cos Koniotis	Blue	U	New Phyrexia
+88	Moltensteel Dragon	James Ryman	Red	R	New Phyrexia
+66	Mortis Dogs	Chippy	Black	C	New Phyrexia
+172	Mountain	Tomasz Jedruszek		L	New Phyrexia
+173	Mountain	Tomasz Jedruszek		L	New Phyrexia
+116	Mutagenic Growth	Dave Kendall	Green	C	New Phyrexia
+117	Mycosynth Fiend	Kev Walker	Green	U	New Phyrexia
+145	Mycosynth Wellspring	David Rapoza		C	New Phyrexia
+146	Myr Superion	Jana Schirmer & Johannes Voss		R	New Phyrexia
+147	Necropouncer	Cos Koniotis		U	New Phyrexia
+17	Norn's Annex	James Paick	White	R	New Phyrexia
+118	Noxious Revival	Matt Stewart	Green	U	New Phyrexia
+40	Numbing Dose	Brad Rigney	Blue	C	New Phyrexia
+89	Ogre Menial	David Rapoza	Red	C	New Phyrexia
+148	Omen Machine	David Rapoza		R	New Phyrexia
+67	Parasitic Implant	Jason Felix	Black	C	New Phyrexia
+149	Pestilent Souleater	Matt Stewart		C	New Phyrexia
+150	Phyrexian Hulk	Steven Belledin		C	New Phyrexia
+41	Phyrexian Ingester	Chris Rahn	Blue	R	New Phyrexia
+42	Phyrexian Metamorph	Jana Schirmer & Johannes Voss	Blue	R	New Phyrexia
+68	Phyrexian Obliterator	Todd Lockwood	Black	M	New Phyrexia
+119	Phyrexian Swarmlord	Svetlin Velinov	Green	R	New Phyrexia
+18	Phyrexian Unlife	Jason Chan	White	R	New Phyrexia
+165	Phyrexia's Core	Franz Vohwinkel		U	New Phyrexia
+69	Pith Driller	Nils Hamm	Black	C	New Phyrexia
+166	Plains	James Paick		L	New Phyrexia
+167	Plains	James Paick		L	New Phyrexia
+19	Porcelain Legionnaire	Eric Deschamps	White	C	New Phyrexia
+70	Postmortem Lunge	Daarken	Black	U	New Phyrexia
+71	Praetor's Grasp	Steve Argyle	Black	R	New Phyrexia
+90	Priest of Urabrask	Kev Walker	Red	U	New Phyrexia
+151	Pristine Talisman	Matt Cavotta		C	New Phyrexia
+43	Psychic Barrier	Dan Scott	Blue	C	New Phyrexia
+44	Psychic Surgery	Anthony Francisco	Blue	R	New Phyrexia
+20	Puresteel Paladin	Jason Chan	White	R	New Phyrexia
+91	Rage Extractor	Raymond Swanland	Red	U	New Phyrexia
+92	Razor Swine	Dave Allsop	Red	C	New Phyrexia
+72	Reaper of Sheoldred	Stephan Martiniere	Black	U	New Phyrexia
+21	Remember the Fallen	Eric Deschamps	White	C	New Phyrexia
+120	Rotted Hystrix	Dave Allsop	Green	C	New Phyrexia
+93	Ruthless Invasion	Svetlin Velinov	Red	C	New Phyrexia
+94	Scrapyard Salvo	Austin Hsu	Red	C	New Phyrexia
+22	Sensor Splicer	Izzy	White	C	New Phyrexia
+23	Shattered Angel	Kev Walker	White	U	New Phyrexia
+73	Sheoldred, Whispering One	Jana Schirmer & Johannes Voss	Black	M	New Phyrexia
+24	Shriek Raptor	Efrem Palacios	White	C	New Phyrexia
+152	Shrine of Boundless Growth	Karl Kopinski		U	New Phyrexia
+153	Shrine of Burning Rage	Dave Kendall		U	New Phyrexia
+154	Shrine of Limitless Power	Min Yum		U	New Phyrexia
+155	Shrine of Loyal Legions	Igor Kieryluk		U	New Phyrexia
+156	Shrine of Piercing Vision	Jana Schirmer & Johannes Voss		U	New Phyrexia
+157	Sickleslicer	Jason Felix		U	New Phyrexia
+95	Slag Fiend	Mike Bierek	Red	R	New Phyrexia
+96	Slash Panther	Matt Stewart	Red	C	New Phyrexia
+158	Soul Conduit	Brad Rigney		R	New Phyrexia
+159	Spellskite	Chippy		R	New Phyrexia
+121	Spinebiter	Jaime Jones	Green	U	New Phyrexia
+45	Spined Thopter	Pete Venters	Blue	C	New Phyrexia
+46	Spire Monitor	Daniel Ljunggren	Blue	C	New Phyrexia
+160	Surge Node	Lars Grant-West		U	New Phyrexia
+74	Surgical Extraction	Steven Belledin	Black	R	New Phyrexia
+25	Suture Priest	Igor Kieryluk	White	C	New Phyrexia
+170	Swamp	Lars Grant-West		L	New Phyrexia
+171	Swamp	Lars Grant-West		L	New Phyrexia
+161	Sword of War and Peace	Chris Rahn		M	New Phyrexia
+47	Tezzeret's Gambit	Karl Kopinski	Blue	U	New Phyrexia
+122	Thundering Tanadon	Dan Scott	Green	C	New Phyrexia
+97	Tormentor Exarch	Brad Rigney	Red	U	New Phyrexia
+162	Torpor Orb	Svetlin Velinov		R	New Phyrexia
+75	Toxic Nim	Karl Kopinski	Black	C	New Phyrexia
+163	Trespassing Souleater	Scott Chou		C	New Phyrexia
+123	Triumph of the Hordes	Izzy	Green	U	New Phyrexia
+164	Unwinding Clock	Mike Bierek		R	New Phyrexia
+98	Urabrask the Hidden	Brad Rigney	Red	M	New Phyrexia
+48	Vapor Snag	Raymond Swanland	Blue	C	New Phyrexia
+76	Vault Skirge	Brad Rigney	Black	C	New Phyrexia
+99	Victorious Destruction	Jung Park	Red	C	New Phyrexia
+49	Viral Drake	Lars Grant-West	Blue	U	New Phyrexia
+124	Viridian Betrayers	Karl Kopinski	Green	C	New Phyrexia
+125	Viridian Harvest	Johann Bodin	Green	C	New Phyrexia
+126	Vital Splicer	Daarken	Green	U	New Phyrexia
+100	Volt Charge	Jana Schirmer & Johannes Voss	Red	C	New Phyrexia
+127	Vorinclex, Voice of Hunger	Karl Kopinski	Green	M	New Phyrexia
+101	Vulshok Refugee	Wayne Reynolds	Red	U	New Phyrexia
+26	War Report	Mike Bierek	White	C	New Phyrexia
+102	Whipflare	Johann Bodin	Red	U	New Phyrexia
+77	Whispering Specter	Jason Felix	Black	U	New Phyrexia
+50	Wing Splicer	Kev Walker	Blue	U	New Phyrexia
+51	Xenograft	Daniel Ljunggren	Blue	R	New Phyrexia

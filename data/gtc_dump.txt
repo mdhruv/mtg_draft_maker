@@ -1,0 +1,249 @@
+85	Act of Treason	Matt Stewart	Red	C	Gatecrash
+113	Adaptive Snapjaw	Tomasz Jedruszek	Green	C	Gatecrash
+1	Aerial Maneuver	Scott Chou	White	C	Gatecrash
+29	Ætherize	Ryan Barger	Blue	U	Gatecrash
+30	Agoraphobia	Jim Murray	Blue	U	Gatecrash
+141	Alms Beast	Dan Scott	White/Black	R	Gatecrash
+114	Alpha Authority	Dave Kendall	Green	U	Gatecrash
+2	Angelic Edict	Trevor Claxton	White	C	Gatecrash
+3	Angelic Skirmisher	David Rapoza	White	R	Gatecrash
+226	Armored Transport	Cliff Childs		C	Gatecrash
+211	Arrows of Justice	James Ryman	White/Red	U	Gatecrash
+4	Assault Griffin	Eric Velhagen	White	C	Gatecrash
+142	Assemble the Legion	Eric Deschamps	White/Red	R	Gatecrash
+143	Aurelia, the Warleader	Slawomir Maniak	White/Red	M	Gatecrash
+144	Aurelia's Fury	Tyler Jacobson	White/Red	M	Gatecrash
+57	Balustrade Spy	Jaime Jones	Black	C	Gatecrash
+145	Bane Alley Broker	Clint Cearley	Blue/Black	U	Gatecrash
+5	Basilica Guards	Dan Scott	White	C	Gatecrash
+58	Basilica Screecher	Christine Choi	Black	C	Gatecrash
+212	Beckon Apparition	Cliff Childs	White/Black	C	Gatecrash
+213	Biomass Mutation	Dan Scott	Blue/Green	R	Gatecrash
+214	Bioshift	Scott Chou	Blue/Green	C	Gatecrash
+146	Biovisionary	Ryan Barger	Blue/Green	R	Gatecrash
+6	Blind Obedience	Seb McKinnon	White	R	Gatecrash
+86	Bomber Corps	Chase Stone	Red	C	Gatecrash
+147	Borborygmos Enraged	Aleksi Briclot	Red/Green	M	Gatecrash
+148	Boros Charm	Zoltan Boros	White/Red	U	Gatecrash
+7	Boros Elite	Willian Murai	White	U	Gatecrash
+239	Boros Guildgate	Noah Bradley		C	Gatecrash
+227	Boros Keyrune	Daniel Ljunggren		U	Gatecrash
+215	Boros Reckoner	Howard Lyon	White/Red	R	Gatecrash
+240	Breeding Pool	Mike Bierek		R	Gatecrash
+216	Burning-Tree Emissary	Izzy	Red/Green	U	Gatecrash
+115	Burst of Strength	Marco Nelor	Green	C	Gatecrash
+149	Call of the Nightwing	Adam Paquette	Blue/Black	U	Gatecrash
+150	Cartel Aristocrat	James Ryman	White/Black	U	Gatecrash
+87	Cinder Elemental	Svetlin Velinov	Red	U	Gatecrash
+151	Clan Defiance	Daarken	Red/Green	R	Gatecrash
+31	Clinging Anemones	Mike Bierek	Blue	C	Gatecrash
+32	Cloudfin Raptor	Peter Mohrbacher	Blue	C	Gatecrash
+217	Coerced Confession	Mathias Kollros	Blue/Black	U	Gatecrash
+152	Consuming Aberration	Karl Kopinski	Blue/Black	R	Gatecrash
+59	Contaminated Ground	Christine Choi	Black	C	Gatecrash
+60	Corpse Blockade	Lucas Graciano	Black	C	Gatecrash
+8	Court Street Denizen	Volkan Baga	White	C	Gatecrash
+88	Crackling Perimeter	Yeong-Hao Han	Red	U	Gatecrash
+116	Crocanura	Jack Wang	Green	C	Gatecrash
+117	Crowned Ceratok	Steve Prescott	Green	U	Gatecrash
+61	Crypt Ghast	Chris Rahn	Black	R	Gatecrash
+9	Daring Skyjek	Jason Chan	White	C	Gatecrash
+218	Deathcult Rogue	David Palumbo	Blue/Black	C	Gatecrash
+153	Deathpact Angel	Jason Chan	White/Black	M	Gatecrash
+62	Death's Approach	Terese Nielsen	Black	C	Gatecrash
+10	Debtor's Pulpit	James Paick	White	U	Gatecrash
+63	Devour Flesh	Kev Walker	Black	C	Gatecrash
+33	Diluvian Primordial	Stephan Martiniere	Blue	R	Gatecrash
+154	Dimir Charm	Zoltan Boros	Blue/Black	U	Gatecrash
+241	Dimir Guildgate	Cliff Childs		C	Gatecrash
+228	Dimir Keyrune	Daniel Ljunggren		U	Gatecrash
+155	Dinrova Horror	Johann Bodin	Blue/Black	U	Gatecrash
+118	Disciple of the Old Ways	Anthony Palumbo	Green	C	Gatecrash
+156	Domri Rade	Tyler Jacobson	Red/Green	M	Gatecrash
+157	Drakewing Krasis	Johann Bodin	Blue/Green	C	Gatecrash
+158	Duskmantle Guildmage	Slawomir Maniak	Blue/Black	U	Gatecrash
+159	Duskmantle Seer	Kev Walker	Blue/Black	M	Gatecrash
+11	Dutiful Thrull	Daarken	White	C	Gatecrash
+64	Dying Wish	Scott Chou	Black	U	Gatecrash
+160	Elusive Krasis	Wesley Burt	Blue/Green	U	Gatecrash
+89	Ember Beast	David Rapoza	Red	C	Gatecrash
+34	Enter the Infinite	Terese Nielsen	Blue	M	Gatecrash
+161	Executioner's Swing	Karl Kopinski	White/Black	C	Gatecrash
+119	Experiment One	Chase Stone	Green	U	Gatecrash
+162	Fathom Mage	Ryan Pancoast	Blue/Green	R	Gatecrash
+90	Firefist Striker	Tyler Jacobson	Red	U	Gatecrash
+163	Firemane Avenger	Wayne Reynolds	White/Red	R	Gatecrash
+91	Five-Alarm Fire	Karl Kopinski	Red	R	Gatecrash
+120	Forced Adaptation	Trevor Claxton	Green	C	Gatecrash
+164	Fortress Cyclops	Maciej Kuciara	White/Red	U	Gatecrash
+165	Foundry Champion	Todd Lockwood	White/Red	R	Gatecrash
+92	Foundry Street Denizen	Raoul Vitale	Red	C	Gatecrash
+166	Frenzied Tilling	Noah Bradley	Red/Green	U	Gatecrash
+35	Frilled Oculus	Marco Nelor	Blue	C	Gatecrash
+12	Frontline Medic	Willian Murai	White	R	Gatecrash
+93	Furious Resistance	Slawomir Maniak	Red	C	Gatecrash
+65	Gateway Shade	Ryan Yee	Black	U	Gatecrash
+167	Ghor-Clan Rampager	Charles Urbach	Red/Green	U	Gatecrash
+121	Giant Adephage	Christine Choi	Green	M	Gatecrash
+13	Gideon, Champion of Justice	David Rapoza	White	M	Gatecrash
+219	Gift of Orzhova	Johannes Voss	White/Black	U	Gatecrash
+229	Glaring Spotlight	Adam Paquette		R	Gatecrash
+242	Godless Shrine	Cliff Childs		R	Gatecrash
+122	Greenside Watcher	Ryan Barger	Green	C	Gatecrash
+36	Gridlock	Yeong-Hao Han	Blue	U	Gatecrash
+66	Grisly Spectacle	Zoltan Boros	Black	C	Gatecrash
+168	Ground Assault	Karl Kopinski	Red/Green	U	Gatecrash
+169	Gruul Charm	Zoltan Boros	Red/Green	U	Gatecrash
+243	Gruul Guildgate	Randy Gallegos		C	Gatecrash
+230	Gruul Keyrune	Daniel Ljunggren		U	Gatecrash
+170	Gruul Ragebeast	Dave Kendall	Red/Green	R	Gatecrash
+14	Guardian of the Gateless	Wesley Burt	White	U	Gatecrash
+15	Guildscorn Ward	Ryan Barger	White	C	Gatecrash
+67	Gutter Skulk	Mark Winters	Black	C	Gatecrash
+123	Gyre Sage	Tyler Jacobson	Green	R	Gatecrash
+37	Hands of Binding	Raymond Swanland	Blue	C	Gatecrash
+94	Hellkite Tyrant	Aleksi Briclot	Red	M	Gatecrash
+95	Hellraiser Goblin	Karl Kopinski	Red	U	Gatecrash
+171	High Priest of Penance	Mark Zug	White/Black	R	Gatecrash
+124	Hindervines	Svetlin Velinov	Green	U	Gatecrash
+16	Hold the Gates	Zoltan Boros	White	U	Gatecrash
+17	Holy Mantle	Maciej Kuciara	White	U	Gatecrash
+96	Homing Lightning	Slawomir Maniak	Red	U	Gatecrash
+68	Horror of the Dim	Jack Wang	Black	C	Gatecrash
+172	Hydroform	Howard Lyon	Blue/Green	C	Gatecrash
+69	Illness in the Ranks	Nils Hamm	Black	U	Gatecrash
+231	Illusionist's Bracers	Svetlin Velinov		R	Gatecrash
+220	Immortal Servitude	Seb McKinnon	White/Black	R	Gatecrash
+38	Incursion Specialist	Svetlin Velinov	Blue	U	Gatecrash
+125	Ivy Lane Denizen	Winona Nelson	Green	C	Gatecrash
+39	Keymaster Rogue	Winona Nelson	Blue	C	Gatecrash
+70	Killing Glare	Peter Mohrbacher	Black	U	Gatecrash
+173	Kingpin's Pet	Mark Zug	White/Black	C	Gatecrash
+18	Knight of Obligation	Ryan Barger	White	U	Gatecrash
+19	Knight Watch	Matt Stewart	White	C	Gatecrash
+40	Last Thoughts	Peter Mohrbacher	Blue	C	Gatecrash
+174	Lazav, Dimir Mastermind	David Rapoza	Blue/Black	M	Gatecrash
+97	Legion Loyalist	Eric Deschamps	Red	R	Gatecrash
+41	Leyline Phantom	Ryan Yee	Blue	C	Gatecrash
+71	Lord of the Void	Chris Rahn	Black	M	Gatecrash
+20	Luminate Primordial	Stephan Martiniere	White	R	Gatecrash
+98	Madcap Skills	Anthony Palumbo	Red	C	Gatecrash
+99	Mark for Death	Mathias Kollros	Red	U	Gatecrash
+175	Martial Glory	Raymond Swanland	White/Red	C	Gatecrash
+100	Massive Raid	Zoltan Boros	Red	C	Gatecrash
+176	Master Biomancer	Willian Murai	Blue/Green	M	Gatecrash
+72	Mental Vapors	Mark Winters	Black	U	Gatecrash
+177	Merciless Eviction	Richard Wright	White/Black	R	Gatecrash
+221	Merfolk of the Depths	Scott Chou	Blue/Green	U	Gatecrash
+42	Metropolis Sprite	Scott Chou	Blue	C	Gatecrash
+73	Midnight Recovery	Peter Mohrbacher	Black	C	Gatecrash
+232	Millennial Gargoyle	Seb McKinnon		C	Gatecrash
+126	Miming Slime	Svetlin Velinov	Green	U	Gatecrash
+178	Mind Grind	Daarken	Blue/Black	R	Gatecrash
+43	Mindeye Drake	Lars Grant-West	Blue	U	Gatecrash
+101	Molten Primordial	Stephan Martiniere	Red	R	Gatecrash
+179	Mortus Strider	Tomasz Jedruszek	Blue/Black	C	Gatecrash
+102	Mugging	Greg Staples	Red	C	Gatecrash
+21	Murder Investigation	Igor Kieryluk	White	U	Gatecrash
+180	Mystic Genesis	Mike Bierek	Blue/Green	R	Gatecrash
+127	Naturalize	Daniel Ljunggren	Green	C	Gatecrash
+22	Nav Squad Commandos	Steve Prescott	White	C	Gatecrash
+222	Nightveil Specter	Min Yum	Blue/Black	R	Gatecrash
+181	Nimbus Swimmer	Howard Lyon	Blue/Green	U	Gatecrash
+182	Obzedat, Ghost Council	Svetlin Velinov	White/Black	M	Gatecrash
+74	Ogre Slumlord	Trevor Claxton	Black	R	Gatecrash
+183	One Thousand Lashes	Daarken	White/Black	U	Gatecrash
+128	Ooze Flux	Zoltan Boros	Green	R	Gatecrash
+184	Ordruun Veteran	Greg Staples	White/Red	U	Gatecrash
+185	Orzhov Charm	Zoltan Boros	White/Black	U	Gatecrash
+244	Orzhov Guildgate	John Avon		C	Gatecrash
+233	Orzhov Keyrune	Daniel Ljunggren		U	Gatecrash
+186	Paranoid Delusions	Christopher Moeller	Blue/Black	C	Gatecrash
+223	Pit Fight	Matt Stewart	Red/Green	C	Gatecrash
+129	Predator's Rapport	Matt Stewart	Green	C	Gatecrash
+187	Primal Visitation	Christopher Moeller	Red/Green	C	Gatecrash
+188	Prime Speaker Zegana	Willian Murai	Blue/Green	M	Gatecrash
+234	Prophetic Prism	Daniel Ljunggren		C	Gatecrash
+189	Psychic Strike	Mathias Kollros	Blue/Black	C	Gatecrash
+190	Purge the Profane	Michael C. Hayes	White/Black	C	Gatecrash
+44	Rapid Hybridization	Jack Wang	Blue	U	Gatecrash
+235	Razortip Whip	James Paick		C	Gatecrash
+45	Realmwright	Slawomir Maniak	Blue	R	Gatecrash
+23	Righteous Charge	Svetlin Velinov	White	U	Gatecrash
+236	Riot Gear	Jack Wang		C	Gatecrash
+103	Ripscale Predator	Volkan Baga	Red	U	Gatecrash
+224	Rubblebelt Raiders	Chippy	Red/Green	R	Gatecrash
+191	Rubblehulk	Raymond Swanland	Red/Green	R	Gatecrash
+192	Ruination Wurm	Dave Kendall	Red/Green	C	Gatecrash
+130	Rust Scarab	Adam Paquette	Green	U	Gatecrash
+245	Sacred Foundry	Sam Burley		R	Gatecrash
+46	Sage's Row Denizen	Svetlin Velinov	Blue	C	Gatecrash
+47	Sapphire Drake	Steve Prescott	Blue	U	Gatecrash
+131	Scab-Clan Charger	Nils Hamm	Green	C	Gatecrash
+48	Scatter Arc	Peter Mohrbacher	Blue	C	Gatecrash
+104	Scorchwalker	Anthony Palumbo	Red	C	Gatecrash
+75	Sepulchral Primordial	Stephan Martiniere	Black	R	Gatecrash
+132	Serene Remembrance	David Palumbo	Green	U	Gatecrash
+76	Shadow Alley Denizen	Cynthia Sheppard	Black	C	Gatecrash
+77	Shadow Slice	Raymond Swanland	Black	C	Gatecrash
+193	Shambleshark	Wesley Burt	Blue/Green	C	Gatecrash
+225	Shattering Blow	Steve Prescott	White/Red	C	Gatecrash
+24	Shielded Passage	Raymond Swanland	White	C	Gatecrash
+194	Signal the Clans	Dave Kendall	Red/Green	R	Gatecrash
+195	Simic Charm	Zoltan Boros	Blue/Green	U	Gatecrash
+49	Simic Fluxmage	Karl Kopinski	Blue	U	Gatecrash
+246	Simic Guildgate	Svetlin Velinov		C	Gatecrash
+237	Simic Keyrune	Daniel Ljunggren		U	Gatecrash
+50	Simic Manipulator	Maciej Kuciara	Blue	R	Gatecrash
+133	Skarrg Goliath	Scott Chou	Green	R	Gatecrash
+196	Skarrg Guildmage	Aleksi Briclot	Red/Green	U	Gatecrash
+105	Skinbrand Goblin	Marco Nelor	Red	C	Gatecrash
+106	Skullcrack	Dave Kendall	Red	U	Gatecrash
+238	Skyblinder Staff	Mark Winters		C	Gatecrash
+51	Skygames	Sam Burley	Blue	C	Gatecrash
+197	Skyknight Legionnaire	Anthony Palumbo	White/Red	C	Gatecrash
+78	Slate Street Ruffian	Jim Murray	Black	C	Gatecrash
+134	Slaughterhorn	Steve Prescott	Green	C	Gatecrash
+25	Smite	Zoltan Boros	White	C	Gatecrash
+79	Smog Elemental	Yeong-Hao Han	Black	U	Gatecrash
+198	Soul Ransom	Steve Argyle	Blue/Black	R	Gatecrash
+199	Spark Trooper	James Ryman	White/Red	R	Gatecrash
+52	Spell Rupture	Kev Walker	Blue	C	Gatecrash
+135	Spire Tracer	Christopher Moeller	Green	C	Gatecrash
+53	Stolen Identity	Clint Cearley	Blue	R	Gatecrash
+247	Stomping Ground	David Palumbo		R	Gatecrash
+107	Structural Collapse	Sam Burley	Red	C	Gatecrash
+200	Sunhome Guildmage	Eric Deschamps	White/Red	U	Gatecrash
+136	Sylvan Primordial	Stephan Martiniere	Green	R	Gatecrash
+26	Syndic of Tithes	Steve Prescott	White	C	Gatecrash
+80	Syndicate Enforcer	Steven Belledin	Black	C	Gatecrash
+248	Thespian's Stage	John Avon		R	Gatecrash
+81	Thrull Parasite	Clint Cearley	Black	U	Gatecrash
+108	Tin Street Market	Noah Bradley	Red	C	Gatecrash
+54	Totally Lost	David Palumbo	Blue	C	Gatecrash
+137	Tower Defense	Seb McKinnon	Green	U	Gatecrash
+109	Towering Thunderfist	Zoltan Boros	Red	C	Gatecrash
+201	Treasury Thrull	Mark Zug	White/Black	R	Gatecrash
+202	Truefire Paladin	Michael C. Hayes	White/Red	U	Gatecrash
+82	Undercity Informer	Raymond Swanland	Black	U	Gatecrash
+83	Undercity Plague	Vincent Proce	Black	R	Gatecrash
+203	Unexpected Results	Mike Bierek	Blue/Green	R	Gatecrash
+204	Urban Evolution	Eytan Zana	Blue/Green	U	Gatecrash
+27	Urbis Protector	Steve Argyle	White	U	Gatecrash
+138	Verdant Haven	Daniel Ljunggren	Green	C	Gatecrash
+110	Viashino Shanktail	Kev Walker	Red	U	Gatecrash
+205	Vizkopa Confessor	Ryan Pancoast	White/Black	U	Gatecrash
+206	Vizkopa Guildmage	Tyler Jacobson	White/Black	U	Gatecrash
+55	Voidwalk	James Ryman	Blue	U	Gatecrash
+111	Warmind Infantry	Greg Staples	Red	C	Gatecrash
+139	Wasteland Viper	Lucas Graciano	Green	U	Gatecrash
+249	Watery Grave	Raymond Swanland		R	Gatecrash
+56	Way of the Thief	Igor Kieryluk	Blue	C	Gatecrash
+207	Whispering Madness	Clint Cearley	Blue/Black	R	Gatecrash
+84	Wight of Precinct Six	Ryan Barger	Black	U	Gatecrash
+140	Wildwood Rebirth	Dan Scott	Green	C	Gatecrash
+208	Wojek Halberdiers	Nic Klein	White/Red	C	Gatecrash
+112	Wrecking Ogre	Nils Hamm	Red	R	Gatecrash
+209	Zameck Guildmage	Chase Stone	Blue/Green	U	Gatecrash
+28	Zarichi Tiger	Nic Klein	White	C	Gatecrash
+210	Zhur-Taa Swine	Yeong-Hao Han	Red/Green	C	Gatecrash

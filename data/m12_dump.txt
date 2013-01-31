@@ -1,0 +1,250 @@
+#	Name	Artist	Color	Rarity	Set
+161	Acidic Slime	Karl Kopinski	Green	U	Magic 2012
+121	Act of Treason	Eric Deschamps	Red	C	Magic 2012
+201	Adaptive Automaton	Igor Kieryluk		R	Magic 2012
+1	Aegis Angel	Aleksi Briclot	White	R	Magic 2012
+41	Æther Adept	Eric Deschamps	Blue	C	Magic 2012
+2	Alabaster Mage	Izzy	White	U	Magic 2012
+42	Alluring Siren	Chippy	Blue	U	Magic 2012
+43	Amphin Cutthroat	Howard Lyon	Blue	C	Magic 2012
+3	Angelic Destiny	Jana Schirmer & Johannes Voss	White	M	Magic 2012
+202	Angel's Feather	Alan Pollack		U	Magic 2012
+4	Angel's Mercy	Andrew Robinson	White	C	Magic 2012
+162	Arachnus Spinner	Karl Kopinski	Green	R	Magic 2012
+163	Arachnus Web	Karl Kopinski	Green	C	Magic 2012
+5	Arbalest Elite	Chris Rahn	White	U	Magic 2012
+6	Archon of Justice	Jason Chan	White	R	Magic 2012
+7	Armored Warhorse	rk post	White	C	Magic 2012
+8	Assault Griffin	Jesper Ejsing	White	C	Magic 2012
+9	Auramancer	Rebecca Guay	White	C	Magic 2012
+164	Autumn's Veil	Kekai Kotaki	Green	U	Magic 2012
+44	Aven Fleetwing	Wayne Reynolds	Blue	C	Magic 2012
+45	Azure Mage	Izzy	Blue	U	Magic 2012
+46	Belltower Sphinx	Jim Nelson	Blue	U	Magic 2012
+10	Benalish Veteran	Steven Belledin	White	C	Magic 2012
+165	Birds of Paradise	Marcelo Vignali	Green	R	Magic 2012
+122	Blood Ogre	Christopher Moeller	Red	C	Magic 2012
+81	Blood Seeker	Greg Staples	Black	C	Magic 2012
+82	Bloodlord of Vaasgoth	Greg Staples	Black	M	Magic 2012
+83	Bloodrage Vampire	Steve Prescott	Black	C	Magic 2012
+123	Bonebreaker Giant	Kev Walker	Red	C	Magic 2012
+166	Bountiful Harvest	Jason Chan	Green	C	Magic 2012
+167	Brindle Boar	Dave Allsop	Green	C	Magic 2012
+84	Brink of Disaster	Alex Horley-Orlandelli	Black	C	Magic 2012
+224	Buried Ruin	Franz Vohwinkel		U	Magic 2012
+85	Call to the Grave	Daarken	Black	R	Magic 2012
+47	Cancel	David Palumbo	Blue	C	Magic 2012
+168	Carnage Wurm	Dave Kendall	Green	U	Magic 2012
+11	Celestial Purge	David Palumbo	White	U	Magic 2012
+86	Cemetery Reaper	Dave Allsop	Black	R	Magic 2012
+124	Chandra, the Firebrand	D. Alexander Gregory	Red	M	Magic 2012
+125	Chandra's Outrage	Christopher Moeller	Red	C	Magic 2012
+126	Chandra's Phoenix	Aleksi Briclot	Red	R	Magic 2012
+48	Chasm Drake	Anthony Francisco	Blue	C	Magic 2012
+87	Child of Night	Ash Wood	Black	C	Magic 2012
+127	Circle of Flame	Jaime Jones	Red	U	Magic 2012
+128	Combust	Jaime Jones	Red	U	Magic 2012
+88	Consume Spirit	Justin Sweet	Black	U	Magic 2012
+49	Coral Merfolk	rk post	Blue	C	Magic 2012
+129	Crimson Mage	Izzy	Red	U	Magic 2012
+203	Crown of Empires	John Avon		U	Magic 2012
+204	Crumbling Colossus	Michael C. Hayes		U	Magic 2012
+169	Cudgel Troll	Jesper Ejsing	Green	U	Magic 2012
+89	Dark Favor	Allen Williams	Black	C	Magic 2012
+12	Day of Judgment	Vincent Proce	White	R	Magic 2012
+90	Deathmark	Steven Belledin	Black	U	Magic 2012
+205	Demon's Horn	Alan Pollack		U	Magic 2012
+13	Demystify	Véronique Meignaud	White	C	Magic 2012
+91	Devouring Swarm	Wayne England	Black	C	Magic 2012
+92	Diabolic Tutor	Greg Staples	Black	U	Magic 2012
+93	Disentomb	Alex Horley-Orlandelli	Black	C	Magic 2012
+94	Distress	Michael C. Hayes	Black	C	Magic 2012
+50	Divination	Howard Lyon	Blue	C	Magic 2012
+14	Divine Favor	Allen Williams	White	C	Magic 2012
+51	Djinn of Wishes	Kev Walker	Blue	R	Magic 2012
+95	Doom Blade	Chippy	Black	C	Magic 2012
+170	Doubling Chant	Wayne England	Green	R	Magic 2012
+206	Dragon's Claw	Alan Pollack		U	Magic 2012
+225	Dragonskull Summit	Jon Foster		R	Magic 2012
+96	Drifting Shade	Tomasz Jedruszek	Black	C	Magic 2012
+226	Drowned Catacomb	Dave Kendall		R	Magic 2012
+207	Druidic Satchel	Matt Stewart		R	Magic 2012
+171	Dungrove Elder	Matt Stewart	Green	R	Magic 2012
+97	Duskhunter Bat	Jesper Ejsing	Black	C	Magic 2012
+15	Elite Vanguard	Mark Tedin	White	U	Magic 2012
+208	Elixir of Immortality	Zoltan Boros & Gabor Szikszai		U	Magic 2012
+172	Elvish Archdruid	Karl Kopinski	Green	R	Magic 2012
+130	Fiery Hellhound	Ted Galaday	Red	C	Magic 2012
+131	Fireball	Dave Dorman	Red	U	Magic 2012
+132	Firebreathing	Aleksi Briclot	Red	C	Magic 2012
+133	Flameblast Dragon	Jaime Jones	Red	R	Magic 2012
+52	Flashfreeze	Brian Despain	Blue	U	Magic 2012
+53	Flight	Mark Zug	Blue	C	Magic 2012
+134	Fling	Parente	Red	C	Magic 2012
+173	Fog	Jaime Jones	Green	C	Magic 2012
+246	Forest	Glen Angus		L	Magic 2012
+247	Forest	Volkan Baga		L	Magic 2012
+248	Forest	Jim Nelson		L	Magic 2012
+249	Forest	Ryan Pancoast		L	Magic 2012
+54	Frost Breath	Mike Bierek	Blue	C	Magic 2012
+55	Frost Titan	Mike Bierek	Blue	M	Magic 2012
+135	Furyborn Hellkite	Brad Rigney	Red	M	Magic 2012
+174	Garruk, Primal Hunter	D. Alexander Gregory	Green	M	Magic 2012
+175	Garruk's Companion	Efrem Palacios	Green	C	Magic 2012
+176	Garruk's Horde	Steve Prescott	Green	R	Magic 2012
+177	Giant Spider	Randy Gallegos	Green	C	Magic 2012
+16	Gideon Jura	Aleksi Briclot	White	M	Magic 2012
+17	Gideon's Avenger	Randy Gallegos	White	R	Magic 2012
+18	Gideon's Lawkeeper	Steve Prescott	White	C	Magic 2012
+227	Glacial Fortress	Franz Vohwinkel		R	Magic 2012
+178	Gladecover Scout	Allen Williams	Green	C	Magic 2012
+136	Goblin Arsonist	Wayne Reynolds	Red	C	Magic 2012
+137	Goblin Bangchuckers	Wayne Reynolds	Red	U	Magic 2012
+138	Goblin Chieftain	Sam Wood	Red	R	Magic 2012
+139	Goblin Fireslinger	Pete Venters	Red	C	Magic 2012
+140	Goblin Grenade	Kev Walker	Red	U	Magic 2012
+141	Goblin Piker	DiTerlizzi	Red	C	Magic 2012
+142	Goblin Tunneler	Jesper Ejsing	Red	C	Magic 2012
+143	Goblin War Paint	Austin Hsu	Red	C	Magic 2012
+144	Gorehorn Minotaurs	Wayne Reynolds	Red	C	Magic 2012
+19	Grand Abolisher	Eric Deschamps	White	R	Magic 2012
+98	Grave Titan	Nils Hamm	Black	M	Magic 2012
+99	Gravedigger	Dermot Power	Black	C	Magic 2012
+179	Greater Basilisk	James Ryman	Green	C	Magic 2012
+209	Greatsword	Nic Klein		U	Magic 2012
+20	Griffin Rider	Steve Prescott	White	C	Magic 2012
+21	Griffin Sentinel	Warren Mahy	White	C	Magic 2012
+145	Grim Lavamancer	Michael Sutfin	Red	R	Magic 2012
+22	Guardians' Pledge	Christopher Moeller	White	C	Magic 2012
+56	Harbor Serpent	Daarken	Blue	C	Magic 2012
+100	Hideous Visage	Nils Hamm	Black	C	Magic 2012
+23	Honor of the Pure	Greg Staples	White	R	Magic 2012
+180	Hunter's Insight	Terese Nielsen	Green	U	Magic 2012
+57	Ice Cage	Mike Bierek	Blue	C	Magic 2012
+146	Incinerate	Zoltan Boros & Gabor Szikszai	Red	C	Magic 2012
+147	Inferno Titan	Kev Walker	Red	M	Magic 2012
+234	Island	Rob Alexander		L	Magic 2012
+235	Island	Cliff Childs		L	Magic 2012
+236	Island	Michael Komarck		L	Magic 2012
+237	Island	Peter Mohrbacher		L	Magic 2012
+58	Jace, Memory Adept	D. Alexander Gregory	Blue	M	Magic 2012
+59	Jace's Archivist	James Ryman	Blue	R	Magic 2012
+60	Jace's Erasure	Jason Chan	Blue	C	Magic 2012
+181	Jade Mage	Izzy	Green	U	Magic 2012
+210	Kite Shield	Jim Pavelec		U	Magic 2012
+211	Kraken's Eye	Alan Pollack		U	Magic 2012
+148	Lava Axe	Brian Snoddy	Red	C	Magic 2012
+61	Levitation	Jim Murray	Blue	U	Magic 2012
+24	Lifelink	Terese Nielsen	White	C	Magic 2012
+149	Lightning Elemental	Kev Walker	Red	C	Magic 2012
+182	Llanowar Elves	Kev Walker	Green	C	Magic 2012
+62	Lord of the Unreal	Jason Chan	Blue	R	Magic 2012
+183	Lure	D. Alexander Gregory	Green	U	Magic 2012
+184	Lurking Crocodile	Donato Giancola	Green	C	Magic 2012
+63	Mana Leak	Howard Lyon	Blue	C	Magic 2012
+150	Manabarbs	Jeff Miracola	Red	R	Magic 2012
+212	Manalith	Charles Urbach		C	Magic 2012
+151	Manic Vandal	Christopher Moeller	Red	C	Magic 2012
+64	Master Thief	Christopher Moeller	Blue	U	Magic 2012
+65	Merfolk Looter	Austin Hsu	Blue	C	Magic 2012
+66	Merfolk Mesmerist	Jana Schirmer & Johannes Voss	Blue	C	Magic 2012
+25	Mesa Enchantress	Randy Gallegos	White	R	Magic 2012
+26	Mighty Leap	rk post	White	C	Magic 2012
+67	Mind Control	Ryan Pancoast	Blue	U	Magic 2012
+101	Mind Rot	Steve Luke	Black	C	Magic 2012
+68	Mind Unbound	Jason Felix	Blue	R	Magic 2012
+102	Monomania	James Ryman	Black	R	Magic 2012
+242	Mountain	Cliff Childs		L	Magic 2012
+243	Mountain	Karl Kopinski		L	Magic 2012
+244	Mountain	Robh Ruppel		L	Magic 2012
+245	Mountain	Sam Wood		L	Magic 2012
+185	Naturalize	Tim Hildebrandt	Green	C	Magic 2012
+69	Negate	Jeremy Jarvis	Blue	C	Magic 2012
+27	Oblivion Ring	Franz Vohwinkel	White	U	Magic 2012
+103	Onyx Mage	Izzy	Black	U	Magic 2012
+186	Overrun	Carl Critchlow	Green	U	Magic 2012
+28	Pacifism	Robert Bliss	White	C	Magic 2012
+213	Pentavus	Greg Staples		R	Magic 2012
+29	Peregrine Griffin	Steve Prescott	White	C	Magic 2012
+30	Personal Sanctuary	Howard Lyon	White	R	Magic 2012
+70	Phantasmal Bear	Ryan Yee	Blue	C	Magic 2012
+71	Phantasmal Dragon	Wayne Reynolds	Blue	U	Magic 2012
+72	Phantasmal Image	Nils Hamm	Blue	R	Magic 2012
+230	Plains	Rob Alexander		L	Magic 2012
+231	Plains	D. J. Cleland-Hura		L	Magic 2012
+232	Plains	Howard Lyon		L	Magic 2012
+233	Plains	Charles Urbach		L	Magic 2012
+187	Plummet	Pete Venters	Green	C	Magic 2012
+73	Ponder	Dan Scott	Blue	C	Magic 2012
+31	Pride Guardian	Chris Rahn	White	C	Magic 2012
+188	Primeval Titan	Aleksi Briclot	Green	M	Magic 2012
+189	Primordial Hydra	Aleksi Briclot	Green	M	Magic 2012
+214	Quicksilver Amulet	Brad Rigney		R	Magic 2012
+190	Rampant Growth	Steven Belledin	Green	C	Magic 2012
+104	Reassembling Skeleton	Austin Hsu	Black	U	Magic 2012
+191	Reclaim	Andrew Robinson	Green	C	Magic 2012
+74	Redirect	Izzy	Blue	R	Magic 2012
+152	Reverberate	jD	Red	R	Magic 2012
+192	Rites of Flourishing	Brandon Kitkouski	Green	R	Magic 2012
+32	Roc Egg	Paul Bonner	White	U	Magic 2012
+228	Rootbound Crag	Matt Stewart		R	Magic 2012
+105	Royal Assassin	Mark Zug	Black	R	Magic 2012
+193	Runeclaw Bear	Jesper Ejsing	Green	C	Magic 2012
+106	Rune-Scarred Demon	Michael Komarck	Black	R	Magic 2012
+215	Rusted Sentinel	Jason Felix		U	Magic 2012
+194	Sacred Wolf	Matt Stewart	Green	C	Magic 2012
+216	Scepter of Empires	John Avon		U	Magic 2012
+153	Scrambleverse	Dan Scott	Red	R	Magic 2012
+107	Sengir Vampire	Kev Walker	Black	U	Magic 2012
+33	Serra Angel	Greg Staples	White	U	Magic 2012
+154	Shock	Jon Foster	Red	C	Magic 2012
+34	Siege Mastodon	Matt Cavotta	White	C	Magic 2012
+195	Skinshifter	Matt Stewart	Green	R	Magic 2012
+75	Skywinder Drake	Dan Scott	Blue	C	Magic 2012
+155	Slaughter Cry	Matt Cavotta	Red	C	Magic 2012
+108	Smallpox	Ryan Pancoast	Black	U	Magic 2012
+217	Solemn Simulacrum	Dan Scott		R	Magic 2012
+109	Sorin Markov	Michael Komarck	Black	M	Magic 2012
+110	Sorin's Thirst	Karl Kopinski	Black	C	Magic 2012
+111	Sorin's Vengeance	Jana Schirmer & Johannes Voss	Black	R	Magic 2012
+76	Sphinx of Uthuun	Kekai Kotaki	Blue	R	Magic 2012
+35	Spirit Mantle	Izzy	White	U	Magic 2012
+196	Stampeding Rhino	Steven Belledin	Green	C	Magic 2012
+36	Stave Off	Mark Zug	White	C	Magic 2012
+197	Stingerfling Spider	Dave Allsop	Green	U	Magic 2012
+37	Stonehorn Dignitary	Dave Kendall	White	C	Magic 2012
+156	Stormblood Berserker	Min Yum	Red	U	Magic 2012
+38	Stormfront Pegasus	rk post	White	C	Magic 2012
+39	Sun Titan	Todd Lockwood	White	M	Magic 2012
+218	Sundial of the Infinite	Vincent Proce		R	Magic 2012
+229	Sunpetal Grove	Jason Chan		R	Magic 2012
+112	Sutured Ghoul	Carl Critchlow	Black	R	Magic 2012
+238	Swamp	Cliff Childs		L	Magic 2012
+239	Swamp	Chippy		L	Magic 2012
+240	Swamp	Jung Park		L	Magic 2012
+241	Swamp	Alan Pollack		L	Magic 2012
+219	Swiftfoot Boots	Svetlin Velinov		U	Magic 2012
+113	Taste of Blood	Howard Lyon	Black	C	Magic 2012
+157	Tectonic Rift	John Avon	Red	U	Magic 2012
+220	Thran Golem	Ron Spears		U	Magic 2012
+221	Throne of Empires	John Avon		R	Magic 2012
+77	Time Reversal	Howard Lyon	Blue	M	Magic 2012
+40	Timely Reinforcements	Tomasz Jedruszek	White	U	Magic 2012
+198	Titanic Growth	Ryan Pancoast	Green	C	Magic 2012
+114	Tormented Soul	Karl Kopinski	Black	C	Magic 2012
+199	Trollhide	Steven Belledin	Green	C	Magic 2012
+78	Turn to Frog	Warren Mahy	Blue	U	Magic 2012
+79	Unsummon	Izzy	Blue	C	Magic 2012
+115	Vampire Outcasts	Clint Cearley	Black	U	Magic 2012
+200	Vastwood Gorger	Kieran Yanner	Green	C	Magic 2012
+116	Vengeful Pharaoh	Igor Kieryluk	Black	R	Magic 2012
+80	Visions of Beyond	Terese Nielsen	Blue	R	Magic 2012
+158	Volcanic Dragon	Chris Rahn	Red	U	Magic 2012
+159	Wall of Torches	Mike Bierek	Red	C	Magic 2012
+117	Warpath Ghoul	rk post	Black	C	Magic 2012
+160	Warstorm Surge	Raymond Swanland	Red	R	Magic 2012
+222	Worldslayer	Greg Staples		R	Magic 2012
+118	Wring Flesh	Izzy	Black	C	Magic 2012
+223	Wurm's Tooth	Alan Pollack		U	Magic 2012
+119	Zombie Goliath	E. M. Gist	Black	C	Magic 2012
+120	Zombie Infestation	Thomas M. Baxa	Black	U	Magic 2012

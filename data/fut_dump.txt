@@ -1,0 +1,180 @@
+159	Akroma's Memorial	Dan Scott		R	Future Sight
+1	Angel of Salvation	D. Alexander Gregory	White	R	Future Sight
+94	Arc Blade	Shishizaru	Red	U	Future Sight
+48	Arcanum Wings	Carl Frank	Blue	U	Future Sight
+2	Augur il-Vec	Daren Bader	White	C	Future Sight
+63	Augur of Skulls	Chippy	Black	C	Future Sight
+32	Aven Augur	Dan Scott	Blue	C	Future Sight
+18	Aven Mindcensor	Rebecca Guay	White	U	Future Sight
+3	Barren Glory	Dave Kendall	White	R	Future Sight
+142	Baru, Fist of Krosa	Lucio Parrillo	Green	R	Future Sight
+80	Bitter Ordeal	Daarken	Black	R	Future Sight
+19	Blade of the Sixth Pride	Justin Sweet	White	C	Future Sight
+49	Blind Phantasm	Khang Le	Blue	C	Future Sight
+110	Bloodshot Trainee	Lucio Parrillo	Red	U	Future Sight
+95	Bogardan Lancer	Jim Murray	Red	C	Future Sight
+111	Boldwyr Intimidator	Esad Ribic	Red	U	Future Sight
+50	Bonded Fetch	Brandon Kitkouski	Blue	U	Future Sight
+20	Bound in Silence	William Simpson	White	U	Future Sight
+81	Bridge from Below	Greg & Tim Hildebrandt	Black	R	Future Sight
+143	Centaur Omenreader	Justin Sweet	Green	U	Future Sight
+96	Char-Rumbler	Kev Walker	Red	U	Future Sight
+4	Chronomantic Escape	Franz Vohwinkel	White	U	Future Sight
+160	Cloud Key	Trevor Hairsine		R	Future Sight
+33	Cloudseeder	Tsutomu Kawade	Blue	U	Future Sight
+161	Coalition Relic	Donato Giancola		R	Future Sight
+34	Cryptic Annelid	Anthony S. Waters	Blue	U	Future Sight
+64	Cutthroat il-Dal	Vance Kovacs	Black	C	Future Sight
+125	Cyclical Evolution	Matt Cavotta	Green	U	Future Sight
+169	Dakmor Salvage	John Avon		U	Future Sight
+167	Darksteel Garrison	David Martin		R	Future Sight
+21	Daybreak Coronet	Scott Hampton	White	R	Future Sight
+82	Death Rattle	Vance Kovacs	Black	C	Future Sight
+83	Deepcavern Imp	Scott Altmann	Black	C	Future Sight
+35	Delay	Ron Spears	Blue	U	Future Sight
+174	Dryad Arbor	Eric Fortune	Green	U	Future Sight
+5	Dust of Moments	Zoltan Boros & Gabor Szikszai	White	U	Future Sight
+144	Edge of Autumn	Jean-Sébastien Rossbach	Green	C	Future Sight
+97	Emberwilde Augur	Brandon Kitkouski	Red	C	Future Sight
+112	Emblem of the Warmind	Parente	Red	U	Future Sight
+162	Epochrasite	Michael Bruinsma		R	Future Sight
+6	Even the Odds	Shishizaru	White	U	Future Sight
+98	Fatal Attraction	Zoltan Boros & Gabor Szikszai	Red	C	Future Sight
+65	Festering March	Brandon Kitkouski	Black	U	Future Sight
+84	Fleshwrither	Dave Allsop	Black	U	Future Sight
+113	Flowstone Embrace	Vance Kovacs	Red	C	Future Sight
+114	Fomori Nomad	Raymond Swanland	Red	C	Future Sight
+126	Force of Savagery	Dan Scott	Green	R	Future Sight
+36	Foresee	Ron Spears	Blue	C	Future Sight
+85	Frenzy Sliver	Glen Angus	Black	C	Future Sight
+99	Gathan Raiders	Parente	Red	C	Future Sight
+115	Ghostfire	Cyril Van Der Haegen		C	Future Sight
+66	Gibbering Descent	Ittoku	Black	R	Future Sight
+7	Gift of Granite	Hideaki Takamura	White	C	Future Sight
+156	Glittering Wish	John Donahue	White/Green	R	Future Sight
+22	Goldmeadow Lookout	Steve Prescott	White	U	Future Sight
+67	Grave Peril	Daarken	Black	C	Future Sight
+86	Grave Scrabbler	Dave Allsop	Black	C	Future Sight
+175	Graven Cairns	Anthony S. Waters		R	Future Sight
+116	Grinning Ignus	James Kei	Red	C	Future Sight
+176	Grove of the Burnwillows	David Hudnut		R	Future Sight
+100	Haze of Rage	Parente	Red	U	Future Sight
+127	Heartwood Storyteller	Anthony S. Waters	Green	R	Future Sight
+117	Henchfiend of Ukor	Nils Hamm	Red	C	Future Sight
+118	Homing Sliver	Trevor Hairsine	Red	C	Future Sight
+177	Horizon Canopy	Michael Komarck		R	Future Sight
+68	Ichor Slick	Zoltan Boros & Gabor Szikszai	Black	C	Future Sight
+23	Imperial Mask	Christopher Moeller	White	R	Future Sight
+145	Imperiosaur	Lars Grant-West	Green	U	Future Sight
+37	Infiltrator il-Kor	Jon Foster	Blue	C	Future Sight
+8	Intervention Pact	Dave Kendall	White	R	Future Sight
+157	Jhoira of the Ghitu	Kev Walker	Blue/Red	R	Future Sight
+9	Judge Unworthy	Greg Staples	White	C	Future Sight
+128	Kavu Primarch	Kev Walker	Green	C	Future Sight
+170	Keldon Megaliths	Philip Straub		U	Future Sight
+10	Knight of Sursi	Cyril Van Der Haegen	White	C	Future Sight
+87	Korlash, Heir to Blackblade	Daarken	Black	R	Future Sight
+38	Leaden Fists	Shishizaru	Blue	C	Future Sight
+51	Linessa, Zephyr Mage	Jim Murray	Blue	R	Future Sight
+129	Llanowar Augur	Tsutomu Kawade	Green	C	Future Sight
+130	Llanowar Empath	Warren Mahy	Green	C	Future Sight
+131	Llanowar Mentor	Trevor Hairsine	Green	U	Future Sight
+171	Llanowar Reborn	Philip Straub		U	Future Sight
+52	Logic Knot	Glen Angus	Blue	C	Future Sight
+11	Lost Auramancers	Brandon Kitkouski	White	U	Future Sight
+69	Lost Hours	Jon Foster	Black	C	Future Sight
+24	Lucent Liminid	Eric Fortune	White	C	Future Sight
+25	Lumithread Field	Scott Altmann	White	C	Future Sight
+26	Lymph Sliver	Ittoku	White	C	Future Sight
+39	Maelstrom Djinn	Hideaki Takamura	Blue	R	Future Sight
+70	Magus of the Abyss	Kev Walker	Black	R	Future Sight
+40	Magus of the Future	Anthony Francisco	Blue	R	Future Sight
+12	Magus of the Moat	John Avon	White	R	Future Sight
+101	Magus of the Moon	Franz Vohwinkel	Red	R	Future Sight
+132	Magus of the Vineyard	Jim Murray	Green	R	Future Sight
+13	Marshaling Cry	Vance Kovacs	White	C	Future Sight
+88	Mass of Ghouls	Lucio Parrillo	Black	C	Future Sight
+53	Mesmeric Sliver	Michael Bruinsma	Blue	C	Future Sight
+71	Minions' Murmurs	Nils Hamm	Black	U	Future Sight
+27	Mistmeadow Skulk	Omar Rayyan	White	U	Future Sight
+102	Molten Disaster	Ittoku	Red	R	Future Sight
+146	Muraganda Petroglyphs	Scott Altmann	Green	R	Future Sight
+41	Mystic Speculation	Trevor Hairsine	Blue	U	Future Sight
+147	Nacatl War-Pride	James Kei	Green	U	Future Sight
+54	Narcomoeba	Matt Stewart	Blue	U	Future Sight
+148	Nessian Courser	Vance Kovacs	Green	C	Future Sight
+172	New Benalia	Richard Wright		U	Future Sight
+72	Nihilith	Dave Allsop	Black	R	Future Sight
+178	Nimbus Maze	Jason Chan		R	Future Sight
+55	Nix	Brian Despain	Blue	R	Future Sight
+73	Oblivion Crown	Kev Walker	Black	C	Future Sight
+28	Oriss, Samite Guardian	Michael Komarck	White	R	Future Sight
+42	Pact of Negation	Jason Chan	Blue	R	Future Sight
+103	Pact of the Titan	Raymond Swanland	Red	R	Future Sight
+29	Patrician's Scorn	John Avon	White	C	Future Sight
+133	Petrified Plating	Zoltan Boros & Gabor Szikszai	Green	C	Future Sight
+149	Phosphorescent Feast	David Hudnut	Green	U	Future Sight
+74	Pooling Venom	Ron Spears	Black	U	Future Sight
+75	Putrid Cyclops	Matt Cavotta	Black	C	Future Sight
+104	Pyromancer's Swath	Hideaki Takamura	Red	R	Future Sight
+150	Quagnoth	Thomas M. Baxa	Green	R	Future Sight
+134	Quiet Disrepair	Glen Angus	Green	C	Future Sight
+30	Ramosian Revivalist	Matt Stewart	White	U	Future Sight
+135	Ravaging Riftwurm	Michael Phillippi	Green	U	Future Sight
+43	Reality Strobe	Dan Scott	Blue	U	Future Sight
+105	Riddle of Lightning	Daren Bader	Red	C	Future Sight
+106	Rift Elemental	Ron Spears	Red	C	Future Sight
+136	Riftsweeper	Brian Despain	Green	U	Future Sight
+137	Rites of Flourishing	Brandon Kitkouski	Green	R	Future Sight
+179	River of Tears	Chris J. Anderson		R	Future Sight
+14	Saltskitter	Chippy	White	C	Future Sight
+15	Samite Censer-Bearer	William Simpson	White	C	Future Sight
+56	Sarcomite Myr	Michael Bruinsma	Blue	C	Future Sight
+107	Scourge of Kher Ridges	Daren Bader	Red	R	Future Sight
+16	Scout's Warning	Zoltan Boros & Gabor Szikszai	White	R	Future Sight
+57	Second Wind	Matt Stewart	Blue	U	Future Sight
+31	Seht's Tiger	Thomas Gianni	White	R	Future Sight
+119	Shah of Naar Isle	Jon Foster	Red	R	Future Sight
+58	Shapeshifter's Marrow	Chippy	Blue	R	Future Sight
+76	Shimian Specter	Anthony S. Waters	Black	R	Future Sight
+108	Shivan Sand-Mage	Dave Kendall	Red	U	Future Sight
+77	Skirk Ridge Exhumer	Michael Phillippi	Black	U	Future Sight
+120	Skizzik Surger	Lucio Parrillo	Red	U	Future Sight
+78	Slaughter Pact	Kev Walker	Black	R	Future Sight
+158	Sliver Legion	Ron Spears	White/Blue/Black/Red/Green	R	Future Sight
+163	Sliversmith	John Avon		U	Future Sight
+89	Snake Cult Initiation	Justin Sweet	Black	U	Future Sight
+164	Soultether Golem	Parente		U	Future Sight
+109	Sparkspitter	Dan Scott	Red	U	Future Sight
+59	Spellweaver Volute	Bud Cook	Blue	R	Future Sight
+151	Spellwild Ouphe	Scott Altmann	Green	U	Future Sight
+60	Spin into Myth	David Day	Blue	U	Future Sight
+17	Spirit en-Dal	Daren Bader	White	U	Future Sight
+152	Sporoloth Ancient	James Kei	Green	C	Future Sight
+138	Sprout Swarm	Chippy	Green	C	Future Sight
+121	Steamflogger Boss	Warren Mahy	Red	R	Future Sight
+122	Storm Entity	Lucio Parrillo	Red	U	Future Sight
+90	Street Wraith	Cyril Van Der Haegen	Black	U	Future Sight
+79	Stronghold Rats	Brandon Kitkouski	Black	U	Future Sight
+139	Summoner's Pact	Chippy	Green	R	Future Sight
+165	Sword of the Meek	Franz Vohwinkel		U	Future Sight
+44	Take Possession	Michael Phillippi	Blue	R	Future Sight
+153	Tarmogoyf	Justin Murray	Green	R	Future Sight
+123	Tarox Bladewing	Aleksi Briclot	Red	R	Future Sight
+154	Thornweald Archer	Dave Kendall	Green	C	Future Sight
+124	Thunderblade Charge	Justin Murray	Red	R	Future Sight
+173	Tolaria West	Khang Le		U	Future Sight
+91	Tombstalker	Aleksi Briclot	Black	R	Future Sight
+45	Unblinking Bleb	Shishizaru	Blue	C	Future Sight
+140	Utopia Mycon	Anthony S. Waters	Green	U	Future Sight
+61	Vedalken Æthermage	William Simpson	Blue	C	Future Sight
+166	Veilstone Amulet	Martina Pilcerova		R	Future Sight
+46	Venser, Shaper Savant	Aleksi Briclot	Blue	R	Future Sight
+47	Venser's Diffusion	Hideaki Takamura	Blue	C	Future Sight
+155	Virulent Sliver	Franz Vohwinkel	Green	C	Future Sight
+168	Whetwheel	Cyril Van Der Haegen		R	Future Sight
+62	Whip-Spine Drake	Eric Fortune	Blue	C	Future Sight
+92	Witch's Mist	Ittoku	Black	U	Future Sight
+141	Wrap in Vigor	John Donahue	Green	C	Future Sight
+93	Yixlid Jailer	Matt Cavotta	Black	U	Future Sight
+180	Zoetic Cavern	Lars Grant-West		U	Future Sight
